@@ -1,0 +1,60 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:11.756701",
+    "summary": "colander 1.7.0 - The URL validator regex has been updated to no longer be vulnerable to a\r\n  catastrophic backtracking that would have led to an infinite loop.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36856"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/colander@1.0a2",
+        "pkg:pypi/colander@0.4",
+        "pkg:pypi/colander@0.9.2",
+        "pkg:pypi/colander@0.9.7",
+        "pkg:pypi/colander@0.3",
+        "pkg:pypi/colander@1.0b1",
+        "pkg:pypi/colander@1.0a1",
+        "pkg:pypi/colander@0.7.2",
+        "pkg:pypi/colander@0.7.1",
+        "pkg:pypi/colander@0.9.8",
+        "pkg:pypi/colander@0.9.3",
+        "pkg:pypi/colander@0.7.3",
+        "pkg:pypi/colander@0.9.1",
+        "pkg:pypi/colander@0.1",
+        "pkg:pypi/colander@1.6.0",
+        "pkg:pypi/colander@1.3.2",
+        "pkg:pypi/colander@1.4",
+        "pkg:pypi/colander@0.5",
+        "pkg:pypi/colander@1.5",
+        "pkg:pypi/colander@0.5.1",
+        "pkg:pypi/colander@1.1",
+        "pkg:pypi/colander@1.3.3",
+        "pkg:pypi/colander@0.6.2",
+        "pkg:pypi/colander@0.9.4",
+        "pkg:pypi/colander@1.0a3",
+        "pkg:pypi/colander@1.3",
+        "pkg:pypi/colander@0.5.2",
+        "pkg:pypi/colander@0.9.9",
+        "pkg:pypi/colander@1.3.1",
+        "pkg:pypi/colander@1.0a5",
+        "pkg:pypi/colander@0.9",
+        "pkg:pypi/colander@0.7.0",
+        "pkg:pypi/colander@0.9.6",
+        "pkg:pypi/colander@1.5.1",
+        "pkg:pypi/colander@0.9.5",
+        "pkg:pypi/colander@1.0",
+        "pkg:pypi/colander@0.6.0",
+        "pkg:pypi/colander@0.6.1",
+        "pkg:pypi/colander@0.8",
+        "pkg:pypi/colander@0.2",
+        "pkg:pypi/colander@1.2",
+        "pkg:pypi/colander@1.0a4"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/colander@1.7.0",
+        "pkg:pypi/colander@1.8.2",
+        "pkg:pypi/colander@1.8.1",
+        "pkg:pypi/colander@1.8.0"
+    ]
+}

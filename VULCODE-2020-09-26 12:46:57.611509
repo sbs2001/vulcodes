@@ -1,0 +1,23 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:46:57.611509",
+    "summary": "Django-triggers 2.0.13 updates some dependencies to their latest secure versions.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37072"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/django-triggers@2.0.3",
+        "pkg:pypi/django-triggers@2.0.8",
+        "pkg:pypi/django-triggers@2.0.5",
+        "pkg:pypi/django-triggers@2.0.6",
+        "pkg:pypi/django-triggers@2.0.4",
+        "pkg:pypi/django-triggers@2.0.7"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/django-triggers@2.0.13",
+        "pkg:pypi/django-triggers@2.1.1",
+        "pkg:pypi/django-triggers@2.1.0"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:41.699801",
+    "summary": "Kiwi TCMS 6.3 resolves a medium severity XSS vulnerability which can be exploited when previewing malicious text in Simple MDE editor. Additionally, it uses `mozilla/bleach` before rendering Markdown to the user as a second layer of protection against the previously mentioned XSS vulnerability.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38542"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/kiwitcms@6.2.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/kiwitcms@7.3",
+        "pkg:pypi/kiwitcms@7.0",
+        "pkg:pypi/kiwitcms@7.1",
+        "pkg:pypi/kiwitcms@6.5",
+        "pkg:pypi/kiwitcms@7.2",
+        "pkg:pypi/kiwitcms@8.7",
+        "pkg:pypi/kiwitcms@8.1",
+        "pkg:pypi/kiwitcms@8.6",
+        "pkg:pypi/kiwitcms@6.5.3",
+        "pkg:pypi/kiwitcms@8.3",
+        "pkg:pypi/kiwitcms@6.11",
+        "pkg:pypi/kiwitcms@6.3",
+        "pkg:pypi/kiwitcms@7.2.1",
+        "pkg:pypi/kiwitcms@8.1.99",
+        "pkg:pypi/kiwitcms@6.6",
+        "pkg:pypi/kiwitcms@8.5",
+        "pkg:pypi/kiwitcms@8.4",
+        "pkg:pypi/kiwitcms@6.8",
+        "pkg:pypi/kiwitcms@8.6.1",
+        "pkg:pypi/kiwitcms@6.4",
+        "pkg:pypi/kiwitcms@6.10",
+        "pkg:pypi/kiwitcms@8.2",
+        "pkg:pypi/kiwitcms@8.0",
+        "pkg:pypi/kiwitcms@6.7",
+        "pkg:pypi/kiwitcms@6.9"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:44:53.578348",
+    "summary": "boss-cli 1.0.0alpha.20 fixes CVE-2018-18074 vulnerablility due to requests",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36595"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/boss-cli@0.2.2",
+        "pkg:pypi/boss-cli@1.0.0a18",
+        "pkg:pypi/boss-cli@1.0.0a13",
+        "pkg:pypi/boss-cli@1.0.0a8",
+        "pkg:pypi/boss-cli@0.2.1",
+        "pkg:pypi/boss-cli@1.0.0a7",
+        "pkg:pypi/boss-cli@1.0.0a12",
+        "pkg:pypi/boss-cli@1.0.0a6",
+        "pkg:pypi/boss-cli@0.0.1",
+        "pkg:pypi/boss-cli@1.0.0a17",
+        "pkg:pypi/boss-cli@1.0.0a10",
+        "pkg:pypi/boss-cli@1.0.0a2",
+        "pkg:pypi/boss-cli@1.0.0a3",
+        "pkg:pypi/boss-cli@1.0.0a5",
+        "pkg:pypi/boss-cli@0.1.1",
+        "pkg:pypi/boss-cli@1.0.0a15",
+        "pkg:pypi/boss-cli@0.2.0",
+        "pkg:pypi/boss-cli@1.0.0a11",
+        "pkg:pypi/boss-cli@1.0.0a19",
+        "pkg:pypi/boss-cli@1.0.0a4",
+        "pkg:pypi/boss-cli@1.0.0a14",
+        "pkg:pypi/boss-cli@1.0.0a9",
+        "pkg:pypi/boss-cli@1.0.0a1",
+        "pkg:pypi/boss-cli@1.0.0a16",
+        "pkg:pypi/boss-cli@0.3.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/boss-cli@1.0.3",
+        "pkg:pypi/boss-cli@1.0.0b5",
+        "pkg:pypi/boss-cli@1.0.0b6",
+        "pkg:pypi/boss-cli@1.0.0b2",
+        "pkg:pypi/boss-cli@1.0.0a20",
+        "pkg:pypi/boss-cli@1.0.1",
+        "pkg:pypi/boss-cli@1.0.0b4",
+        "pkg:pypi/boss-cli@1.0.1a1",
+        "pkg:pypi/boss-cli@1.0.0b3",
+        "pkg:pypi/boss-cli@1.0.3a1",
+        "pkg:pypi/boss-cli@1.0.0b1",
+        "pkg:pypi/boss-cli@1.0.0",
+        "pkg:pypi/boss-cli@1.0.2"
+    ]
+}

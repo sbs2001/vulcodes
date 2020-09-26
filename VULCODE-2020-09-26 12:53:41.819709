@@ -1,0 +1,29 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:53:41.819709",
+    "summary": "unicef-rest-export 0.5.2 updates django and pyyaml requirements for security patches",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36990"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/unicef-rest-export@0.5.1",
+        "pkg:pypi/unicef-rest-export@0.5.0",
+        "pkg:pypi/unicef-rest-export@0.4.1",
+        "pkg:pypi/unicef-rest-export@0.3.3",
+        "pkg:pypi/unicef-rest-export@0.3.4",
+        "pkg:pypi/unicef-rest-export@0.1.0",
+        "pkg:pypi/unicef-rest-export@0.2.0",
+        "pkg:pypi/unicef-rest-export@0.3.0",
+        "pkg:pypi/unicef-rest-export@0.4.3",
+        "pkg:pypi/unicef-rest-export@0.4.2",
+        "pkg:pypi/unicef-rest-export@0.2.1",
+        "pkg:pypi/unicef-rest-export@0.3.2",
+        "pkg:pypi/unicef-rest-export@0.3.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/unicef-rest-export@0.5.2",
+        "pkg:pypi/unicef-rest-export@0.5.3"
+    ]
+}

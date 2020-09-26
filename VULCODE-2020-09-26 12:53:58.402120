@@ -1,0 +1,39 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:53:58.402120",
+    "summary": "websockets 5.0 fixes a denial of service by memory exhaustion vulnerability.\r\n\r\n**Version 5.0 adds a** ``user_info`` **field to the return value of**\r\n    :func:`~uri.parse_uri` **and** :class:`~uri.WebSocketURI` **.**\r\n\r\n    If you're unpacking :class:`~websockets.WebSocketURI` into four variables,\r\n    adjust your code to account for that fifth field.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36234"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/websockets@4.0",
+        "pkg:pypi/websockets@4.0.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/websockets@3.2",
+        "pkg:pypi/websockets@8.0.2",
+        "pkg:pypi/websockets@2.1",
+        "pkg:pypi/websockets@5.0",
+        "pkg:pypi/websockets@5.0.1",
+        "pkg:pypi/websockets@3.1",
+        "pkg:pypi/websockets@6.0",
+        "pkg:pypi/websockets@3.3",
+        "pkg:pypi/websockets@8.1",
+        "pkg:pypi/websockets@2.7",
+        "pkg:pypi/websockets@2.6",
+        "pkg:pypi/websockets@1.0",
+        "pkg:pypi/websockets@2.5",
+        "pkg:pypi/websockets@3.4",
+        "pkg:pypi/websockets@7.0",
+        "pkg:pypi/websockets@2.3",
+        "pkg:pypi/websockets@2.4",
+        "pkg:pypi/websockets@2.2",
+        "pkg:pypi/websockets@2.0",
+        "pkg:pypi/websockets@8.0.1",
+        "pkg:pypi/websockets@3.0",
+        "pkg:pypi/websockets@8.0",
+        "pkg:pypi/websockets@0.1"
+    ]
+}

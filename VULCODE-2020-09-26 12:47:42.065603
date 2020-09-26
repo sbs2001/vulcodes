@@ -1,0 +1,42 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:47:42.065603",
+    "summary": "ftw.mail 2.2.3 makes mail view XSS-save using the safe-html transform for the mail-body display.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25833"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/ftw.mail@2.0",
+        "pkg:pypi/ftw.mail@1.0.4",
+        "pkg:pypi/ftw.mail@2.2.1",
+        "pkg:pypi/ftw.mail@2.1.0",
+        "pkg:pypi/ftw.mail@2.2.2",
+        "pkg:pypi/ftw.mail@2.2.0",
+        "pkg:pypi/ftw.mail@2.1.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/ftw.mail@2.5.4",
+        "pkg:pypi/ftw.mail@2.2.3",
+        "pkg:pypi/ftw.mail@2.5.1",
+        "pkg:pypi/ftw.mail@2.3.4",
+        "pkg:pypi/ftw.mail@2.3.6",
+        "pkg:pypi/ftw.mail@2.4.1",
+        "pkg:pypi/ftw.mail@2.5.0",
+        "pkg:pypi/ftw.mail@2.3.1",
+        "pkg:pypi/ftw.mail@2.5.3",
+        "pkg:pypi/ftw.mail@2.5.5",
+        "pkg:pypi/ftw.mail@2.3.5",
+        "pkg:pypi/ftw.mail@2.3.2",
+        "pkg:pypi/ftw.mail@2.5.2",
+        "pkg:pypi/ftw.mail@2.7.0",
+        "pkg:pypi/ftw.mail@2.3.0",
+        "pkg:pypi/ftw.mail@2.6.1",
+        "pkg:pypi/ftw.mail@2.6.0",
+        "pkg:pypi/ftw.mail@2.4.0",
+        "pkg:pypi/ftw.mail@2.3.3",
+        "pkg:pypi/ftw.mail@2.6.2",
+        "pkg:pypi/ftw.mail@2.3.7"
+    ]
+}

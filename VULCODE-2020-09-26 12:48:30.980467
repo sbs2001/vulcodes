@@ -1,0 +1,29 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:30.980467",
+    "summary": "Jumpssh 1.6.3 removes pytest-runner from setup_requires as this is deprecated for security reasons, see https://github.com/pytest-dev/pytest-runner",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38051"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/jumpssh@1.0.1",
+        "pkg:pypi/jumpssh@1.3.0",
+        "pkg:pypi/jumpssh@1.4.0",
+        "pkg:pypi/jumpssh@1.1.0",
+        "pkg:pypi/jumpssh@1.3.1",
+        "pkg:pypi/jumpssh@1.4.1",
+        "pkg:pypi/jumpssh@1.6.1",
+        "pkg:pypi/jumpssh@1.5.1",
+        "pkg:pypi/jumpssh@1.0.2",
+        "pkg:pypi/jumpssh@1.0.0",
+        "pkg:pypi/jumpssh@1.2.1",
+        "pkg:pypi/jumpssh@1.3.2",
+        "pkg:pypi/jumpssh@1.2.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/jumpssh@1.6.3",
+        "pkg:pypi/jumpssh@1.6.4"
+    ]
+}

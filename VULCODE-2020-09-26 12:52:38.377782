@@ -1,0 +1,18 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:52:38.377782",
+    "summary": "stormpath-sdk before 2.5.0 doesn't validate JWT correctly.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-26146"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/stormpath-sdk@0.1.0",
+        "pkg:pypi/stormpath-sdk@0.2.1",
+        "pkg:pypi/stormpath-sdk@0.2.0",
+        "pkg:pypi/stormpath-sdk@0.1.1",
+        "pkg:pypi/stormpath-sdk@1.0.0.beta"
+    ],
+    "resolved_packages": []
+}

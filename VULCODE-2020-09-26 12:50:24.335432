@@ -1,0 +1,30 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:50:24.335432",
+    "summary": "plone.openid before 2.0.2 is not using the system number generator, even if it is available.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-26010"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/plone.openid@1.0b1",
+        "pkg:pypi/plone.openid@1.2",
+        "pkg:pypi/plone.openid@1.0b2",
+        "pkg:pypi/plone.openid@2.0",
+        "pkg:pypi/plone.openid@0.9",
+        "pkg:pypi/plone.openid@1.1.1",
+        "pkg:pypi/plone.openid@1.0rc1",
+        "pkg:pypi/plone.openid@1.1",
+        "pkg:pypi/plone.openid@1.0b3",
+        "pkg:pypi/plone.openid@1.0",
+        "pkg:pypi/plone.openid@2.0.1",
+        "pkg:pypi/plone.openid@1.0.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/plone.openid@2.0.3",
+        "pkg:pypi/plone.openid@2.0.2",
+        "pkg:pypi/plone.openid@2.0.5",
+        "pkg:pypi/plone.openid@2.0.4"
+    ]
+}

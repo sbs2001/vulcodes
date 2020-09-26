@@ -1,0 +1,27 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:53:59.563996",
+    "summary": "Wordops 3.9.6 adds fail2ban with custom jails to secure WordPress & SSH.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37540"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/wordops@3.10.3",
+        "pkg:pypi/wordops@3.12.1",
+        "pkg:pypi/wordops@3.11.3",
+        "pkg:pypi/wordops@3.10.2",
+        "pkg:pypi/wordops@3.11.1",
+        "pkg:pypi/wordops@3.10.1",
+        "pkg:pypi/wordops@3.9.9.4",
+        "pkg:pypi/wordops@3.11.4",
+        "pkg:pypi/wordops@3.9.9.2",
+        "pkg:pypi/wordops@3.12.2",
+        "pkg:pypi/wordops@3.11.0",
+        "pkg:pypi/wordops@3.10.0",
+        "pkg:pypi/wordops@3.11.2",
+        "pkg:pypi/wordops@3.12.0"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:52:01.303508",
+    "summary": "River-admin 0.5.2 fixes a vulnerability issue with `serialize-javascript` dependency.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37698"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/river-admin@0.3.0",
+        "pkg:pypi/river-admin@0.2.0",
+        "pkg:pypi/river-admin@0.5.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/river-admin@0.5.2",
+        "pkg:pypi/river-admin@0.6.0"
+    ]
+}

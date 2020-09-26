@@ -1,0 +1,20 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:47:00.171355",
+    "summary": "Django-urlconf-export 1.1.1 updates Django in pipfile.lock to address a security vulnerability.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38386"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/django-urlconf-export@1.1.0",
+        "pkg:pypi/django-urlconf-export@1.0.2",
+        "pkg:pypi/django-urlconf-export@1.0.4",
+        "pkg:pypi/django-urlconf-export@1.0.3",
+        "pkg:pypi/django-urlconf-export@1.0.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/django-urlconf-export@1.1.1"
+    ]
+}

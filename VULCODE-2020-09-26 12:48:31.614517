@@ -1,0 +1,32 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:31.614517",
+    "summary": "kalliope 0.5.3 update request lib to fix security vulnerabilities.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36808"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/kalliope@0.4.1",
+        "pkg:pypi/kalliope@0.3.0",
+        "pkg:pypi/kalliope@0.5.2",
+        "pkg:pypi/kalliope@0.4.3",
+        "pkg:pypi/kalliope@0.5.2.1",
+        "pkg:pypi/kalliope@0.4.2",
+        "pkg:pypi/kalliope@0.4.6",
+        "pkg:pypi/kalliope@0.4.4",
+        "pkg:pypi/kalliope@0.5.1",
+        "pkg:pypi/kalliope@0.5.0",
+        "pkg:pypi/kalliope@0.4.0",
+        "pkg:pypi/kalliope@0.4.5"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/kalliope@0.6.1",
+        "pkg:pypi/kalliope@0.5.3",
+        "pkg:pypi/kalliope@0.7.0",
+        "pkg:pypi/kalliope@0.5.4",
+        "pkg:pypi/kalliope@0.6.0",
+        "pkg:pypi/kalliope@0.5.5"
+    ]
+}

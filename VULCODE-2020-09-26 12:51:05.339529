@@ -1,0 +1,20 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:05.339529",
+    "summary": "pyradiomics before 1.1.1 used `eval`which is not secure.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36302"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/pyradiomics@3.0",
+        "pkg:pypi/pyradiomics@2.0.0",
+        "pkg:pypi/pyradiomics@2.1.0",
+        "pkg:pypi/pyradiomics@2.2.0",
+        "pkg:pypi/pyradiomics@2.1.1",
+        "pkg:pypi/pyradiomics@2.1.2",
+        "pkg:pypi/pyradiomics@2.0.1"
+    ]
+}

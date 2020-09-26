@@ -1,0 +1,21 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:19.003219",
+    "summary": "Cookie-manager 1.0.3 bumps dependency versions to fix a security issue.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38106"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/cookie-manager@1.0.0",
+        "pkg:pypi/cookie-manager@1.0.2",
+        "pkg:pypi/cookie-manager@0.1.0",
+        "pkg:pypi/cookie-manager@0.0.1",
+        "pkg:pypi/cookie-manager@1.0.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/cookie-manager@1.1.0",
+        "pkg:pypi/cookie-manager@1.0.3"
+    ]
+}

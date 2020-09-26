@@ -1,0 +1,29 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:47:17.496144",
+    "summary": "In ecdsa 0.14, deterministic signatures verify that the signature won't leak private key through very unlikely selection of `k` value (the nonce). Nonce bit size hiding was added (hardening against Minerva attack). Please note that it DOES NOT make library secure against side channel attacks (timing attacks).",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37637"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/ecdsa@0.13.2",
+        "pkg:pypi/ecdsa@0.12",
+        "pkg:pypi/ecdsa@0.13.3",
+        "pkg:pypi/ecdsa@0.10",
+        "pkg:pypi/ecdsa@0.13.1",
+        "pkg:pypi/ecdsa@0.13",
+        "pkg:pypi/ecdsa@0.8",
+        "pkg:pypi/ecdsa@0.7",
+        "pkg:pypi/ecdsa@0.6",
+        "pkg:pypi/ecdsa@0.11",
+        "pkg:pypi/ecdsa@0.9"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/ecdsa@0.14.1",
+        "pkg:pypi/ecdsa@0.15",
+        "pkg:pypi/ecdsa@0.16.0",
+        "pkg:pypi/ecdsa@0.14"
+    ]
+}

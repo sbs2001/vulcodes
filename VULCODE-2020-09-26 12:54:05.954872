@@ -1,0 +1,49 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:54:05.954872",
+    "summary": "yaybu before 0.1.14 doesn't set file system permissions before content is written.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-26177"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/yaybu@0.1.4",
+        "pkg:pypi/yaybu@0.1.3",
+        "pkg:pypi/yaybu@0.1.12",
+        "pkg:pypi/yaybu@0.1.6",
+        "pkg:pypi/yaybu@0.1.2",
+        "pkg:pypi/yaybu@0.1.10",
+        "pkg:pypi/yaybu@0.1.9",
+        "pkg:pypi/yaybu@0.1.11",
+        "pkg:pypi/yaybu@0.1.0",
+        "pkg:pypi/yaybu@0.1.1",
+        "pkg:pypi/yaybu@0.1.13",
+        "pkg:pypi/yaybu@0.1.7",
+        "pkg:pypi/yaybu@0.1.8",
+        "pkg:pypi/yaybu@0.1.5"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/yaybu@0.1.15",
+        "pkg:pypi/yaybu@0.1.24",
+        "pkg:pypi/yaybu@0.1.26",
+        "pkg:pypi/yaybu@0.1.28",
+        "pkg:pypi/yaybu@0.1.20",
+        "pkg:pypi/yaybu@0.1.25",
+        "pkg:pypi/yaybu@0.1.23",
+        "pkg:pypi/yaybu@3.0",
+        "pkg:pypi/yaybu@0.1.17",
+        "pkg:pypi/yaybu@0.1.22",
+        "pkg:pypi/yaybu@0.1.18",
+        "pkg:pypi/yaybu@0.1.14",
+        "pkg:pypi/yaybu@3.1.1",
+        "pkg:pypi/yaybu@0.2.2",
+        "pkg:pypi/yaybu@0.2.3",
+        "pkg:pypi/yaybu@0.2.0",
+        "pkg:pypi/yaybu@0.1.19",
+        "pkg:pypi/yaybu@0.1.21",
+        "pkg:pypi/yaybu@0.1.16",
+        "pkg:pypi/yaybu@3.1",
+        "pkg:pypi/yaybu@0.1.27"
+    ]
+}

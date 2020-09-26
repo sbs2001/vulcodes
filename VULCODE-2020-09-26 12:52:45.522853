@@ -1,0 +1,20 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:52:45.522853",
+    "summary": "tahoe-lafs before 1.2.0 doesn't make the immutable-file \"ciphertext hash tree\" mandatory.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-26152"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/tahoe-lafs@0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/tahoe-lafs@1.12.0",
+        "pkg:pypi/tahoe-lafs@1.14.0",
+        "pkg:pypi/tahoe-lafs@1.13.0",
+        "pkg:pypi/tahoe-lafs@1.11.0",
+        "pkg:pypi/tahoe-lafs@1.12.1"
+    ]
+}

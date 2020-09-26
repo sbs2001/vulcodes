@@ -1,0 +1,20 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:52:43.081645",
+    "summary": "Synse 2.1.2 updates dependencies to fix a security vulnerability. See: <https://github.com/vapor-ware/synse-server/pull/210>.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38512"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/synse@1.0.0",
+        "pkg:pypi/synse@0.0.2"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/synse@3.0.0a3",
+        "pkg:pypi/synse@3.0.0a5",
+        "pkg:pypi/synse@3.0.0a4",
+        "pkg:pypi/synse@3.0.0a6"
+    ]
+}

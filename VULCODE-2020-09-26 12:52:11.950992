@@ -1,0 +1,52 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:52:11.950992",
+    "summary": "Seed-message-sender 0.10.9 includes upgrades of dependencies with security vulnerabilities.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37436"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/seed-message-sender@0.9.7",
+        "pkg:pypi/seed-message-sender@0.9.14",
+        "pkg:pypi/seed-message-sender@0.9.9",
+        "pkg:pypi/seed-message-sender@0.9.1",
+        "pkg:pypi/seed-message-sender@0.10.8",
+        "pkg:pypi/seed-message-sender@0.10.6",
+        "pkg:pypi/seed-message-sender@0.9.21",
+        "pkg:pypi/seed-message-sender@0.10.1",
+        "pkg:pypi/seed-message-sender@0.9.18",
+        "pkg:pypi/seed-message-sender@0.10.2",
+        "pkg:pypi/seed-message-sender@0.9.19",
+        "pkg:pypi/seed-message-sender@0.9.4",
+        "pkg:pypi/seed-message-sender@0.9.15",
+        "pkg:pypi/seed-message-sender@0.10.7",
+        "pkg:pypi/seed-message-sender@0.9.3",
+        "pkg:pypi/seed-message-sender@0.9.17",
+        "pkg:pypi/seed-message-sender@0.9.2",
+        "pkg:pypi/seed-message-sender@0.10.3",
+        "pkg:pypi/seed-message-sender@0.9.24",
+        "pkg:pypi/seed-message-sender@0.9.20",
+        "pkg:pypi/seed-message-sender@0.9.23",
+        "pkg:pypi/seed-message-sender@0.9.6",
+        "pkg:pypi/seed-message-sender@0.10.4",
+        "pkg:pypi/seed-message-sender@0.9.11",
+        "pkg:pypi/seed-message-sender@0.9.0",
+        "pkg:pypi/seed-message-sender@0.9.25",
+        "pkg:pypi/seed-message-sender@0.10.5",
+        "pkg:pypi/seed-message-sender@0.9.5",
+        "pkg:pypi/seed-message-sender@0.9.8",
+        "pkg:pypi/seed-message-sender@0.9.26",
+        "pkg:pypi/seed-message-sender@0.9.13",
+        "pkg:pypi/seed-message-sender@0.9.16",
+        "pkg:pypi/seed-message-sender@0.10.0",
+        "pkg:pypi/seed-message-sender@0.9.22",
+        "pkg:pypi/seed-message-sender@0.9.12"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/seed-message-sender@0.10.10",
+        "pkg:pypi/seed-message-sender@0.10.9",
+        "pkg:pypi/seed-message-sender@0.10.11"
+    ]
+}

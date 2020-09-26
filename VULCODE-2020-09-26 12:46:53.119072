@@ -1,0 +1,17 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:46:53.119072",
+    "summary": "Django-perms-provisioner 0.0.4 updates PyYAML to a more secure version.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38289"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/django-perms-provisioner@0.0.3",
+        "pkg:pypi/django-perms-provisioner@0.0.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/django-perms-provisioner@0.0.4"
+    ]
+}

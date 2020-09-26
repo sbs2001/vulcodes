@@ -1,0 +1,40 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:15.333368",
+    "summary": "In confidant 5.0.0, requirements have been updated to resolve some reported security vulnerabilities in a few of the frozen requirements. A library affecting user sessions was upgraded which will cause users to be logged out after upgrade, which means if you're doing a rolling upgrade, that during the upgrade, you may have users that seemingly randomly get logged out. After a finished upgrade, users should only be logged out once, if they're currently logged in.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37471"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/confidant@1.1.20",
+        "pkg:pypi/confidant@4.2.0",
+        "pkg:pypi/confidant@1.8.0",
+        "pkg:pypi/confidant@1.4.0",
+        "pkg:pypi/confidant@1.5.1",
+        "pkg:pypi/confidant@1.9.0",
+        "pkg:pypi/confidant@1.5.0",
+        "pkg:pypi/confidant@1.1.19",
+        "pkg:pypi/confidant@1.2.0",
+        "pkg:pypi/confidant@1.1.21",
+        "pkg:pypi/confidant@1.11.0",
+        "pkg:pypi/confidant@1.6.0",
+        "pkg:pypi/confidant@4.0.0",
+        "pkg:pypi/confidant@4.4.0",
+        "pkg:pypi/confidant@4.1.0",
+        "pkg:pypi/confidant@1.3.0",
+        "pkg:pypi/confidant@1.10.1",
+        "pkg:pypi/confidant@4.3.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/confidant@5.1.0",
+        "pkg:pypi/confidant@6.1.0",
+        "pkg:pypi/confidant@5.2.0",
+        "pkg:pypi/confidant@5.0.0",
+        "pkg:pypi/confidant@6.0.0",
+        "pkg:pypi/confidant@6.2.0",
+        "pkg:pypi/confidant@6.3.0",
+        "pkg:pypi/confidant@5.0.1"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:31.488930",
+    "summary": "notable 0.0.6 fixes a security regression in the new BoltDB backend.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-34447"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/notable@0.0.4",
+        "pkg:pypi/notable@0.0.1",
+        "pkg:pypi/notable@0.0.2a",
+        "pkg:pypi/notable@0.0.3",
+        "pkg:pypi/notable@0.0.5",
+        "pkg:pypi/notable@0.0.2"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/notable@0.1.4b",
+        "pkg:pypi/notable@0.0.7",
+        "pkg:pypi/notable@0.1.6",
+        "pkg:pypi/notable@0.3.0",
+        "pkg:pypi/notable@0.4.2",
+        "pkg:pypi/notable@0.3.1",
+        "pkg:pypi/notable@0.1.7",
+        "pkg:pypi/notable@0.1.1b",
+        "pkg:pypi/notable@0.1.2b",
+        "pkg:pypi/notable@0.4.1",
+        "pkg:pypi/notable@0.4.0",
+        "pkg:pypi/notable@0.0.6a",
+        "pkg:pypi/notable@0.2.0",
+        "pkg:pypi/notable@0.1.5b",
+        "pkg:pypi/notable@0.0.6b",
+        "pkg:pypi/notable@0.1.3b",
+        "pkg:pypi/notable@0.1.0b",
+        "pkg:pypi/notable@0.0.6"
+    ]
+}

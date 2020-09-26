@@ -1,0 +1,15 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:52:02.484199",
+    "summary": "rs-django-jet 1.0.4 fixes security issue with accessing model_lookup_view (when using RelatedFieldAjaxListFilter) without permissions.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36903"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/rs-django-jet@1.0.9",
+        "pkg:pypi/rs-django-jet@1.0.10"
+    ]
+}

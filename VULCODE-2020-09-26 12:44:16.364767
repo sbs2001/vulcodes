@@ -1,0 +1,21 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:44:16.364767",
+    "summary": "anncolvar 0.4 updates requirements.txt to fix security issues.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36803"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/anncolvar@0.3",
+        "pkg:pypi/anncolvar@0.2"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/anncolvar@0.4",
+        "pkg:pypi/anncolvar@0.7",
+        "pkg:pypi/anncolvar@0.5",
+        "pkg:pypi/anncolvar@0.8",
+        "pkg:pypi/anncolvar@0.6"
+    ]
+}

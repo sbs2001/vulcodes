@@ -1,0 +1,41 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:21.762895",
+    "summary": "Python-secrets before 19.8.0 adds insecure permissions checking",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37401"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/python-secrets@18.11.5",
+        "pkg:pypi/python-secrets@18.9.3",
+        "pkg:pypi/python-secrets@0.10.0",
+        "pkg:pypi/python-secrets@18.11.0",
+        "pkg:pypi/python-secrets@19.4.4",
+        "pkg:pypi/python-secrets@0.3.6",
+        "pkg:pypi/python-secrets@18.9.0",
+        "pkg:pypi/python-secrets@0.3.4",
+        "pkg:pypi/python-secrets@0.14.0",
+        "pkg:pypi/python-secrets@19.5.1",
+        "pkg:pypi/python-secrets@18.11.1",
+        "pkg:pypi/python-secrets@19.3.1",
+        "pkg:pypi/python-secrets@0.16.0",
+        "pkg:pypi/python-secrets@0.4.0",
+        "pkg:pypi/python-secrets@0.8.0",
+        "pkg:pypi/python-secrets@0.9.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/python-secrets@19.11.1",
+        "pkg:pypi/python-secrets@19.8.2",
+        "pkg:pypi/python-secrets@19.12.0",
+        "pkg:pypi/python-secrets@19.8.3",
+        "pkg:pypi/python-secrets@20.4.2106",
+        "pkg:pypi/python-secrets@19.9.0",
+        "pkg:pypi/python-secrets@19.10.1",
+        "pkg:pypi/python-secrets@20.8.1",
+        "pkg:pypi/python-secrets@19.11.0",
+        "pkg:pypi/python-secrets@20.2.15",
+        "pkg:pypi/python-secrets@19.8.1"
+    ]
+}

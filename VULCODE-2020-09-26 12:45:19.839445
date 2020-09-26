@@ -1,0 +1,14 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:19.839445",
+    "summary": "creavel 0.14.0 fixes jinja2 security by using SandboxedEnvironment.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25674"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/creavel@0.11.0"
+    ],
+    "resolved_packages": []
+}

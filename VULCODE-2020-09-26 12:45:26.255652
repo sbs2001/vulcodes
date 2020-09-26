@@ -1,0 +1,61 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:26.255652",
+    "summary": "In cssutils before 0.9.6a2 comments added by ``cssutils.resolveImports`` only use the import rules' href and not the absolute href of the referenced sheets anymore (might have been a possible security hole when showing a full local path to a sheet in a combined but not minified sheet)",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25684"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/cssutils@0.9.4b1",
+        "pkg:pypi/cssutils@0.9.5a2",
+        "pkg:pypi/cssutils@0.9.5rc1",
+        "pkg:pypi/cssutils@0.9.5a3",
+        "pkg:pypi/cssutils@0.9.5b2",
+        "pkg:pypi/cssutils@0.9.2b3",
+        "pkg:pypi/cssutils@0.9.5rc2",
+        "pkg:pypi/cssutils@0.9.3a1",
+        "pkg:pypi/cssutils@0.9.6a1",
+        "pkg:pypi/cssutils@0.9.6a0",
+        "pkg:pypi/cssutils@0.9.5",
+        "pkg:pypi/cssutils@0.9.4a2",
+        "pkg:pypi/cssutils@0.9.4a4",
+        "pkg:pypi/cssutils@0.9.5b1",
+        "pkg:pypi/cssutils@0.9.4a3",
+        "pkg:pypi/cssutils@0.9.5.1",
+        "pkg:pypi/cssutils@0.9.5a4",
+        "pkg:pypi/cssutils@0.9.5b3",
+        "pkg:pypi/cssutils@0.9.5a1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/cssutils@0.9.7b3",
+        "pkg:pypi/cssutils@0.9.7",
+        "pkg:pypi/cssutils@0.9.6b5",
+        "pkg:pypi/cssutils@0.9.7a5",
+        "pkg:pypi/cssutils@0.9.8a3",
+        "pkg:pypi/cssutils@1.0.1",
+        "pkg:pypi/cssutils@0.9.7b4",
+        "pkg:pypi/cssutils@0.9.6a3",
+        "pkg:pypi/cssutils@0.9.8a1",
+        "pkg:pypi/cssutils@1.0",
+        "pkg:pypi/cssutils@0.9.9",
+        "pkg:pypi/cssutils@0.9.7a6",
+        "pkg:pypi/cssutils@1.0.2",
+        "pkg:pypi/cssutils@0.9.6b4",
+        "pkg:pypi/cssutils@0.9.6",
+        "pkg:pypi/cssutils@0.9.7b1",
+        "pkg:pypi/cssutils@0.9.8",
+        "pkg:pypi/cssutils@0.9.7b2",
+        "pkg:pypi/cssutils@0.9.7a3",
+        "pkg:pypi/cssutils@0.9.7a2",
+        "pkg:pypi/cssutils@0.9.6b3",
+        "pkg:pypi/cssutils@0.9.8a2",
+        "pkg:pypi/cssutils@0.9.10",
+        "pkg:pypi/cssutils@0.9.6b1",
+        "pkg:pypi/cssutils@0.9.10b1",
+        "pkg:pypi/cssutils@0.9.6a2",
+        "pkg:pypi/cssutils@0.9.7a4",
+        "pkg:pypi/cssutils@0.9.6a4"
+    ]
+}

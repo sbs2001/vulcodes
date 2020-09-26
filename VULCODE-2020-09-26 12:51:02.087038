@@ -1,0 +1,24 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:02.087038",
+    "summary": "pynoorm 0.4.2 updates PyYaml to 4.2b4 to fix security vulnerability",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36789"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/pynoorm@0.1.1",
+        "pkg:pypi/pynoorm@0.2.0",
+        "pkg:pypi/pynoorm@0.4.0",
+        "pkg:pypi/pynoorm@0.3.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/pynoorm@0.4.4",
+        "pkg:pypi/pynoorm@0.4.3",
+        "pkg:pypi/pynoorm@1.0.1",
+        "pkg:pypi/pynoorm@1.0.2",
+        "pkg:pypi/pynoorm@0.4.2",
+        "pkg:pypi/pynoorm@1.0.0"
+    ]
+}

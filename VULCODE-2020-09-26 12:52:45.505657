@@ -1,0 +1,20 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:52:45.505657",
+    "summary": "Synse v2.2.4 updates requests dep for CVE-2018-18074. See: <https://github.com/vapor-ware/synse-server/pull/225>.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38511"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/synse@1.0.0",
+        "pkg:pypi/synse@0.0.2"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/synse@3.0.0a5",
+        "pkg:pypi/synse@3.0.0a4",
+        "pkg:pypi/synse@3.0.0a6",
+        "pkg:pypi/synse@3.0.0a3"
+    ]
+}

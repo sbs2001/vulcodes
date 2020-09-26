@@ -1,0 +1,25 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:47:33.907084",
+    "summary": "Flask-flatpages 0.7.1 updates its dependencies to resolve some severe security alerts.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37077"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/flask-flatpages@0.3",
+        "pkg:pypi/flask-flatpages@0.6",
+        "pkg:pypi/flask-flatpages@0.1dev",
+        "pkg:pypi/flask-flatpages@0.1",
+        "pkg:pypi/flask-flatpages@0.2",
+        "pkg:pypi/flask-flatpages@0.6.1",
+        "pkg:pypi/flask-flatpages@0.7.0",
+        "pkg:pypi/flask-flatpages@0.4",
+        "pkg:pypi/flask-flatpages@0.5"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/flask-flatpages@0.7.1",
+        "pkg:pypi/flask-flatpages@0.7.2"
+    ]
+}

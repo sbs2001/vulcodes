@@ -1,0 +1,14 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:46:42.662214",
+    "summary": "django-dajaxice-me  0.1.7 fixes the dajaxice callback model to improve security against XSS attacks.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25752"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/django-dajaxice-me@0.8"
+    ]
+}

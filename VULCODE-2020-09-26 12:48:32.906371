@@ -1,0 +1,26 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:32.906371",
+    "summary": "katal before 0.0.6 uses eval() internally.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-34247"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/katal@0.3.2",
+        "pkg:pypi/katal@0.2.7",
+        "pkg:pypi/katal@0.2.1",
+        "pkg:pypi/katal@0.3",
+        "pkg:pypi/katal@0.2.4",
+        "pkg:pypi/katal@0.3.3",
+        "pkg:pypi/katal@0.2.6",
+        "pkg:pypi/katal@0.3.1",
+        "pkg:pypi/katal@0.2.2",
+        "pkg:pypi/katal@0.2.5",
+        "pkg:pypi/katal@0.2.9",
+        "pkg:pypi/katal@0.2.3",
+        "pkg:pypi/katal@0.2.8"
+    ]
+}

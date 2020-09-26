@@ -1,0 +1,25 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:54.759939",
+    "summary": "Maestrowf 1.1.6 updates PyYAML to a more secure version.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38297"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/maestrowf@1.0.1",
+        "pkg:pypi/maestrowf@1.1.3",
+        "pkg:pypi/maestrowf@1.1.4",
+        "pkg:pypi/maestrowf@1.0.0",
+        "pkg:pypi/maestrowf@1.1.1",
+        "pkg:pypi/maestrowf@1.1.2",
+        "pkg:pypi/maestrowf@1.1.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/maestrowf@1.1.7.dev0",
+        "pkg:pypi/maestrowf@1.1.8",
+        "pkg:pypi/maestrowf@1.1.7",
+        "pkg:pypi/maestrowf@1.1.6"
+    ]
+}

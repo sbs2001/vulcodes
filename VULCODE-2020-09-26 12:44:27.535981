@@ -1,0 +1,34 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:44:27.535981",
+    "summary": "Aws-parallelcluster 2.4.0 removes AWS credentials from the ``parallelcluster`` config file for a better security posture. Credentials can now be set up following the canonical procedure used for the aws cli.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37211"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/aws-parallelcluster@2.0.0",
+        "pkg:pypi/aws-parallelcluster@2.0.0rc1",
+        "pkg:pypi/aws-parallelcluster@2.3.1",
+        "pkg:pypi/aws-parallelcluster@2.3.2a1",
+        "pkg:pypi/aws-parallelcluster@2.0.2",
+        "pkg:pypi/aws-parallelcluster@2.1.0",
+        "pkg:pypi/aws-parallelcluster@2.1.1",
+        "pkg:pypi/aws-parallelcluster@2.2.1",
+        "pkg:pypi/aws-parallelcluster@2.0.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/aws-parallelcluster@2.9.0",
+        "pkg:pypi/aws-parallelcluster@2.8.1",
+        "pkg:pypi/aws-parallelcluster@2.6.1",
+        "pkg:pypi/aws-parallelcluster@2.5.0",
+        "pkg:pypi/aws-parallelcluster@2.5.1",
+        "pkg:pypi/aws-parallelcluster@2.4.0",
+        "pkg:pypi/aws-parallelcluster@2.7.0",
+        "pkg:pypi/aws-parallelcluster@2.9.1",
+        "pkg:pypi/aws-parallelcluster@2.6.0",
+        "pkg:pypi/aws-parallelcluster@2.4.1",
+        "pkg:pypi/aws-parallelcluster@2.8.0"
+    ]
+}

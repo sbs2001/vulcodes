@@ -1,0 +1,40 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:47:19.229965",
+    "summary": "electrumx before 1.4.1 did not use PROTOCOL_MIN to 1.0; this did not prevent 2.9.x clients from connecting\r\n  and encouraging upgrades to more recent clients without the security hole.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36324"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/electrumx@1.8.8",
+        "pkg:pypi/electrumx@1.6",
+        "pkg:pypi/electrumx@1.7.2",
+        "pkg:pypi/electrumx@1.8.1",
+        "pkg:pypi/electrumx@1.10.1",
+        "pkg:pypi/electrumx@1.11.0",
+        "pkg:pypi/electrumx@1.5.2",
+        "pkg:pypi/electrumx@1.7.1",
+        "pkg:pypi/electrumx@1.7",
+        "pkg:pypi/electrumx@1.8.2",
+        "pkg:pypi/electrumx@1.13.0",
+        "pkg:pypi/electrumx@1.8.12",
+        "pkg:pypi/electrumx@1.10.0",
+        "pkg:pypi/electrumx@1.9.5",
+        "pkg:pypi/electrumx@1.8.3",
+        "pkg:pypi/electrumx@1.8.10",
+        "pkg:pypi/electrumx@1.9.2",
+        "pkg:pypi/electrumx@1.7.3",
+        "pkg:pypi/electrumx@1.9.1",
+        "pkg:pypi/electrumx@1.8.6",
+        "pkg:pypi/electrumx@1.15.0",
+        "pkg:pypi/electrumx@1.9.0",
+        "pkg:pypi/electrumx@1.8.4",
+        "pkg:pypi/electrumx@1.9.4",
+        "pkg:pypi/electrumx@1.14.0",
+        "pkg:pypi/electrumx@1.12.0",
+        "pkg:pypi/electrumx@1.9.3"
+    ]
+}

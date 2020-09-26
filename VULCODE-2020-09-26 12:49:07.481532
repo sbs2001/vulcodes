@@ -1,0 +1,38 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:07.481532",
+    "summary": "metadataproxy before 1.1.1 has a flaw in the proxy functionality when used in passthrough mode that would expose the host's IAM role credentials when extra paths were added to the end of the security-credentials end-point. metadataproxy will now properly capture any call to iam/security-credentials/<role> and return the scoped credentials, rather than the host's credentials.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25888"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/metadataproxy@1.5.2",
+        "pkg:pypi/metadataproxy@2.1.0",
+        "pkg:pypi/metadataproxy@1.2.4",
+        "pkg:pypi/metadataproxy@1.2.5",
+        "pkg:pypi/metadataproxy@2.0.0",
+        "pkg:pypi/metadataproxy@1.1.2",
+        "pkg:pypi/metadataproxy@1.3.0",
+        "pkg:pypi/metadataproxy@1.3.1",
+        "pkg:pypi/metadataproxy@1.2.3",
+        "pkg:pypi/metadataproxy@1.6.0",
+        "pkg:pypi/metadataproxy@1.2.1",
+        "pkg:pypi/metadataproxy@1.4.0",
+        "pkg:pypi/metadataproxy@1.1.4",
+        "pkg:pypi/metadataproxy@1.5.1",
+        "pkg:pypi/metadataproxy@1.1.1",
+        "pkg:pypi/metadataproxy@1.10.0",
+        "pkg:pypi/metadataproxy@1.8.0",
+        "pkg:pypi/metadataproxy@1.9.0",
+        "pkg:pypi/metadataproxy@1.7.0",
+        "pkg:pypi/metadataproxy@1.3.2",
+        "pkg:pypi/metadataproxy@1.9.1",
+        "pkg:pypi/metadataproxy@1.11.0",
+        "pkg:pypi/metadataproxy@1.2.6",
+        "pkg:pypi/metadataproxy@1.1.3",
+        "pkg:pypi/metadataproxy@1.2.0"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:46:53.051178",
+    "summary": "django-pluggable-filebrowser 3.4.2 fixes a security bug: added staff_member_required decorator to the upload-function.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25778"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/django-pluggable-filebrowser@3.5.8",
+        "pkg:pypi/django-pluggable-filebrowser@3.5.7"
+    ]
+}

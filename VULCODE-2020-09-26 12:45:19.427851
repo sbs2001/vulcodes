@@ -1,0 +1,49 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:19.427851",
+    "summary": "coveralls 0.1.1 removes repo_token from verbose output for security reasons.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25671"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/coveralls@0.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/coveralls@1.9.1",
+        "pkg:pypi/coveralls@1.7.0",
+        "pkg:pypi/coveralls@1.5.1",
+        "pkg:pypi/coveralls@1.0b1",
+        "pkg:pypi/coveralls@1.0",
+        "pkg:pypi/coveralls@1.3.0",
+        "pkg:pypi/coveralls@1.9.2",
+        "pkg:pypi/coveralls@1.0a2",
+        "pkg:pypi/coveralls@1.5.0",
+        "pkg:pypi/coveralls@0.4.1",
+        "pkg:pypi/coveralls@1.9.0",
+        "pkg:pypi/coveralls@0.5",
+        "pkg:pypi/coveralls@1.11.0",
+        "pkg:pypi/coveralls@1.6.0",
+        "pkg:pypi/coveralls@0.2",
+        "pkg:pypi/coveralls@1.1",
+        "pkg:pypi/coveralls@1.8.0",
+        "pkg:pypi/coveralls@2.0.0",
+        "pkg:pypi/coveralls@2.1.2",
+        "pkg:pypi/coveralls@1.11.1",
+        "pkg:pypi/coveralls@2.1.0",
+        "pkg:pypi/coveralls@0.4",
+        "pkg:pypi/coveralls@1.4.0",
+        "pkg:pypi/coveralls@0.4.4",
+        "pkg:pypi/coveralls@1.2.0",
+        "pkg:pypi/coveralls@2.1.1",
+        "pkg:pypi/coveralls@1.0a1",
+        "pkg:pypi/coveralls@0.3",
+        "pkg:pypi/coveralls@1.8.2",
+        "pkg:pypi/coveralls@0.4.3",
+        "pkg:pypi/coveralls@1.10.0",
+        "pkg:pypi/coveralls@1.8.1",
+        "pkg:pypi/coveralls@0.1.1",
+        "pkg:pypi/coveralls@0.4.2"
+    ]
+}

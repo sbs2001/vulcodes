@@ -1,0 +1,48 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:45.876096",
+    "summary": "kuber 9.0.0a1 bumps urllib3 version to pick up security fix for CVE-2018-20060.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36979"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/kuber@1.0.0",
+        "pkg:pypi/kuber@1.8.3",
+        "pkg:pypi/kuber@1.1.0",
+        "pkg:pypi/kuber@1.9.0",
+        "pkg:pypi/kuber@1.7.0",
+        "pkg:pypi/kuber@1.6.1",
+        "pkg:pypi/kuber@1.10.0",
+        "pkg:pypi/kuber@1.8.1",
+        "pkg:pypi/kuber@1.1.1",
+        "pkg:pypi/kuber@1.4.0",
+        "pkg:pypi/kuber@1.2.2",
+        "pkg:pypi/kuber@1.3.2",
+        "pkg:pypi/kuber@1.2.1",
+        "pkg:pypi/kuber@1.2.5",
+        "pkg:pypi/kuber@1.7.4",
+        "pkg:pypi/kuber@1.10.2",
+        "pkg:pypi/kuber@1.6.0",
+        "pkg:pypi/kuber@1.2.4",
+        "pkg:pypi/kuber@1.7.1",
+        "pkg:pypi/kuber@1.7.2",
+        "pkg:pypi/kuber@1.5.0",
+        "pkg:pypi/kuber@1.2.3",
+        "pkg:pypi/kuber@1.10.1",
+        "pkg:pypi/kuber@1.3.0",
+        "pkg:pypi/kuber@1.0.1",
+        "pkg:pypi/kuber@1.6.2",
+        "pkg:pypi/kuber@1.6.3",
+        "pkg:pypi/kuber@1.8.2",
+        "pkg:pypi/kuber@1.8.0",
+        "pkg:pypi/kuber@1.9.1",
+        "pkg:pypi/kuber@1.5.1",
+        "pkg:pypi/kuber@1.11.1",
+        "pkg:pypi/kuber@1.7.3",
+        "pkg:pypi/kuber@1.11.0",
+        "pkg:pypi/kuber@1.3.1"
+    ],
+    "resolved_packages": []
+}

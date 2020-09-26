@@ -1,0 +1,36 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:31.276609",
+    "summary": "newsletter 0.1.17pre in newsletterapp is now more secure by default.  Does not setup default users for admin section.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25902"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/newsletter@0.1.2pre",
+        "pkg:pypi/newsletter@0.1.8pre",
+        "pkg:pypi/newsletter@0.1.10pre",
+        "pkg:pypi/newsletter@0.1.11pre",
+        "pkg:pypi/newsletter@0.1.0pre",
+        "pkg:pypi/newsletter@0.1.15pre",
+        "pkg:pypi/newsletter@0.1.5pre",
+        "pkg:pypi/newsletter@0.1.12pre",
+        "pkg:pypi/newsletter@0.1.4pre",
+        "pkg:pypi/newsletter@0.1.3pre",
+        "pkg:pypi/newsletter@0.1.13pre",
+        "pkg:pypi/newsletter@0.1.16pre",
+        "pkg:pypi/newsletter@0.1.7pre",
+        "pkg:pypi/newsletter@0.1.1pre",
+        "pkg:pypi/newsletter@0.1.6pre",
+        "pkg:pypi/newsletter@0.1.14pre"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/newsletter@0.1.21pre",
+        "pkg:pypi/newsletter@0.1.20pre",
+        "pkg:pypi/newsletter@0.1.18pre",
+        "pkg:pypi/newsletter@0.1.17pre",
+        "pkg:pypi/newsletter@0.1.22pre",
+        "pkg:pypi/newsletter@0.1.19pre"
+    ]
+}

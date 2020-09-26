@@ -1,0 +1,22 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:50:35.683394",
+    "summary": "priority before 1.2.0 is vulnerable to a denial of service attack whereby a remote peer can cause a user to insert an unbounded number of streams into the priority tree, eventually consuming all available memory.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-26017"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/priority@0.0.1",
+        "pkg:pypi/priority@1.1.0",
+        "pkg:pypi/priority@1.1.1",
+        "pkg:pypi/priority@1.0.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/priority@1.3.0",
+        "pkg:pypi/priority@1.2.0",
+        "pkg:pypi/priority@1.2.2",
+        "pkg:pypi/priority@1.2.1"
+    ]
+}

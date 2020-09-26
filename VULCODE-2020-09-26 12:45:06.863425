@@ -1,0 +1,58 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:06.863425",
+    "summary": "Cnx-publishing 0.17.6 bumps urllib3 for a security fix.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38128"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/cnx-publishing@0.14.0",
+        "pkg:pypi/cnx-publishing@0.9.0",
+        "pkg:pypi/cnx-publishing@0.17.1",
+        "pkg:pypi/cnx-publishing@0.15.0",
+        "pkg:pypi/cnx-publishing@0.17.5",
+        "pkg:pypi/cnx-publishing@0.17.4",
+        "pkg:pypi/cnx-publishing@0.17.2",
+        "pkg:pypi/cnx-publishing@0.8.1",
+        "pkg:pypi/cnx-publishing@0.16.4",
+        "pkg:pypi/cnx-publishing@0.8.0",
+        "pkg:pypi/cnx-publishing@0.9.1",
+        "pkg:pypi/cnx-publishing@0.11.1",
+        "pkg:pypi/cnx-publishing@0.14.1",
+        "pkg:pypi/cnx-publishing@0.13.0",
+        "pkg:pypi/cnx-publishing@0.11.0",
+        "pkg:pypi/cnx-publishing@0.17.3",
+        "pkg:pypi/cnx-publishing@0.9.5",
+        "pkg:pypi/cnx-publishing@0.16.2",
+        "pkg:pypi/cnx-publishing@0.6.0",
+        "pkg:pypi/cnx-publishing@0.16.3",
+        "pkg:pypi/cnx-publishing@0.9.2",
+        "pkg:pypi/cnx-publishing@0.15.1",
+        "pkg:pypi/cnx-publishing@0.10.0",
+        "pkg:pypi/cnx-publishing@0.17.0",
+        "pkg:pypi/cnx-publishing@0.9.4",
+        "pkg:pypi/cnx-publishing@0.9.3",
+        "pkg:pypi/cnx-publishing@0.16.0",
+        "pkg:pypi/cnx-publishing@0.12.0",
+        "pkg:pypi/cnx-publishing@0.0.0",
+        "pkg:pypi/cnx-publishing@0.7.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/cnx-publishing@0.17.12",
+        "pkg:pypi/cnx-publishing@0.17.20",
+        "pkg:pypi/cnx-publishing@0.17.18",
+        "pkg:pypi/cnx-publishing@0.17.13",
+        "pkg:pypi/cnx-publishing@0.17.15",
+        "pkg:pypi/cnx-publishing@0.17.14",
+        "pkg:pypi/cnx-publishing@0.17.6",
+        "pkg:pypi/cnx-publishing@0.17.7",
+        "pkg:pypi/cnx-publishing@0.17.19",
+        "pkg:pypi/cnx-publishing@0.17.10",
+        "pkg:pypi/cnx-publishing@0.17.11",
+        "pkg:pypi/cnx-publishing@0.17.9",
+        "pkg:pypi/cnx-publishing@0.17.16",
+        "pkg:pypi/cnx-publishing@0.17.8"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:52:33.559020",
+    "summary": "spud before 0.8 doesn't check permissions. Anybody could edit photos.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-26141"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/spud@2.0.9",
+        "pkg:pypi/spud@2.1.1",
+        "pkg:pypi/spud@2.0.7",
+        "pkg:pypi/spud@2.0.6",
+        "pkg:pypi/spud@2.0.4",
+        "pkg:pypi/spud@2.0.8",
+        "pkg:pypi/spud@2.0.3",
+        "pkg:pypi/spud@2.0.5",
+        "pkg:pypi/spud@1.14"
+    ]
+}

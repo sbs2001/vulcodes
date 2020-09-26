@@ -1,0 +1,17 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:47.328979",
+    "summary": "pakettikauppa 0.1.2 fixes Pip files and requirement files for fixing security issue in pyyaml module",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36779"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/pakettikauppa@0.1.0",
+        "pkg:pypi/pakettikauppa@0.1.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/pakettikauppa@0.1.2"
+    ]
+}

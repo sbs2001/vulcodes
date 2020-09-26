@@ -1,0 +1,20 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:47.390554",
+    "summary": "pando before 0.42 is vulnerable to URL redirection attacks.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25919"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/pando@0.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/pando@0.44",
+        "pkg:pypi/pando@0.43",
+        "pkg:pypi/pando@0.47",
+        "pkg:pypi/pando@0.45",
+        "pkg:pypi/pando@0.46"
+    ]
+}

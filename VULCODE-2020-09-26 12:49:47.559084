@@ -1,0 +1,29 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:47.559084",
+    "summary": "Palladium 1.2.3 updates its requirements in order to use newer versions of dependencies. This fixes some potential security vulnerabilities.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38263"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/palladium@1.2b1",
+        "pkg:pypi/palladium@1.2.1",
+        "pkg:pypi/palladium@1.2b2.dev1",
+        "pkg:pypi/palladium@1.2.dev4",
+        "pkg:pypi/palladium@1.2.0",
+        "pkg:pypi/palladium@1.1.0",
+        "pkg:pypi/palladium@1.0.1",
+        "pkg:pypi/palladium@1.0",
+        "pkg:pypi/palladium@1.1.0.1",
+        "pkg:pypi/palladium@1.2.1.1",
+        "pkg:pypi/palladium@1.2.1.dev1",
+        "pkg:pypi/palladium@0.9",
+        "pkg:pypi/palladium@0.9.1",
+        "pkg:pypi/palladium@1.2.2"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/palladium@1.2.3"
+    ]
+}

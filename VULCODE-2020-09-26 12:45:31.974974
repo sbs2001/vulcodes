@@ -1,0 +1,21 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:31.974974",
+    "summary": "Deeposlandia 0.6 updates its dependencies, especially `Tensorflow`, due to vulnerability issues.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38133"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/deeposlandia@0.5",
+        "pkg:pypi/deeposlandia@0.4"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/deeposlandia@0.6.3",
+        "pkg:pypi/deeposlandia@0.6.2",
+        "pkg:pypi/deeposlandia@0.6.post3",
+        "pkg:pypi/deeposlandia@0.6.1",
+        "pkg:pypi/deeposlandia@0.6.3.post1"
+    ]
+}

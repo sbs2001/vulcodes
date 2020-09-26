@@ -1,0 +1,37 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:04.602232",
+    "summary": "Cheetah3 version 3.2.2 replaces the outdated and insecure ``mktemp`` with ``mkstemp``.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37134"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/cheetah3@3.0.0rc1",
+        "pkg:pypi/cheetah3@3.0.0",
+        "pkg:pypi/cheetah3@3.0.0a1",
+        "pkg:pypi/cheetah3@3.2.1",
+        "pkg:pypi/cheetah3@3.2.0b1",
+        "pkg:pypi/cheetah3@3.2.0",
+        "pkg:pypi/cheetah3@3.1.0",
+        "pkg:pypi/cheetah3@3.0.0b1",
+        "pkg:pypi/cheetah3@3.0.0a0",
+        "pkg:pypi/cheetah3@3.2.1b1",
+        "pkg:pypi/cheetah3@3.0.1",
+        "pkg:pypi/cheetah3@3.0.0b2"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/cheetah3@3.2.3",
+        "pkg:pypi/cheetah3@3.2.5b5",
+        "pkg:pypi/cheetah3@3.2.5b1",
+        "pkg:pypi/cheetah3@3.2.5b2",
+        "pkg:pypi/cheetah3@3.2.5b7",
+        "pkg:pypi/cheetah3@3.2.5b3",
+        "pkg:pypi/cheetah3@3.2.5b4",
+        "pkg:pypi/cheetah3@3.2.4",
+        "pkg:pypi/cheetah3@3.2.2",
+        "pkg:pypi/cheetah3@3.2.5",
+        "pkg:pypi/cheetah3@3.2.5b6"
+    ]
+}

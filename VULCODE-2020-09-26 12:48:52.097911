@@ -1,0 +1,17 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:52.097911",
+    "summary": "Lifx-control-panel 1.6.3 removes all `eval()` statements for security.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37423"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/lifx-control-panel@1.8.0",
+        "pkg:pypi/lifx-control-panel@1.7.6",
+        "pkg:pypi/lifx-control-panel@1.7.4",
+        "pkg:pypi/lifx-control-panel@1.7.5"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:52.113785",
+    "summary": "lifx-control-panel 1.7.6:\r\n* Pyinstaller 3.6 fixes several security vulnerabilities \r\n* Updated other key repositories, increasing security and speed",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37853"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/lifx-control-panel@1.7.4",
+        "pkg:pypi/lifx-control-panel@1.7.5"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/lifx-control-panel@1.8.0",
+        "pkg:pypi/lifx-control-panel@1.7.6"
+    ]
+}

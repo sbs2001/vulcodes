@@ -1,0 +1,29 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:44.905093",
+    "summary": "opentaxii 0.1.11 requires recent version of `lxml` for security reasons.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36897"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/opentaxii@0.1.4",
+        "pkg:pypi/opentaxii@0.1.3",
+        "pkg:pypi/opentaxii@0.1.8",
+        "pkg:pypi/opentaxii@0.1.9",
+        "pkg:pypi/opentaxii@0.0.1",
+        "pkg:pypi/opentaxii@0.1.5",
+        "pkg:pypi/opentaxii@0.1.7",
+        "pkg:pypi/opentaxii@0.1.0",
+        "pkg:pypi/opentaxii@0.1.1",
+        "pkg:pypi/opentaxii@0.1.6",
+        "pkg:pypi/opentaxii@0.1.10",
+        "pkg:pypi/opentaxii@0.1.2"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/opentaxii@0.2.0",
+        "pkg:pypi/opentaxii@0.1.11",
+        "pkg:pypi/opentaxii@0.1.12"
+    ]
+}

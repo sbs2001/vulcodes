@@ -1,0 +1,26 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:47:22.548638",
+    "summary": "event-tracking 0.2.9 changes: This upgrade will fix the security vulnerability in the old versions of jinja2.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37232"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/event-tracking@0.2.4",
+        "pkg:pypi/event-tracking@0.2.5",
+        "pkg:pypi/event-tracking@0.2.6",
+        "pkg:pypi/event-tracking@0.2.8",
+        "pkg:pypi/event-tracking@0.2.7",
+        "pkg:pypi/event-tracking@0.2.3"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/event-tracking@0.3.2",
+        "pkg:pypi/event-tracking@0.3.0",
+        "pkg:pypi/event-tracking@0.3.1",
+        "pkg:pypi/event-tracking@0.2.9",
+        "pkg:pypi/event-tracking@1.0.0",
+        "pkg:pypi/event-tracking@0.3.3"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:47.470085",
+    "summary": "Paradrop 0.13.0 updates dependency versions to address vulnerabilities in old versions of pyOpenSSL, requests, and urllib3.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37490"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/paradrop@0.13.3a4",
+        "pkg:pypi/paradrop@0.13.3a1",
+        "pkg:pypi/paradrop@0.13.3a7",
+        "pkg:pypi/paradrop@0.13.3a3",
+        "pkg:pypi/paradrop@0.13.2",
+        "pkg:pypi/paradrop@0.13.3a2",
+        "pkg:pypi/paradrop@0.13.3a5",
+        "pkg:pypi/paradrop@0.13.3a6",
+        "pkg:pypi/paradrop@0.13.3a8"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:57.799707",
+    "summary": "Manifest-tool 2.0.0 adds an option to sign candidate image using update private key, allowing to implement secure boot on a device side.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38628"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/manifest-tool@1.5.2",
+        "pkg:pypi/manifest-tool@1.4.6",
+        "pkg:pypi/manifest-tool@1.4.7",
+        "pkg:pypi/manifest-tool@1.5.0",
+        "pkg:pypi/manifest-tool@1.4.8"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/manifest-tool@2.0.0"
+    ]
+}

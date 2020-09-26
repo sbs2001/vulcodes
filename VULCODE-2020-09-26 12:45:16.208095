@@ -1,0 +1,21 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:16.208095",
+    "summary": "Cookie-manager 1.1.0 bumps Bleach to patch a vulnerability.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38153"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/cookie-manager@1.0.2",
+        "pkg:pypi/cookie-manager@0.1.0",
+        "pkg:pypi/cookie-manager@0.0.1",
+        "pkg:pypi/cookie-manager@1.0.3",
+        "pkg:pypi/cookie-manager@1.0.1",
+        "pkg:pypi/cookie-manager@1.0.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/cookie-manager@1.1.0"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:52:10.926512",
+    "summary": "Scrapydd 0.6.3 enhances the security by adding protection against cross-site request forgery.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37457"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/scrapydd@0.4.4",
+        "pkg:pypi/scrapydd@0.4.18",
+        "pkg:pypi/scrapydd@0.4.0",
+        "pkg:pypi/scrapydd@0.4.15",
+        "pkg:pypi/scrapydd@0.3.1",
+        "pkg:pypi/scrapydd@0.5.1",
+        "pkg:pypi/scrapydd@0.4.11",
+        "pkg:pypi/scrapydd@0.6.0",
+        "pkg:pypi/scrapydd@0.4.14",
+        "pkg:pypi/scrapydd@0.2.3",
+        "pkg:pypi/scrapydd@0.4.16",
+        "pkg:pypi/scrapydd@0.4.3",
+        "pkg:pypi/scrapydd@0.4.7",
+        "pkg:pypi/scrapydd@0.4.8",
+        "pkg:pypi/scrapydd@0.5.0",
+        "pkg:pypi/scrapydd@0.3.3",
+        "pkg:pypi/scrapydd@0.4.5",
+        "pkg:pypi/scrapydd@0.3.2",
+        "pkg:pypi/scrapydd@0.4.23",
+        "pkg:pypi/scrapydd@0.4.21",
+        "pkg:pypi/scrapydd@0.2.1",
+        "pkg:pypi/scrapydd@0.4.2",
+        "pkg:pypi/scrapydd@0.6.2",
+        "pkg:pypi/scrapydd@0.4.10",
+        "pkg:pypi/scrapydd@0.4.9",
+        "pkg:pypi/scrapydd@0.4.22",
+        "pkg:pypi/scrapydd@0.4.13",
+        "pkg:pypi/scrapydd@0.4.19",
+        "pkg:pypi/scrapydd@0.4.6",
+        "pkg:pypi/scrapydd@0.4.17",
+        "pkg:pypi/scrapydd@0.2.0",
+        "pkg:pypi/scrapydd@0.4.1",
+        "pkg:pypi/scrapydd@0.6.1",
+        "pkg:pypi/scrapydd@0.5.2",
+        "pkg:pypi/scrapydd@0.4.12",
+        "pkg:pypi/scrapydd@0.2.2",
+        "pkg:pypi/scrapydd@0.4.20"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/scrapydd@0.7.4",
+        "pkg:pypi/scrapydd@0.7.2",
+        "pkg:pypi/scrapydd@0.6.4",
+        "pkg:pypi/scrapydd@0.6.3",
+        "pkg:pypi/scrapydd@0.6.5",
+        "pkg:pypi/scrapydd@0.7.5",
+        "pkg:pypi/scrapydd@0.7.1",
+        "pkg:pypi/scrapydd@0.7.0",
+        "pkg:pypi/scrapydd@0.7.3"
+    ]
+}

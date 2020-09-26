@@ -1,0 +1,19 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:35.207962",
+    "summary": "Katsdptelstate 0.9 disable pickles by default for security.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38321"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/katsdptelstate@0.8",
+        "pkg:pypi/katsdptelstate@0.6",
+        "pkg:pypi/katsdptelstate@0.7"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/katsdptelstate@0.9",
+        "pkg:pypi/katsdptelstate@0.10"
+    ]
+}

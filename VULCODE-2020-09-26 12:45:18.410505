@@ -1,0 +1,41 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:18.410505",
+    "summary": "contentful-management 2.5.0 updates `requests` version due to a vulnerability found in versions `2.19` and below.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36599"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/contentful-management@1.5.0",
+        "pkg:pypi/contentful-management@1.3.1",
+        "pkg:pypi/contentful-management@2.3.0",
+        "pkg:pypi/contentful-management@1.1.0",
+        "pkg:pypi/contentful-management@1.0.2",
+        "pkg:pypi/contentful-management@2.1.1",
+        "pkg:pypi/contentful-management@2.1.0",
+        "pkg:pypi/contentful-management@2.1.2",
+        "pkg:pypi/contentful-management@2.0.0",
+        "pkg:pypi/contentful-management@2.2.0",
+        "pkg:pypi/contentful-management@2.4.0",
+        "pkg:pypi/contentful-management@1.5.1",
+        "pkg:pypi/contentful-management@1.5.2",
+        "pkg:pypi/contentful-management@1.0.0",
+        "pkg:pypi/contentful-management@1.4.0",
+        "pkg:pypi/contentful-management@1.2.0",
+        "pkg:pypi/contentful-management@1.3.2",
+        "pkg:pypi/contentful-management@2.1.3",
+        "pkg:pypi/contentful-management@1.0.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/contentful-management@2.9.1",
+        "pkg:pypi/contentful-management@2.8.0",
+        "pkg:pypi/contentful-management@2.6.1",
+        "pkg:pypi/contentful-management@2.7.0",
+        "pkg:pypi/contentful-management@2.9.0",
+        "pkg:pypi/contentful-management@2.5.0",
+        "pkg:pypi/contentful-management@2.10.0",
+        "pkg:pypi/contentful-management@2.6.0"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:28.512660",
+    "summary": "For security, unhandled exceptions in jetforce 0.2.0 display a generic error message instead of the plain exception string.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38130"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/jetforce@0.0.5",
+        "pkg:pypi/jetforce@0.0.4",
+        "pkg:pypi/jetforce@0.1.0",
+        "pkg:pypi/jetforce@0.0.3",
+        "pkg:pypi/jetforce@0.0.6",
+        "pkg:pypi/jetforce@0.0.7",
+        "pkg:pypi/jetforce@0.0.2",
+        "pkg:pypi/jetforce@0.0.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/jetforce@0.3.2",
+        "pkg:pypi/jetforce@0.3.0",
+        "pkg:pypi/jetforce@0.6.0",
+        "pkg:pypi/jetforce@0.2.3",
+        "pkg:pypi/jetforce@0.3.0b1",
+        "pkg:pypi/jetforce@0.2.1",
+        "pkg:pypi/jetforce@0.3.0b2",
+        "pkg:pypi/jetforce@0.3.1",
+        "pkg:pypi/jetforce@0.3.0b4",
+        "pkg:pypi/jetforce@0.2.2",
+        "pkg:pypi/jetforce@0.3.0b5",
+        "pkg:pypi/jetforce@0.5.0",
+        "pkg:pypi/jetforce@0.4.0",
+        "pkg:pypi/jetforce@0.3.0b3",
+        "pkg:pypi/jetforce@0.3.0b6",
+        "pkg:pypi/jetforce@0.2.0"
+    ]
+}

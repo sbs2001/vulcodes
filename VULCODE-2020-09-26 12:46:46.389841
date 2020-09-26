@@ -1,0 +1,43 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:46:46.389841",
+    "summary": "django-lazysignup before 0.4.0 fixes a security issue: Generated usernames are now based on the session key, rather than actually being the session key. This is to avoid a potential security issue where an app might simply display a username, giving away a significant part of the user's session key. The username is now generated from a SHA1 hash of the session key. This change means that existing generated users will become invalid.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25770"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/django-lazysignup@0.1",
+        "pkg:pypi/django-lazysignup@0.2.0",
+        "pkg:pypi/django-lazysignup@0.1.2",
+        "pkg:pypi/django-lazysignup@0.3.0",
+        "pkg:pypi/django-lazysignup@0.1.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/django-lazysignup@0.11.0",
+        "pkg:pypi/django-lazysignup@0.12.2",
+        "pkg:pypi/django-lazysignup@0.4.0",
+        "pkg:pypi/django-lazysignup@0.10.0",
+        "pkg:pypi/django-lazysignup@1.0.2",
+        "pkg:pypi/django-lazysignup@0.5.1",
+        "pkg:pypi/django-lazysignup@0.6.1",
+        "pkg:pypi/django-lazysignup@1.1.0",
+        "pkg:pypi/django-lazysignup@0.6.0",
+        "pkg:pypi/django-lazysignup@0.10.2",
+        "pkg:pypi/django-lazysignup@0.7.0",
+        "pkg:pypi/django-lazysignup@2.0.0",
+        "pkg:pypi/django-lazysignup@0.5.0",
+        "pkg:pypi/django-lazysignup@0.11.1",
+        "pkg:pypi/django-lazysignup@1.1.2",
+        "pkg:pypi/django-lazysignup@0.12.1",
+        "pkg:pypi/django-lazysignup@1.0.0",
+        "pkg:pypi/django-lazysignup@0.10.1",
+        "pkg:pypi/django-lazysignup@0.9.0",
+        "pkg:pypi/django-lazysignup@1.0.1",
+        "pkg:pypi/django-lazysignup@0.10.3",
+        "pkg:pypi/django-lazysignup@0.12.0",
+        "pkg:pypi/django-lazysignup@1.1.1",
+        "pkg:pypi/django-lazysignup@0.8.0"
+    ]
+}

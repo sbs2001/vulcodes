@@ -1,0 +1,51 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:47:21.964723",
+    "summary": "Eventmq 0.3.13rc1 upgrades the psutil dependency to a more secure version.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38402"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/eventmq@0.2.6.5",
+        "pkg:pypi/eventmq@0.3.5.1",
+        "pkg:pypi/eventmq@0.3.3",
+        "pkg:pypi/eventmq@0.3rc10",
+        "pkg:pypi/eventmq@0.3.11",
+        "pkg:pypi/eventmq@0.3.4.1",
+        "pkg:pypi/eventmq@0.3",
+        "pkg:pypi/eventmq@0.3rc7",
+        "pkg:pypi/eventmq@0.3rc8",
+        "pkg:pypi/eventmq@0.3.4.6",
+        "pkg:pypi/eventmq@0.3.4.9",
+        "pkg:pypi/eventmq@0.3.4.4",
+        "pkg:pypi/eventmq@0.3.5.6",
+        "pkg:pypi/eventmq@0.3.5.2",
+        "pkg:pypi/eventmq@0.3.4",
+        "pkg:pypi/eventmq@0.3.1",
+        "pkg:pypi/eventmq@0.3.6",
+        "pkg:pypi/eventmq@0.2.7",
+        "pkg:pypi/eventmq@0.2.7.1",
+        "pkg:pypi/eventmq@0.3.7",
+        "pkg:pypi/eventmq@0.3rc3",
+        "pkg:pypi/eventmq@0.3.5.3",
+        "pkg:pypi/eventmq@0.3rc4",
+        "pkg:pypi/eventmq@0.3.10",
+        "pkg:pypi/eventmq@0.3rc9",
+        "pkg:pypi/eventmq@0.3.4.8",
+        "pkg:pypi/eventmq@0.3.8",
+        "pkg:pypi/eventmq@0.3rc5",
+        "pkg:pypi/eventmq@0.3.4.5",
+        "pkg:pypi/eventmq@0.3.4.11",
+        "pkg:pypi/eventmq@0.3.4.10",
+        "pkg:pypi/eventmq@0.3.9",
+        "pkg:pypi/eventmq@0.3.2",
+        "pkg:pypi/eventmq@0.3.12",
+        "pkg:pypi/eventmq@0.3.4.7",
+        "pkg:pypi/eventmq@0.2.6.6"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/eventmq@0.3.13"
+    ]
+}

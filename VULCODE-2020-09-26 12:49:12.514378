@@ -1,0 +1,38 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:12.514378",
+    "summary": "Mistune.py in Mistune 0.7.4 allows XSS via an unexpected newline (such as in java\\nscript:) or a crafted email address, related to the escape and autolink functions.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-35030"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/mistune@0.7.4"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/mistune@0.3.0",
+        "pkg:pypi/mistune@0.7.1",
+        "pkg:pypi/mistune@2.0.0a4",
+        "pkg:pypi/mistune@0.5",
+        "pkg:pypi/mistune@0.8.2",
+        "pkg:pypi/mistune@0.1.0",
+        "pkg:pypi/mistune@0.6",
+        "pkg:pypi/mistune@2.0.0a1",
+        "pkg:pypi/mistune@0.7",
+        "pkg:pypi/mistune@0.8",
+        "pkg:pypi/mistune@2.0.0a5",
+        "pkg:pypi/mistune@0.8.1",
+        "pkg:pypi/mistune@0.8.3",
+        "pkg:pypi/mistune@0.3.1",
+        "pkg:pypi/mistune@0.7.2",
+        "pkg:pypi/mistune@2.0.0a3",
+        "pkg:pypi/mistune@0.4.1",
+        "pkg:pypi/mistune@0.2.0",
+        "pkg:pypi/mistune@0.7.3",
+        "pkg:pypi/mistune@0.8.4",
+        "pkg:pypi/mistune@0.4",
+        "pkg:pypi/mistune@2.0.0a2",
+        "pkg:pypi/mistune@0.5.1"
+    ]
+}

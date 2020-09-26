@@ -1,0 +1,23 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:34.861393",
+    "summary": "Nukikata 1.4.0 raises an error if Cookiecutter tries to render a template that contains an undefined variable. Makes generation more robust and secure.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38418"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/nukikata@1.7.2.5",
+        "pkg:pypi/nukikata@2.0.0.0",
+        "pkg:pypi/nukikata@1.7.2.1",
+        "pkg:pypi/nukikata@1.7.2.7",
+        "pkg:pypi/nukikata@1.7.2.6",
+        "pkg:pypi/nukikata@2.0.0.2",
+        "pkg:pypi/nukikata@2.0.0.1",
+        "pkg:pypi/nukikata@2.0.0.3",
+        "pkg:pypi/nukikata@1.7.2.0",
+        "pkg:pypi/nukikata@1.7.2.2"
+    ]
+}

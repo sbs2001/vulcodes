@@ -1,0 +1,21 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:46:43.721253",
+    "summary": "django-fernet-fields before 0.3 has DualField and HashField. The only cases where they are useful, they aren't secure.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-34331"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/django-fernet-fields@0.2",
+        "pkg:pypi/django-fernet-fields@0.2.1",
+        "pkg:pypi/django-fernet-fields@0.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/django-fernet-fields@0.4",
+        "pkg:pypi/django-fernet-fields@0.6",
+        "pkg:pypi/django-fernet-fields@0.3",
+        "pkg:pypi/django-fernet-fields@0.5"
+    ]
+}

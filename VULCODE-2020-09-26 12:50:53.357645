@@ -1,0 +1,29 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:50:53.357645",
+    "summary": "Pyforce 1.8.0 fixes the external entities vulnerability #35.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38058"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/pyforce@1.01",
+        "pkg:pypi/pyforce@1.7.1",
+        "pkg:pypi/pyforce@1.3",
+        "pkg:pypi/pyforce@1.7.2",
+        "pkg:pypi/pyforce@1.6",
+        "pkg:pypi/pyforce@1.0",
+        "pkg:pypi/pyforce@1.7",
+        "pkg:pypi/pyforce@1.7.3",
+        "pkg:pypi/pyforce@1.5",
+        "pkg:pypi/pyforce@1.2",
+        "pkg:pypi/pyforce@1.1dev",
+        "pkg:pypi/pyforce@1.4"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/pyforce@1.9.0",
+        "pkg:pypi/pyforce@1.8.0",
+        "pkg:pypi/pyforce@1.9.1"
+    ]
+}

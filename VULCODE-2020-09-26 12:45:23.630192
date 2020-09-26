@@ -1,0 +1,27 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:23.630192",
+    "summary": "cromwell-tools 1.0.0 updates requests to avoid security issues.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36659"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/cromwell-tools@2.2.2",
+        "pkg:pypi/cromwell-tools@2.2.3",
+        "pkg:pypi/cromwell-tools@1.1.2",
+        "pkg:pypi/cromwell-tools@1.1.1",
+        "pkg:pypi/cromwell-tools@2.3.0",
+        "pkg:pypi/cromwell-tools@1.0.1",
+        "pkg:pypi/cromwell-tools@1.1.0",
+        "pkg:pypi/cromwell-tools@2.4.0",
+        "pkg:pypi/cromwell-tools@2.1.0",
+        "pkg:pypi/cromwell-tools@1.0.0",
+        "pkg:pypi/cromwell-tools@2.4.1",
+        "pkg:pypi/cromwell-tools@2.0.0",
+        "pkg:pypi/cromwell-tools@2.2.1",
+        "pkg:pypi/cromwell-tools@2.2.0"
+    ]
+}

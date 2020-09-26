@@ -1,0 +1,29 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:47:18.504817",
+    "summary": "Ec2-metadata 2.2.0 moves to use Instance Metadata Service version 2 due to its increased security - see: https://github.com/adamchainz/ec2-metadata/issues/150",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38053"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/ec2-metadata@1.8.0",
+        "pkg:pypi/ec2-metadata@2.1.0",
+        "pkg:pypi/ec2-metadata@1.3.0",
+        "pkg:pypi/ec2-metadata@1.3.1",
+        "pkg:pypi/ec2-metadata@1.5.0",
+        "pkg:pypi/ec2-metadata@1.6.0",
+        "pkg:pypi/ec2-metadata@1.2.1",
+        "pkg:pypi/ec2-metadata@1.7.0",
+        "pkg:pypi/ec2-metadata@2.0.0",
+        "pkg:pypi/ec2-metadata@1.1.0",
+        "pkg:pypi/ec2-metadata@1.7.1",
+        "pkg:pypi/ec2-metadata@1.2.0",
+        "pkg:pypi/ec2-metadata@1.4.0",
+        "pkg:pypi/ec2-metadata@1.0.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/ec2-metadata@2.2.0"
+    ]
+}

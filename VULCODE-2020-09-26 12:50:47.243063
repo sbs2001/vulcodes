@@ -1,0 +1,19 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:50:47.243063",
+    "summary": "Py-nightscout 0.11.0 includes various security updates:\r\n- Unsecure access via http is not allowed anymore by default. \r\n- The 'mqtt' module was removed because it had a security issue and was not used.\r\n- The 'sgvdata' module was removed because it had a security issue.\r\n- Various updates to dependencies with known security issues.\r\n- Nightscout is now only allowed to start with a secure Node JS. \r\n- General improved security and new environment variables such as INSECURE_USE_HTTP and SECURE_HSTS_HEADER.\r\n  - HTTP Strict Transport Security (HSTS) headers are now enabled by default, settings SECURE_HSTS_HEADER and SECURE_HSTS_HEADER_*.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38660"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/py-nightscout@1.1.0",
+        "pkg:pypi/py-nightscout@1.1.1",
+        "pkg:pypi/py-nightscout@1.2.0",
+        "pkg:pypi/py-nightscout@1.2.1",
+        "pkg:pypi/py-nightscout@1.0.0",
+        "pkg:pypi/py-nightscout@1.2.2"
+    ]
+}

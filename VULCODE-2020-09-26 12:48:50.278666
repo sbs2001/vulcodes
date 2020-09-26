@@ -1,0 +1,40 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:50.278666",
+    "summary": "libtaxii before 1.1.105 has multiple XML parsing related vulnerabilities.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25877"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/libtaxii@1.1.103",
+        "pkg:pypi/libtaxii@1.0.103",
+        "pkg:pypi/libtaxii@1.0.107",
+        "pkg:pypi/libtaxii@1.1.100",
+        "pkg:pypi/libtaxii@1.0.090",
+        "pkg:pypi/libtaxii@1.0.104",
+        "pkg:pypi/libtaxii@1.1.101",
+        "pkg:pypi/libtaxii@1.0.100",
+        "pkg:pypi/libtaxii@1.0.101",
+        "pkg:pypi/libtaxii@1.0.105",
+        "pkg:pypi/libtaxii@1.1.102",
+        "pkg:pypi/libtaxii@1.0.106",
+        "pkg:pypi/libtaxii@1.1.104"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/libtaxii@1.1.109",
+        "pkg:pypi/libtaxii@1.1.110",
+        "pkg:pypi/libtaxii@1.1.108",
+        "pkg:pypi/libtaxii@1.1.105",
+        "pkg:pypi/libtaxii@1.1.107",
+        "pkg:pypi/libtaxii@1.1.106",
+        "pkg:pypi/libtaxii@1.1.117",
+        "pkg:pypi/libtaxii@1.1.111",
+        "pkg:pypi/libtaxii@1.1.112",
+        "pkg:pypi/libtaxii@1.1.115",
+        "pkg:pypi/libtaxii@1.1.116",
+        "pkg:pypi/libtaxii@1.1.114",
+        "pkg:pypi/libtaxii@1.1.113"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:52:06.065205",
+    "summary": "S4 0.4.2 upgrades boto3 to minimum requirement to fix a vulnerability in a urllib3 dependency.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37119"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/s4@0.1.22",
+        "pkg:pypi/s4@0.2.1",
+        "pkg:pypi/s4@0.1.21",
+        "pkg:pypi/s4@0.1.14",
+        "pkg:pypi/s4@0.2.0",
+        "pkg:pypi/s4@0.1.26",
+        "pkg:pypi/s4@0.1.25",
+        "pkg:pypi/s4@0.1.24",
+        "pkg:pypi/s4@0.1.17",
+        "pkg:pypi/s4@0.2.20",
+        "pkg:pypi/s4@0.2.10",
+        "pkg:pypi/s4@0.2.13",
+        "pkg:pypi/s4@0.2.16",
+        "pkg:pypi/s4@0.2.6",
+        "pkg:pypi/s4@0.4.1",
+        "pkg:pypi/s4@0.1.28",
+        "pkg:pypi/s4@0.2.11",
+        "pkg:pypi/s4@0.1.18",
+        "pkg:pypi/s4@0.2.15",
+        "pkg:pypi/s4@0.1.23",
+        "pkg:pypi/s4@0.1.19",
+        "pkg:pypi/s4@0.2.14",
+        "pkg:pypi/s4@0.2.12",
+        "pkg:pypi/s4@0.2.18",
+        "pkg:pypi/s4@0.1.15",
+        "pkg:pypi/s4@0.1.30",
+        "pkg:pypi/s4@0.2.7",
+        "pkg:pypi/s4@0.1.20",
+        "pkg:pypi/s4@0.2.2",
+        "pkg:pypi/s4@0.2.3",
+        "pkg:pypi/s4@0.2.4",
+        "pkg:pypi/s4@0.4.0",
+        "pkg:pypi/s4@0.2.8",
+        "pkg:pypi/s4@0.1.27",
+        "pkg:pypi/s4@0.2.19",
+        "pkg:pypi/s4@0.1.31",
+        "pkg:pypi/s4@0.3.0",
+        "pkg:pypi/s4@0.1.16",
+        "pkg:pypi/s4@0.1.29",
+        "pkg:pypi/s4@0.2.9"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/s4@0.4.2",
+        "pkg:pypi/s4@0.4.4"
+    ]
+}

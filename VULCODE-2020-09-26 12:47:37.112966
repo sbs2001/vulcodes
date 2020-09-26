@@ -1,0 +1,24 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:47:37.112966",
+    "summary": "friendlyshell 1.0.3 fixes security warnings, and bugs with parsing quoted command parameters.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36642"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/friendlyshell@1.0.2",
+        "pkg:pypi/friendlyshell@1.0.0",
+        "pkg:pypi/friendlyshell@1.0.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/friendlyshell@1.0.9",
+        "pkg:pypi/friendlyshell@1.0.6",
+        "pkg:pypi/friendlyshell@1.0.3",
+        "pkg:pypi/friendlyshell@1.0.7",
+        "pkg:pypi/friendlyshell@1.0.8",
+        "pkg:pypi/friendlyshell@1.0.4",
+        "pkg:pypi/friendlyshell@1.0.5"
+    ]
+}

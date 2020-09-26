@@ -1,0 +1,23 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:46:45.505700",
+    "summary": "django-hashedfilenamestorage 2.4 bumps Django dependency requirement to avoid vulnerable Django versions",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36802"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/django-hashedfilenamestorage@2.0",
+        "pkg:pypi/django-hashedfilenamestorage@1.0",
+        "pkg:pypi/django-hashedfilenamestorage@2.3.1",
+        "pkg:pypi/django-hashedfilenamestorage@2.3",
+        "pkg:pypi/django-hashedfilenamestorage@2.0.1",
+        "pkg:pypi/django-hashedfilenamestorage@2.2",
+        "pkg:pypi/django-hashedfilenamestorage@2.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/django-hashedfilenamestorage@2.4.1",
+        "pkg:pypi/django-hashedfilenamestorage@2.4"
+    ]
+}

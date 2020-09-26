@@ -1,0 +1,23 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:54:04.312076",
+    "summary": "Yahoo-earnings-calendar 0.5.2 upgrades urllib3 to 1.24.2 for security reasons.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37079"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/yahoo-earnings-calendar@0.5.1",
+        "pkg:pypi/yahoo-earnings-calendar@0.4.0",
+        "pkg:pypi/yahoo-earnings-calendar@0.1",
+        "pkg:pypi/yahoo-earnings-calendar@0.3.1",
+        "pkg:pypi/yahoo-earnings-calendar@0.3",
+        "pkg:pypi/yahoo-earnings-calendar@0.5.0",
+        "pkg:pypi/yahoo-earnings-calendar@0.2"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/yahoo-earnings-calendar@0.5.2",
+        "pkg:pypi/yahoo-earnings-calendar@0.6.0"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:50:38.758641",
+    "summary": "Products.cmfcore 2.3.0beta tightens the security for anonymous test user.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-35818"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/products.cmfcore@2.2.9",
+        "pkg:pypi/products.cmfcore@2.2.3",
+        "pkg:pypi/products.cmfcore@2.2.8",
+        "pkg:pypi/products.cmfcore@2.2.0",
+        "pkg:pypi/products.cmfcore@2.2.13",
+        "pkg:pypi/products.cmfcore@2.2.10",
+        "pkg:pypi/products.cmfcore@2.1.2",
+        "pkg:pypi/products.cmfcore@2.2.2",
+        "pkg:pypi/products.cmfcore@2.2.0-beta",
+        "pkg:pypi/products.cmfcore@2.2.4",
+        "pkg:pypi/products.cmfcore@2.2.0-alpha",
+        "pkg:pypi/products.cmfcore@2.2.6",
+        "pkg:pypi/products.cmfcore@2.2.7",
+        "pkg:pypi/products.cmfcore@2.1.2-beta",
+        "pkg:pypi/products.cmfcore@2.2.1",
+        "pkg:pypi/products.cmfcore@2.2.5",
+        "pkg:pypi/products.cmfcore@2.1.3",
+        "pkg:pypi/products.cmfcore@2.2.12",
+        "pkg:pypi/products.cmfcore@2.2.11",
+        "pkg:pypi/products.cmfcore@2.1.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/products.cmfcore@2.4.4",
+        "pkg:pypi/products.cmfcore@2.4.0b7",
+        "pkg:pypi/products.cmfcore@2.4.0b1",
+        "pkg:pypi/products.cmfcore@2.4.6",
+        "pkg:pypi/products.cmfcore@2.4.0b5",
+        "pkg:pypi/products.cmfcore@2.4.3",
+        "pkg:pypi/products.cmfcore@2.4.1",
+        "pkg:pypi/products.cmfcore@2.3.0-beta",
+        "pkg:pypi/products.cmfcore@2.4.0",
+        "pkg:pypi/products.cmfcore@2.4.0b6",
+        "pkg:pypi/products.cmfcore@2.4.8",
+        "pkg:pypi/products.cmfcore@2.4.2",
+        "pkg:pypi/products.cmfcore@2.3.0-beta2",
+        "pkg:pypi/products.cmfcore@2.4.5",
+        "pkg:pypi/products.cmfcore@2.4.0b3",
+        "pkg:pypi/products.cmfcore@2.4.7",
+        "pkg:pypi/products.cmfcore@2.4.0b4",
+        "pkg:pypi/products.cmfcore@2.4.0b8",
+        "pkg:pypi/products.cmfcore@2.3.0",
+        "pkg:pypi/products.cmfcore@2.3.1",
+        "pkg:pypi/products.cmfcore@2.4.0b2"
+    ]
+}

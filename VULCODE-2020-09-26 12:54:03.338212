@@ -1,0 +1,20 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:54:03.338212",
+    "summary": "xtea3 1.0.0 change: Removal of CBCMAC (security reasons)",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37222"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/xtea3@0.3.2",
+        "pkg:pypi/xtea3@0.3.1",
+        "pkg:pypi/xtea3@0.2",
+        "pkg:pypi/xtea3@0.3",
+        "pkg:pypi/xtea3@0.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/xtea3@1.0.0"
+    ]
+}

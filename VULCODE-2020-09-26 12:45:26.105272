@@ -1,0 +1,28 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:26.105272",
+    "summary": "dateable.chronos 0.7.2 fixes a XSS vulnerability in the get_view_day method.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25685"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/dateable.chronos@0.6.2",
+        "pkg:pypi/dateable.chronos@0.3",
+        "pkg:pypi/dateable.chronos@0.6",
+        "pkg:pypi/dateable.chronos@0.6.1",
+        "pkg:pypi/dateable.chronos@0.4",
+        "pkg:pypi/dateable.chronos@0.7.1",
+        "pkg:pypi/dateable.chronos@0.7.0",
+        "pkg:pypi/dateable.chronos@0.5"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/dateable.chronos@1.0",
+        "pkg:pypi/dateable.chronos@0.7.2.1",
+        "pkg:pypi/dateable.chronos@0.8",
+        "pkg:pypi/dateable.chronos@0.7.2",
+        "pkg:pypi/dateable.chronos@0.7.2.2",
+        "pkg:pypi/dateable.chronos@0.7.2dev"
+    ]
+}

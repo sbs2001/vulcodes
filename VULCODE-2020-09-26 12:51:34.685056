@@ -1,0 +1,55 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:34.685056",
+    "summary": "pywbem 0.13.0 increases the minimum required versions dependent Python\r\n  packages in order to fix security issues with these packages.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36927"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/pywbem@0.10.0",
+        "pkg:pypi/pywbem@0.8.3",
+        "pkg:pypi/pywbem@0.12.2",
+        "pkg:pypi/pywbem@0.8.2",
+        "pkg:pypi/pywbem@0.10.1",
+        "pkg:pypi/pywbem@0.12.5",
+        "pkg:pypi/pywbem@0.9.1",
+        "pkg:pypi/pywbem@0.12.4",
+        "pkg:pypi/pywbem@0.12.1",
+        "pkg:pypi/pywbem@0.12.0",
+        "pkg:pypi/pywbem@0.11.0",
+        "pkg:pypi/pywbem@0.8.1",
+        "pkg:pypi/pywbem@0.12.6",
+        "pkg:pypi/pywbem@0.8.4",
+        "pkg:pypi/pywbem@0.12.3",
+        "pkg:pypi/pywbem@0.7.0",
+        "pkg:pypi/pywbem@0.9.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/pywbem@0.16.0",
+        "pkg:pypi/pywbem@0.17.3",
+        "pkg:pypi/pywbem@0.14.1",
+        "pkg:pypi/pywbem@0.17.1",
+        "pkg:pypi/pywbem@0.17.2",
+        "pkg:pypi/pywbem@0.14.4",
+        "pkg:pypi/pywbem@1.0.0b3",
+        "pkg:pypi/pywbem@0.14.0",
+        "pkg:pypi/pywbem@1.0.0",
+        "pkg:pypi/pywbem@1.0.2",
+        "pkg:pypi/pywbem@0.17.0",
+        "pkg:pypi/pywbem@0.17.5",
+        "pkg:pypi/pywbem@0.14.3",
+        "pkg:pypi/pywbem@0.15.0",
+        "pkg:pypi/pywbem@0.17.4",
+        "pkg:pypi/pywbem@1.0.0b2",
+        "pkg:pypi/pywbem@1.0.1",
+        "pkg:pypi/pywbem@0.14.2",
+        "pkg:pypi/pywbem@0.13.0",
+        "pkg:pypi/pywbem@1.0.0b4",
+        "pkg:pypi/pywbem@1.0.0b1",
+        "pkg:pypi/pywbem@0.13.1",
+        "pkg:pypi/pywbem@0.14.5",
+        "pkg:pypi/pywbem@0.14.6"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:28.075251",
+    "summary": "Jetforce 0.2.3 fixes a security vulnerability that allowed maliciously crafted URLs to break out of the root server directory.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38324"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/jetforce@0.1.0",
+        "pkg:pypi/jetforce@0.0.3",
+        "pkg:pypi/jetforce@0.2.0",
+        "pkg:pypi/jetforce@0.0.6",
+        "pkg:pypi/jetforce@0.0.7",
+        "pkg:pypi/jetforce@0.2.1",
+        "pkg:pypi/jetforce@0.2.2",
+        "pkg:pypi/jetforce@0.0.2",
+        "pkg:pypi/jetforce@0.0.1",
+        "pkg:pypi/jetforce@0.0.5",
+        "pkg:pypi/jetforce@0.0.4"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/jetforce@0.2.3",
+        "pkg:pypi/jetforce@0.6.0",
+        "pkg:pypi/jetforce@0.3.0b2",
+        "pkg:pypi/jetforce@0.3.0b1",
+        "pkg:pypi/jetforce@0.3.1",
+        "pkg:pypi/jetforce@0.3.0b4",
+        "pkg:pypi/jetforce@0.3.0b5",
+        "pkg:pypi/jetforce@0.5.0",
+        "pkg:pypi/jetforce@0.4.0",
+        "pkg:pypi/jetforce@0.3.0b6",
+        "pkg:pypi/jetforce@0.3.0b3",
+        "pkg:pypi/jetforce@0.3.0",
+        "pkg:pypi/jetforce@0.3.2"
+    ]
+}

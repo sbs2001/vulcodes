@@ -1,0 +1,18 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:52:30.424471",
+    "summary": "smeagol 0.1.0 has several known bugs and security issues that need to be addressed before it can be used in production.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-34818"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/smeagol@0.1.4",
+        "pkg:pypi/smeagol@0.1.2",
+        "pkg:pypi/smeagol@0.1.0",
+        "pkg:pypi/smeagol@0.1.1",
+        "pkg:pypi/smeagol@0.1.3"
+    ]
+}

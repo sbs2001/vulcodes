@@ -1,0 +1,21 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:46:31.723198",
+    "summary": "django-airplane 0.3 updates minimum django to secure 2.0.2.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36587"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/django-airplane@0.1.1",
+        "pkg:pypi/django-airplane@0.1.0",
+        "pkg:pypi/django-airplane@0.2.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/django-airplane@1.0.0",
+        "pkg:pypi/django-airplane@0.3.1",
+        "pkg:pypi/django-airplane@0.3.0",
+        "pkg:pypi/django-airplane@1.1.0"
+    ]
+}

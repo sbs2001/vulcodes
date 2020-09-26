@@ -1,0 +1,15 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:50:38.367421",
+    "summary": "Products-zopetree 1.3 fixes a security hole in the tree state decompressing mechanism. Previous versions were vulnerable to a denial of service attack using large tree states.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37726"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/products-zopetree@2.0",
+        "pkg:pypi/products-zopetree@2.0.1"
+    ]
+}

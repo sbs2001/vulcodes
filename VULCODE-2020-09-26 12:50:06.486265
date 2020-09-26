@@ -1,0 +1,33 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:50:06.486265",
+    "summary": "pirate-get before 0.2.8 is not properly validating torrent file names.\r\n\r\n- https://github.com/vikstrous/pirate-get/issues/73",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-34168"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/pirate-get@0.2.7",
+        "pkg:pypi/pirate-get@0.2.5",
+        "pkg:pypi/pirate-get@0.2.6",
+        "pkg:pypi/pirate-get@0.2.4"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/pirate-get@0.2.10",
+        "pkg:pypi/pirate-get@0.2.13",
+        "pkg:pypi/pirate-get@0.3.0",
+        "pkg:pypi/pirate-get@0.2.9",
+        "pkg:pypi/pirate-get@0.3.3",
+        "pkg:pypi/pirate-get@0.3.2",
+        "pkg:pypi/pirate-get@0.3.5",
+        "pkg:pypi/pirate-get@0.3.6",
+        "pkg:pypi/pirate-get@0.3.1",
+        "pkg:pypi/pirate-get@0.3.4",
+        "pkg:pypi/pirate-get@0.2.12",
+        "pkg:pypi/pirate-get@0.2.8",
+        "pkg:pypi/pirate-get@0.4.0",
+        "pkg:pypi/pirate-get@0.3.7",
+        "pkg:pypi/pirate-get@0.2.11"
+    ]
+}

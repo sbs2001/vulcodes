@@ -1,0 +1,42 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:44:48.588200",
+    "summary": "bise.theme 2.4 fixes a potential XSS issue with catalogue search.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25639"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/bise.theme@1.14.3",
+        "pkg:pypi/bise.theme@1.11",
+        "pkg:pypi/bise.theme@1.9",
+        "pkg:pypi/bise.theme@1.20.1",
+        "pkg:pypi/bise.theme@1.6",
+        "pkg:pypi/bise.theme@1.14.2",
+        "pkg:pypi/bise.theme@1.5",
+        "pkg:pypi/bise.theme@1.0",
+        "pkg:pypi/bise.theme@1.1",
+        "pkg:pypi/bise.theme@1.17.1",
+        "pkg:pypi/bise.theme@1.11.1",
+        "pkg:pypi/bise.theme@1.2.1",
+        "pkg:pypi/bise.theme@1.12",
+        "pkg:pypi/bise.theme@1.20",
+        "pkg:pypi/bise.theme@1.7",
+        "pkg:pypi/bise.theme@1.16",
+        "pkg:pypi/bise.theme@1.4",
+        "pkg:pypi/bise.theme@1.15",
+        "pkg:pypi/bise.theme@1.14.4",
+        "pkg:pypi/bise.theme@1.17",
+        "pkg:pypi/bise.theme@1.10",
+        "pkg:pypi/bise.theme@1.3",
+        "pkg:pypi/bise.theme@1.18",
+        "pkg:pypi/bise.theme@1.14.1",
+        "pkg:pypi/bise.theme@1.2.2",
+        "pkg:pypi/bise.theme@1.19",
+        "pkg:pypi/bise.theme@1.2",
+        "pkg:pypi/bise.theme@1.8",
+        "pkg:pypi/bise.theme@1.13"
+    ],
+    "resolved_packages": []
+}

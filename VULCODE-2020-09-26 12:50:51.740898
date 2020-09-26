@@ -1,0 +1,25 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:50:51.740898",
+    "summary": "Version 1.1.2: Bible pickle files have been replaced by JSON files for better performance and security.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38043"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/pybible-cli@1.0.0",
+        "pkg:pypi/pybible-cli@1.1.1",
+        "pkg:pypi/pybible-cli@1.0.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/pybible-cli@1.2.3",
+        "pkg:pypi/pybible-cli@1.2.4",
+        "pkg:pypi/pybible-cli@1.1.3",
+        "pkg:pypi/pybible-cli@1.2.5",
+        "pkg:pypi/pybible-cli@1.2.1",
+        "pkg:pypi/pybible-cli@1.1.4",
+        "pkg:pypi/pybible-cli@1.2.0",
+        "pkg:pypi/pybible-cli@1.2.2"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:18.377131",
+    "summary": "contestms 1.2.0 fixes several security bugs around an unsafe use of isolate. These won't be backported to 1.1, so make sure you update.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-34249"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/contestms@1.3.0rc0"
+    ]
+}

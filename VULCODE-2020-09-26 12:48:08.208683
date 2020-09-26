@@ -1,0 +1,16 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:08.208683",
+    "summary": "great-components 25.0.1 updates lodash vulnerability",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37925"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/great-components@1.1.0",
+        "pkg:pypi/great-components@1.0.0",
+        "pkg:pypi/great-components@1.1.1"
+    ],
+    "resolved_packages": []
+}

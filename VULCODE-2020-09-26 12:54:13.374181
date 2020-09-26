@@ -1,0 +1,14 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:54:13.374181",
+    "summary": "zwiki before <0.59 has a vulnerability in a comment form.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-26200"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/zwiki@2.0b1"
+    ]
+}
