@@ -1,0 +1,57 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:48.866946",
+    "summary": "Repobee 1.3.2 uses git pull instead of git clone. This is a security update.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38522"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/repobee@0.0.0",
+        "pkg:pypi/repobee@1.2.0",
+        "pkg:pypi/repobee@1.3.0",
+        "pkg:pypi/repobee@1.2.1",
+        "pkg:pypi/repobee@1.3.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/repobee@3.0.2",
+        "pkg:pypi/repobee@3.2.0",
+        "pkg:pypi/repobee@2.0.1",
+        "pkg:pypi/repobee@3.0.0a4",
+        "pkg:pypi/repobee@2.2.0",
+        "pkg:pypi/repobee@3.0.0b3",
+        "pkg:pypi/repobee@1.5.0",
+        "pkg:pypi/repobee@2.0.0",
+        "pkg:pypi/repobee@3.1.1",
+        "pkg:pypi/repobee@3.0.0a5",
+        "pkg:pypi/repobee@3.0.1",
+        "pkg:pypi/repobee@2.3.1",
+        "pkg:pypi/repobee@2.0a1",
+        "pkg:pypi/repobee@1.6.0",
+        "pkg:pypi/repobee@3.0.0a3",
+        "pkg:pypi/repobee@1.4.0",
+        "pkg:pypi/repobee@3.0.0b0",
+        "pkg:pypi/repobee@3.0.0a6",
+        "pkg:pypi/repobee@3.2.2",
+        "pkg:pypi/repobee@2.3.0",
+        "pkg:pypi/repobee@3.0.0",
+        "pkg:pypi/repobee@3.0.0a0",
+        "pkg:pypi/repobee@3.0.0b2",
+        "pkg:pypi/repobee@3.2.3",
+        "pkg:pypi/repobee@2.1.0",
+        "pkg:pypi/repobee@2.4.0a0",
+        "pkg:pypi/repobee@2.0a0",
+        "pkg:pypi/repobee@3.0.0a2",
+        "pkg:pypi/repobee@1.3.3",
+        "pkg:pypi/repobee@3.0.0a1",
+        "pkg:pypi/repobee@2.4.0",
+        "pkg:pypi/repobee@3.1.0",
+        "pkg:pypi/repobee@1.5.1",
+        "pkg:pypi/repobee@3.0.0a7",
+        "pkg:pypi/repobee@3.0.0b1",
+        "pkg:pypi/repobee@2.0.2",
+        "pkg:pypi/repobee@3.2.1",
+        "pkg:pypi/repobee@1.3.2"
+    ]
+}

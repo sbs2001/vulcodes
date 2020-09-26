@@ -1,0 +1,48 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:50:50.931976",
+    "summary": "pycapnp before 0.5.5 bundled an insecure library (libcapnp).",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-26030"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/pycapnp@0.5.2",
+        "pkg:pypi/pycapnp@0.4.4",
+        "pkg:pypi/pycapnp@0.5.4",
+        "pkg:pypi/pycapnp@0.4.5",
+        "pkg:pypi/pycapnp@0.3.13",
+        "pkg:pypi/pycapnp@0.3.15",
+        "pkg:pypi/pycapnp@0.4.6",
+        "pkg:pypi/pycapnp@0.4.3",
+        "pkg:pypi/pycapnp@0.4.0",
+        "pkg:pypi/pycapnp@0.3.18",
+        "pkg:pypi/pycapnp@0.4.2",
+        "pkg:pypi/pycapnp@0.3.12",
+        "pkg:pypi/pycapnp@0.5.0",
+        "pkg:pypi/pycapnp@0.3.16",
+        "pkg:pypi/pycapnp@0.4.1",
+        "pkg:pypi/pycapnp@0.1.0",
+        "pkg:pypi/pycapnp@0.3.11",
+        "pkg:pypi/pycapnp@0.5.3",
+        "pkg:pypi/pycapnp@0.3.14",
+        "pkg:pypi/pycapnp@0.5.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/pycapnp@1.0.0b2",
+        "pkg:pypi/pycapnp@0.5.8",
+        "pkg:pypi/pycapnp@1.0.0b1",
+        "pkg:pypi/pycapnp@0.5.6",
+        "pkg:pypi/pycapnp@0.5.10",
+        "pkg:pypi/pycapnp@0.6.3",
+        "pkg:pypi/pycapnp@0.6.4",
+        "pkg:pypi/pycapnp@0.6.1",
+        "pkg:pypi/pycapnp@0.6.2",
+        "pkg:pypi/pycapnp@0.5.11",
+        "pkg:pypi/pycapnp@0.5.5",
+        "pkg:pypi/pycapnp@0.5.7",
+        "pkg:pypi/pycapnp@0.5.9",
+        "pkg:pypi/pycapnp@0.5.12"
+    ]
+}

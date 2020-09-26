@@ -1,0 +1,16 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:47.051460",
+    "summary": "remme 0.2.1alpha reviewed and fixed security issues on token operations.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36973"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/remme@1.1.1",
+        "pkg:pypi/remme@1.0.0",
+        "pkg:pypi/remme@1.1.0a1"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:50.065523",
+    "summary": "Setting `verify_ssl` to `False` in the client configuration of launchdarkly-server-sdk before 6.12.2 did not have the expected effect of completely turning off SSL/TLS verification, because it still left _certificate_ verification in effect, so it would allow a totally insecure connection but reject a secure connection whose certificate had an unknown CA. This has been changed so that it will turn off certificate verification as well. This is not a recommended practice and a future version of the SDK will add a way to specify a custom certificate authority instead (to support, for instance, using the Relay Proxy with a self-signed certificate).",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38082"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/launchdarkly-server-sdk@6.9.2",
+        "pkg:pypi/launchdarkly-server-sdk@6.11.2",
+        "pkg:pypi/launchdarkly-server-sdk@6.10.2",
+        "pkg:pypi/launchdarkly-server-sdk@6.11.0",
+        "pkg:pypi/launchdarkly-server-sdk@6.10.1",
+        "pkg:pypi/launchdarkly-server-sdk@6.11.3",
+        "pkg:pypi/launchdarkly-server-sdk@6.9.3",
+        "pkg:pypi/launchdarkly-server-sdk@6.12.1",
+        "pkg:pypi/launchdarkly-server-sdk@6.12.0",
+        "pkg:pypi/launchdarkly-server-sdk@6.9.4",
+        "pkg:pypi/launchdarkly-server-sdk@6.11.1",
+        "pkg:pypi/launchdarkly-server-sdk@6.10.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/launchdarkly-server-sdk@6.12.2",
+        "pkg:pypi/launchdarkly-server-sdk@6.13.0",
+        "pkg:pypi/launchdarkly-server-sdk@6.13.2",
+        "pkg:pypi/launchdarkly-server-sdk@6.13.1"
+    ]
+}

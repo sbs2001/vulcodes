@@ -1,0 +1,58 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:51.810772",
+    "summary": "Pdkit 1.2.1 includes an unspecified security fix for included libraries.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37793"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/pdkit@0.4.4",
+        "pkg:pypi/pdkit@0.4.9",
+        "pkg:pypi/pdkit@0.4.3",
+        "pkg:pypi/pdkit@0.3.3",
+        "pkg:pypi/pdkit@0.1",
+        "pkg:pypi/pdkit@0.2.7",
+        "pkg:pypi/pdkit@0.2.14",
+        "pkg:pypi/pdkit@1.0",
+        "pkg:pypi/pdkit@0.1.1",
+        "pkg:pypi/pdkit@0.2.4",
+        "pkg:pypi/pdkit@0.2.17",
+        "pkg:pypi/pdkit@0.2.0",
+        "pkg:pypi/pdkit@0.2.18",
+        "pkg:pypi/pdkit@0.4.2",
+        "pkg:pypi/pdkit@0.1.5",
+        "pkg:pypi/pdkit@0.2.3",
+        "pkg:pypi/pdkit@0.2.2",
+        "pkg:pypi/pdkit@0.4",
+        "pkg:pypi/pdkit@0.1.6",
+        "pkg:pypi/pdkit@0.2.15",
+        "pkg:pypi/pdkit@0.1.9",
+        "pkg:pypi/pdkit@0.2.13",
+        "pkg:pypi/pdkit@0.1.10",
+        "pkg:pypi/pdkit@0.1.8",
+        "pkg:pypi/pdkit@0.2.5",
+        "pkg:pypi/pdkit@0.4.10",
+        "pkg:pypi/pdkit@0.2.6",
+        "pkg:pypi/pdkit@0.2.1",
+        "pkg:pypi/pdkit@0.4.5",
+        "pkg:pypi/pdkit@0.2.11",
+        "pkg:pypi/pdkit@0.2.12",
+        "pkg:pypi/pdkit@0.4.11",
+        "pkg:pypi/pdkit@0.1.7",
+        "pkg:pypi/pdkit@0.4.6",
+        "pkg:pypi/pdkit@0.1.2",
+        "pkg:pypi/pdkit@1.2",
+        "pkg:pypi/pdkit@0.1.4",
+        "pkg:pypi/pdkit@0.1.3",
+        "pkg:pypi/pdkit@0.2.16",
+        "pkg:pypi/pdkit@0.4.8",
+        "pkg:pypi/pdkit@0.3.4",
+        "pkg:pypi/pdkit@0.3.6"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/pdkit@1.3.1",
+        "pkg:pypi/pdkit@1.3.2"
+    ]
+}

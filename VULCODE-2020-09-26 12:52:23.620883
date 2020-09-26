@@ -1,0 +1,20 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:52:23.620883",
+    "summary": "sequoia-client-sdk 1.2.0 upgrades libraries `urllib3` and `requests` upgraded to solve security issues:",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36949"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/sequoia-client-sdk@1.1.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/sequoia-client-sdk@2.2.0",
+        "pkg:pypi/sequoia-client-sdk@2.0.0",
+        "pkg:pypi/sequoia-client-sdk@2.1.0",
+        "pkg:pypi/sequoia-client-sdk@2.1.1",
+        "pkg:pypi/sequoia-client-sdk@1.2.0"
+    ]
+}

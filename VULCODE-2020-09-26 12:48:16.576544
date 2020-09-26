@@ -1,0 +1,19 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:16.576544",
+    "summary": "Ib-client 0.1.2 updates packages (especially Jinja2 which had a vulnerability in version 2.10).",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37047"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/ib-client@0.1.1",
+        "pkg:pypi/ib-client@0.1.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/ib-client@0.1.2",
+        "pkg:pypi/ib-client@0.1.4",
+        "pkg:pypi/ib-client@0.1.3"
+    ]
+}

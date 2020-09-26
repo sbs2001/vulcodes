@@ -1,0 +1,35 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:07.199177",
+    "summary": "pyowm 2.10 upgrades version for dependencies `requests` and `urllib3` as known security issues were raised for them.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36750"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/pyowm@0.2.0",
+        "pkg:pypi/pyowm@0.4.0",
+        "pkg:pypi/pyowm@2.9.0",
+        "pkg:pypi/pyowm@2.4.0",
+        "pkg:pypi/pyowm@1.0.0",
+        "pkg:pypi/pyowm@2.0.0",
+        "pkg:pypi/pyowm@2.7.0",
+        "pkg:pypi/pyowm@2.3.1",
+        "pkg:pypi/pyowm@2.3.0",
+        "pkg:pypi/pyowm@2.7.1",
+        "pkg:pypi/pyowm@2.2.0",
+        "pkg:pypi/pyowm@2.6.0",
+        "pkg:pypi/pyowm@2.2.1",
+        "pkg:pypi/pyowm@2.6.1",
+        "pkg:pypi/pyowm@2.5.0",
+        "pkg:pypi/pyowm@2.3.2",
+        "pkg:pypi/pyowm@0.4.1",
+        "pkg:pypi/pyowm@1.2.0",
+        "pkg:pypi/pyowm@2.8.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/pyowm@2.10.0",
+        "pkg:pypi/pyowm@3.0.0"
+    ]
+}

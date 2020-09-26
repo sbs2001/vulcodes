@@ -1,0 +1,21 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:50:39.184138",
+    "summary": "products.cmfcontentpanels before 1.4.1 has two not disclosed security issues.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-26020"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/products.cmfcontentpanels@2.6a9dev",
+        "pkg:pypi/products.cmfcontentpanels@2.6a8dev",
+        "pkg:pypi/products.cmfcontentpanels@2.6a1",
+        "pkg:pypi/products.cmfcontentpanels@2.6b1",
+        "pkg:pypi/products.cmfcontentpanels@2.6b2",
+        "pkg:pypi/products.cmfcontentpanels@2.6a2",
+        "pkg:pypi/products.cmfcontentpanels@2.6a7",
+        "pkg:pypi/products.cmfcontentpanels@2.6a2dev"
+    ]
+}

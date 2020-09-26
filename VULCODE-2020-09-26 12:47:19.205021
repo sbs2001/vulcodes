@@ -1,0 +1,15 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:47:19.205021",
+    "summary": "Espeakng 1.49.0 fixes many security issues. No details were given.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38581"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/espeakng@1.0.1",
+        "pkg:pypi/espeakng@1.0.2"
+    ],
+    "resolved_packages": []
+}

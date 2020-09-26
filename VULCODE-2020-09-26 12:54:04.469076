@@ -1,0 +1,31 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:54:04.469076",
+    "summary": "yasha before 4.0 is parsing JSON without using the 'safe_load' function.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-35004"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/yasha@1.3",
+        "pkg:pypi/yasha@2.1",
+        "pkg:pypi/yasha@1.1",
+        "pkg:pypi/yasha@2.0",
+        "pkg:pypi/yasha@1.0",
+        "pkg:pypi/yasha@1.5.1",
+        "pkg:pypi/yasha@1.5.2",
+        "pkg:pypi/yasha@3.0",
+        "pkg:pypi/yasha@1.5",
+        "pkg:pypi/yasha@1.2",
+        "pkg:pypi/yasha@3.1",
+        "pkg:pypi/yasha@1.4"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/yasha@4.4",
+        "pkg:pypi/yasha@4.3",
+        "pkg:pypi/yasha@4.0",
+        "pkg:pypi/yasha@4.1",
+        "pkg:pypi/yasha@4.2"
+    ]
+}

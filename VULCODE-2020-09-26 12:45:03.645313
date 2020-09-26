@@ -1,0 +1,29 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:03.645313",
+    "summary": "Chia-blockchain 1.0beta10 includes various vulnerability fixes.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38700"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/chia-blockchain@1.0b4",
+        "pkg:pypi/chia-blockchain@1.0b5",
+        "pkg:pypi/chia-blockchain@0.1",
+        "pkg:pypi/chia-blockchain@1.0b6",
+        "pkg:pypi/chia-blockchain@1.0b8",
+        "pkg:pypi/chia-blockchain@1.0b9",
+        "pkg:pypi/chia-blockchain@1.0b7",
+        "pkg:pypi/chia-blockchain@1.0b2",
+        "pkg:pypi/chia-blockchain@1.0b1",
+        "pkg:pypi/chia-blockchain@1.0b3"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/chia-blockchain@1.0b12.dev117",
+        "pkg:pypi/chia-blockchain@1.0b10",
+        "pkg:pypi/chia-blockchain@1.0b12",
+        "pkg:pypi/chia-blockchain@1.0b13",
+        "pkg:pypi/chia-blockchain@1.0b11"
+    ]
+}

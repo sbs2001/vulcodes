@@ -1,0 +1,22 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:05.826172",
+    "summary": "Circup 0.0.6 includes an unspecified security fix.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37936"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/circup@0.0.4",
+        "pkg:pypi/circup@0.0.5",
+        "pkg:pypi/circup@0.0.1",
+        "pkg:pypi/circup@0.0.3"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/circup@0.1.0",
+        "pkg:pypi/circup@0.2.2",
+        "pkg:pypi/circup@0.0.6",
+        "pkg:pypi/circup@0.0.8"
+    ]
+}

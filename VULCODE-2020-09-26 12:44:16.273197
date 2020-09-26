@@ -1,0 +1,22 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:44:16.273197",
+    "summary": "alt-model-checkpoint 1.0.1 upgrades dependencies, esp. for requests==2.20.0 security patch",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36628"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/alt-model-checkpoint@1.0.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/alt-model-checkpoint@1.13.0",
+        "pkg:pypi/alt-model-checkpoint@2.0.0",
+        "pkg:pypi/alt-model-checkpoint@1.0.2",
+        "pkg:pypi/alt-model-checkpoint@1.0.1",
+        "pkg:pypi/alt-model-checkpoint@2.0.3",
+        "pkg:pypi/alt-model-checkpoint@2.0.2",
+        "pkg:pypi/alt-model-checkpoint@2.0.1"
+    ]
+}

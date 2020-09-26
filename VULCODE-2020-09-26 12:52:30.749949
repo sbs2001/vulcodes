@@ -1,0 +1,25 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:52:30.749949",
+    "summary": "Sockjs-tornado 1.0.7 includes a fix for a XSS vulnerability. No details are given. Possibly it's related to the XSS vulnerability that was addressed in 1.0.6, which jeopardized the HTMLFILE transport.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38215"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/sockjs-tornado@0.0.4",
+        "pkg:pypi/sockjs-tornado@0.0.2",
+        "pkg:pypi/sockjs-tornado@1.0.5",
+        "pkg:pypi/sockjs-tornado@0.0.5",
+        "pkg:pypi/sockjs-tornado@1.0.6",
+        "pkg:pypi/sockjs-tornado@0.0.3",
+        "pkg:pypi/sockjs-tornado@1.0.1",
+        "pkg:pypi/sockjs-tornado@1.0.2",
+        "pkg:pypi/sockjs-tornado@1.0.0",
+        "pkg:pypi/sockjs-tornado@1.0.3"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/sockjs-tornado@1.0.7"
+    ]
+}

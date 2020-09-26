@@ -1,0 +1,56 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:53:54.651111",
+    "summary": "waitress 1.4.3 fixes a regular expression function (introduced in 1.4.2 to make sure that it matches RFC7230) that led to catastrophic backtracking which allows for a Denial of Service and CPU usage going to a 100% - see https://github.com/Pylons/waitress/security/advisories/GHSA-73m2-3pwg-5fgc",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37667"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/waitress@0.8.1",
+        "pkg:pypi/waitress@1.4.2",
+        "pkg:pypi/waitress@0.9.0b0",
+        "pkg:pypi/waitress@0.2",
+        "pkg:pypi/waitress@0.8.6",
+        "pkg:pypi/waitress@1.2.0b2",
+        "pkg:pypi/waitress@1.3.0b0",
+        "pkg:pypi/waitress@0.3",
+        "pkg:pypi/waitress@0.8.3",
+        "pkg:pypi/waitress@0.7",
+        "pkg:pypi/waitress@0.5",
+        "pkg:pypi/waitress@0.8.2",
+        "pkg:pypi/waitress@0.6.1",
+        "pkg:pypi/waitress@1.0a2",
+        "pkg:pypi/waitress@0.8.8",
+        "pkg:pypi/waitress@0.9.0b1",
+        "pkg:pypi/waitress@0.8.9",
+        "pkg:pypi/waitress@0.1",
+        "pkg:pypi/waitress@0.6",
+        "pkg:pypi/waitress@0.4",
+        "pkg:pypi/waitress@0.8.10",
+        "pkg:pypi/waitress@1.2.0b3",
+        "pkg:pypi/waitress@1.3.1",
+        "pkg:pypi/waitress@1.2.0",
+        "pkg:pypi/waitress@0.8.11b0",
+        "pkg:pypi/waitress@0.8.5",
+        "pkg:pypi/waitress@0.8.4",
+        "pkg:pypi/waitress@1.1.0",
+        "pkg:pypi/waitress@0.8.7",
+        "pkg:pypi/waitress@1.2.0b1",
+        "pkg:pypi/waitress@1.2.1",
+        "pkg:pypi/waitress@0.8",
+        "pkg:pypi/waitress@0.9.0",
+        "pkg:pypi/waitress@1.4.0",
+        "pkg:pypi/waitress@1.0.1",
+        "pkg:pypi/waitress@1.0a1",
+        "pkg:pypi/waitress@1.3.0",
+        "pkg:pypi/waitress@1.0.2",
+        "pkg:pypi/waitress@1.4.1",
+        "pkg:pypi/waitress@1.0.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/waitress@1.4.3",
+        "pkg:pypi/waitress@1.4.4"
+    ]
+}

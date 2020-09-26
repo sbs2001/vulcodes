@@ -1,0 +1,25 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:39.420363",
+    "summary": "discogs-client 2.2.2 updates dependencies to resolve security vulnerabilities",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36787"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/discogs-client@2.0.2",
+        "pkg:pypi/discogs-client@1.1.1",
+        "pkg:pypi/discogs-client@2.0.0",
+        "pkg:pypi/discogs-client@1.1.0",
+        "pkg:pypi/discogs-client@1.0.0",
+        "pkg:pypi/discogs-client@2.0.1",
+        "pkg:pypi/discogs-client@2.2.0",
+        "pkg:pypi/discogs-client@2.2.1",
+        "pkg:pypi/discogs-client@2.1.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/discogs-client@2.3.0",
+        "pkg:pypi/discogs-client@2.2.2"
+    ]
+}

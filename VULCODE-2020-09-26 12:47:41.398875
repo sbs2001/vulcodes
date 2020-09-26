@@ -1,0 +1,36 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:47:41.398875",
+    "summary": "ftw.meeting before 1.4.1 isn't using safe-html-transform for textfields.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25834"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/ftw.meeting@1.4.0.1",
+        "pkg:pypi/ftw.meeting@1.3.8",
+        "pkg:pypi/ftw.meeting@1.4"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/ftw.meeting@1.4.4",
+        "pkg:pypi/ftw.meeting@1.5.0",
+        "pkg:pypi/ftw.meeting@1.4.5",
+        "pkg:pypi/ftw.meeting@1.4.8",
+        "pkg:pypi/ftw.meeting@1.4.3",
+        "pkg:pypi/ftw.meeting@1.5.2",
+        "pkg:pypi/ftw.meeting@1.4.7",
+        "pkg:pypi/ftw.meeting@1.4.2",
+        "pkg:pypi/ftw.meeting@1.6.0",
+        "pkg:pypi/ftw.meeting@1.7.0",
+        "pkg:pypi/ftw.meeting@1.4.1",
+        "pkg:pypi/ftw.meeting@1.5.1",
+        "pkg:pypi/ftw.meeting@1.8.0",
+        "pkg:pypi/ftw.meeting@1.6.1",
+        "pkg:pypi/ftw.meeting@1.4.9",
+        "pkg:pypi/ftw.meeting@1.4.10",
+        "pkg:pypi/ftw.meeting@1.4.6",
+        "pkg:pypi/ftw.meeting@1.5.3",
+        "pkg:pypi/ftw.meeting@1.6.2"
+    ]
+}

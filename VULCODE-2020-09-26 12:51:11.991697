@@ -1,0 +1,24 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:11.991697",
+    "summary": "pytest-aoc 1.2a6 removes security misfeature: no cookies inside setup.cfg.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37267"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/pytest-aoc@1.0",
+        "pkg:pypi/pytest-aoc@1.1",
+        "pkg:pypi/pytest-aoc@0.1.dev9",
+        "pkg:pypi/pytest-aoc@0.1.dev12",
+        "pkg:pypi/pytest-aoc@0.1.dev13",
+        "pkg:pypi/pytest-aoc@0.1.dev1",
+        "pkg:pypi/pytest-aoc@0.1.dev3",
+        "pkg:pypi/pytest-aoc@0.1.dev2"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/pytest-aoc@1.2a6",
+        "pkg:pypi/pytest-aoc@1.3a0"
+    ]
+}

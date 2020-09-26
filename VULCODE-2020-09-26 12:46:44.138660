@@ -1,0 +1,34 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:46:44.138660",
+    "summary": "django-friendship 1.2.0 fixes a security issue where the library was not checking the owner of a FriendRequest during accept and cancelation.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25762"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/django-friendship@0.8.3",
+        "pkg:pypi/django-friendship@0.9.0",
+        "pkg:pypi/django-friendship@1.0.0",
+        "pkg:pypi/django-friendship@1.1.0",
+        "pkg:pypi/django-friendship@0.8.1",
+        "pkg:pypi/django-friendship@0.8.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/django-friendship@1.9.1",
+        "pkg:pypi/django-friendship@1.8.1",
+        "pkg:pypi/django-friendship@1.7.1",
+        "pkg:pypi/django-friendship@1.8.2",
+        "pkg:pypi/django-friendship@1.2.0",
+        "pkg:pypi/django-friendship@1.7.0",
+        "pkg:pypi/django-friendship@1.3.3",
+        "pkg:pypi/django-friendship@1.3.0",
+        "pkg:pypi/django-friendship@1.8.0",
+        "pkg:pypi/django-friendship@1.3.1",
+        "pkg:pypi/django-friendship@1.3.2",
+        "pkg:pypi/django-friendship@1.6.0",
+        "pkg:pypi/django-friendship@1.9.0",
+        "pkg:pypi/django-friendship@1.5.0"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:48.367797",
+    "summary": "Pandas-zmq 0.0.2 adds a signature to improve security.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38627"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/pandas-zmq@0.0.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/pandas-zmq@0.0.2",
+        "pkg:pypi/pandas-zmq@0.0.3"
+    ]
+}

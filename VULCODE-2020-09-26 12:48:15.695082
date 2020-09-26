@@ -1,0 +1,15 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:15.695082",
+    "summary": "humblesetuptools 1.3 adresses a security vulnerability in SSL match_hostname check as reported in  Python #17997.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25852"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/humblesetuptools@3.4.5dev",
+        "pkg:pypi/humblesetuptools@3.4.5"
+    ]
+}

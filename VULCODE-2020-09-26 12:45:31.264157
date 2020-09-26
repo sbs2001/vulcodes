@@ -1,0 +1,21 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:31.264157",
+    "summary": "Deeposlandia 0.6.2 updates pillow to 7.1.1 to fix a moderate-severity vulnerability in pillow <6.2.2.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38285"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/deeposlandia@0.6.1",
+        "pkg:pypi/deeposlandia@0.6.post3",
+        "pkg:pypi/deeposlandia@0.4",
+        "pkg:pypi/deeposlandia@0.5"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/deeposlandia@0.6.2",
+        "pkg:pypi/deeposlandia@0.6.3.post1",
+        "pkg:pypi/deeposlandia@0.6.3"
+    ]
+}

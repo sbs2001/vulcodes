@@ -1,0 +1,17 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:55.069567",
+    "summary": "Rendertron 3.0.0 fixes a security issue with AppEngine deployments.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38571"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/rendertron@0.1.0",
+        "pkg:pypi/rendertron@0.2.0",
+        "pkg:pypi/rendertron@0.2.1",
+        "pkg:pypi/rendertron@0.0.1"
+    ],
+    "resolved_packages": []
+}

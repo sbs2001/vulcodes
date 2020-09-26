@@ -1,0 +1,16 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:01.293954",
+    "summary": "Cfstacks 0.4.4 upgrades PyAML to 4.2b1 (or later) to fix a security vulnerability.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38388"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/cfstacks@0.4.5",
+        "pkg:pypi/cfstacks@0.4.6",
+        "pkg:pypi/cfstacks@0.4.7"
+    ]
+}

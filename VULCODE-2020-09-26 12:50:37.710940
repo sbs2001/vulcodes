@@ -1,0 +1,14 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:50:37.710940",
+    "summary": "pretaweb.healthcheck before 1.0 is vulnerable to DoS attacks.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-26016"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/pretaweb.healthcheck@1.0"
+    ]
+}

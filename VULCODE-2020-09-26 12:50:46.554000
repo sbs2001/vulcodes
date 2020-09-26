@@ -1,0 +1,22 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:50:46.554000",
+    "summary": "py-espeak-ng 1.49.0 fixes many logic and security issues reported by clang scan-build, Coverity and msvc /analyze.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36322"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/py-espeak-ng@0.1.0",
+        "pkg:pypi/py-espeak-ng@0.1.7",
+        "pkg:pypi/py-espeak-ng@0.1.4",
+        "pkg:pypi/py-espeak-ng@0.1.5",
+        "pkg:pypi/py-espeak-ng@0.1.8",
+        "pkg:pypi/py-espeak-ng@0.1.3",
+        "pkg:pypi/py-espeak-ng@0.1.1",
+        "pkg:pypi/py-espeak-ng@0.1.2",
+        "pkg:pypi/py-espeak-ng@0.1.6"
+    ],
+    "resolved_packages": []
+}

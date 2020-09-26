@@ -1,0 +1,39 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:15.775260",
+    "summary": "confidant 1.1.14 contains a security fix: While preparing for the 1.1 stable release Lyft found a KMS  authentication vulnerability in the unreleased 1.1 branch while performing an  audit of the code. The vulnerability was introduced while adding the scoped auth  key feature (for limiting authentication keys and services to specific AWS  accounts), where the key was not properly checked after decryption. This check is  an additional verification to add additional safety on-top of the IAM policy of  your KMS keys. If IAM policy allows users to use KMS keys without limits on  encryption context, a KMS key that wasn't intended to be used for auth, could be  used for auth.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25668"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/confidant@5.0.1",
+        "pkg:pypi/confidant@4.2.0",
+        "pkg:pypi/confidant@1.4.0",
+        "pkg:pypi/confidant@1.8.0",
+        "pkg:pypi/confidant@5.1.0",
+        "pkg:pypi/confidant@1.9.0",
+        "pkg:pypi/confidant@1.5.0",
+        "pkg:pypi/confidant@1.5.1",
+        "pkg:pypi/confidant@1.1.21",
+        "pkg:pypi/confidant@1.1.19",
+        "pkg:pypi/confidant@1.2.0",
+        "pkg:pypi/confidant@1.11.0",
+        "pkg:pypi/confidant@1.6.0",
+        "pkg:pypi/confidant@6.1.0",
+        "pkg:pypi/confidant@4.0.0",
+        "pkg:pypi/confidant@4.4.0",
+        "pkg:pypi/confidant@4.1.0",
+        "pkg:pypi/confidant@5.2.0",
+        "pkg:pypi/confidant@1.10.1",
+        "pkg:pypi/confidant@1.3.0",
+        "pkg:pypi/confidant@4.3.1",
+        "pkg:pypi/confidant@5.0.0",
+        "pkg:pypi/confidant@6.0.0",
+        "pkg:pypi/confidant@6.2.0",
+        "pkg:pypi/confidant@6.3.0",
+        "pkg:pypi/confidant@1.1.20"
+    ]
+}

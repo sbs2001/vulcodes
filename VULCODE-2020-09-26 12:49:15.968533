@@ -1,0 +1,28 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:15.968533",
+    "summary": "Moin 2.2.2 removes two cross-site scripting vulnerabilities reported by \"office\".",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36475"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/moin@1.9.5",
+        "pkg:pypi/moin@1.8.4",
+        "pkg:pypi/moin@1.9.6",
+        "pkg:pypi/moin@1.9.7",
+        "pkg:pypi/moin@1.9.2",
+        "pkg:pypi/moin@1.8.6",
+        "pkg:pypi/moin@1.9.1",
+        "pkg:pypi/moin@1.8.5",
+        "pkg:pypi/moin@1.9.0",
+        "pkg:pypi/moin@1.9.3",
+        "pkg:pypi/moin@1.9.4",
+        "pkg:pypi/moin@1.9.9",
+        "pkg:pypi/moin@1.9.8",
+        "pkg:pypi/moin@1.9.10",
+        "pkg:pypi/moin@1.8.7"
+    ],
+    "resolved_packages": []
+}

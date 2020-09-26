@@ -1,0 +1,33 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:49.030987",
+    "summary": "lambda-tools before 0.1.2 used an unsafe way to load untrusted lambda definitions via `yaml.load`.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-35209"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/lambda-tools@0.1.1",
+        "pkg:pypi/lambda-tools@0.0.9",
+        "pkg:pypi/lambda-tools@0.0.4",
+        "pkg:pypi/lambda-tools@0.0.7",
+        "pkg:pypi/lambda-tools@0.0.6",
+        "pkg:pypi/lambda-tools@0.0.11",
+        "pkg:pypi/lambda-tools@0.0.8",
+        "pkg:pypi/lambda-tools@0.0.13",
+        "pkg:pypi/lambda-tools@0.0.12",
+        "pkg:pypi/lambda-tools@0.1.0.2",
+        "pkg:pypi/lambda-tools@0.0.5",
+        "pkg:pypi/lambda-tools@0.1.0a0",
+        "pkg:pypi/lambda-tools@0.1.0.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/lambda-tools@0.2.0a1",
+        "pkg:pypi/lambda-tools@0.1.2",
+        "pkg:pypi/lambda-tools@0.1.3",
+        "pkg:pypi/lambda-tools@0.2.0a2",
+        "pkg:pypi/lambda-tools@0.1.5",
+        "pkg:pypi/lambda-tools@0.1.4"
+    ]
+}

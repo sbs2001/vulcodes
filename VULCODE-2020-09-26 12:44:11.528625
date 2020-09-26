@@ -1,0 +1,23 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:44:11.528625",
+    "summary": "alexandra 0.4.0 bumps dependency versions to avoid pyOpenSSL vulnerability",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36552"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/alexandra@0.3.1",
+        "pkg:pypi/alexandra@0.2.0",
+        "pkg:pypi/alexandra@0.3.2",
+        "pkg:pypi/alexandra@0.1.0",
+        "pkg:pypi/alexandra@0.3.0",
+        "pkg:pypi/alexandra@0.0.0",
+        "pkg:pypi/alexandra@0.3.3",
+        "pkg:pypi/alexandra@0.1.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/alexandra@0.4.0"
+    ]
+}

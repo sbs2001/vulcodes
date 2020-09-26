@@ -1,0 +1,59 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:47:00.229657",
+    "summary": "django-watchman  0.10.0 improves security by keeping tokens out of logs.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25797"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/django-watchman@0.9.0a4",
+        "pkg:pypi/django-watchman@0.1.0",
+        "pkg:pypi/django-watchman@0.1.2",
+        "pkg:pypi/django-watchman@0.6.0a1",
+        "pkg:pypi/django-watchman@0.9.0a2",
+        "pkg:pypi/django-watchman@0.7.1",
+        "pkg:pypi/django-watchman@0.4.0",
+        "pkg:pypi/django-watchman@0.6.0",
+        "pkg:pypi/django-watchman@0.6.0a0",
+        "pkg:pypi/django-watchman@0.2.2",
+        "pkg:pypi/django-watchman@0.3.0",
+        "pkg:pypi/django-watchman@0.5.0",
+        "pkg:pypi/django-watchman@0.9.0",
+        "pkg:pypi/django-watchman@0.7.2a0",
+        "pkg:pypi/django-watchman@0.2.1",
+        "pkg:pypi/django-watchman@0.8.0",
+        "pkg:pypi/django-watchman@0.9.0a1",
+        "pkg:pypi/django-watchman@0.2.0",
+        "pkg:pypi/django-watchman@0.1.1",
+        "pkg:pypi/django-watchman@0.9.0a3"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/django-watchman@0.14.0a0",
+        "pkg:pypi/django-watchman@0.18.0",
+        "pkg:pypi/django-watchman@1.2.0",
+        "pkg:pypi/django-watchman@1.0.0",
+        "pkg:pypi/django-watchman@1.1.1",
+        "pkg:pypi/django-watchman@0.13.0a1",
+        "pkg:pypi/django-watchman@0.18.0.dev2",
+        "pkg:pypi/django-watchman@0.10.0",
+        "pkg:pypi/django-watchman@0.10.1",
+        "pkg:pypi/django-watchman@0.10.0rc0",
+        "pkg:pypi/django-watchman@0.17.0",
+        "pkg:pypi/django-watchman@1.2.0a1",
+        "pkg:pypi/django-watchman@0.15.0",
+        "pkg:pypi/django-watchman@0.13.0",
+        "pkg:pypi/django-watchman@0.16.0",
+        "pkg:pypi/django-watchman@0.13.1a1",
+        "pkg:pypi/django-watchman@0.11.0",
+        "pkg:pypi/django-watchman@0.13.1",
+        "pkg:pypi/django-watchman@0.11.1",
+        "pkg:pypi/django-watchman@0.10.0rc1",
+        "pkg:pypi/django-watchman@1.1.0",
+        "pkg:pypi/django-watchman@0.12.0",
+        "pkg:pypi/django-watchman@0.18.0.dev1",
+        "pkg:pypi/django-watchman@0.11.0rc1",
+        "pkg:pypi/django-watchman@0.14.0"
+    ]
+}

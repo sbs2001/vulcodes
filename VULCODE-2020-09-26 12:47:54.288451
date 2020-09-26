@@ -1,0 +1,31 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:47:54.288451",
+    "summary": "gphotos-sync 2.9 update dependencies for security patches",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37829"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/gphotos-sync@2.8.3",
+        "pkg:pypi/gphotos-sync@2.8.4",
+        "pkg:pypi/gphotos-sync@2.8.5",
+        "pkg:pypi/gphotos-sync@2.8.6"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/gphotos-sync@2.9",
+        "pkg:pypi/gphotos-sync@2.10",
+        "pkg:pypi/gphotos-sync@2.10.3",
+        "pkg:pypi/gphotos-sync@2.10.4",
+        "pkg:pypi/gphotos-sync@2.10.1",
+        "pkg:pypi/gphotos-sync@2.9.1",
+        "pkg:pypi/gphotos-sync@2.10.2",
+        "pkg:pypi/gphotos-sync@2.14.0",
+        "pkg:pypi/gphotos-sync@2.14.0b4",
+        "pkg:pypi/gphotos-sync@2.14.0b5",
+        "pkg:pypi/gphotos-sync@2.14.2",
+        "pkg:pypi/gphotos-sync@2.9.2",
+        "pkg:pypi/gphotos-sync@2.14.1b1"
+    ]
+}

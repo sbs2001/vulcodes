@@ -1,0 +1,20 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:46:47.432754",
+    "summary": "django-html5-appcache 0.3.0 added a security check for sensitive views.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25766"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/django-html5-appcache@0.2.0",
+        "pkg:pypi/django-html5-appcache@0.2.1",
+        "pkg:pypi/django-html5-appcache@0.2.2"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/django-html5-appcache@0.4.0",
+        "pkg:pypi/django-html5-appcache@0.3.1",
+        "pkg:pypi/django-html5-appcache@0.3.0"
+    ]
+}

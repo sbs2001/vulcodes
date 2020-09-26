@@ -1,0 +1,63 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:50:37.617096",
+    "summary": "pootle before 2.7.3 is vulnerable to XSS attacks, so everybody with Pootle 2.7.x needs to upgrade.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-34201"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/pootle@2.7.1",
+        "pkg:pypi/pootle@2.6.0",
+        "pkg:pypi/pootle@2.6.1",
+        "pkg:pypi/pootle@2.7.2",
+        "pkg:pypi/pootle@2.7.0",
+        "pkg:pypi/pootle@2.6.3",
+        "pkg:pypi/pootle@2.6.2",
+        "pkg:pypi/pootle@2.6.4"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/pootle@2.6.0-rc2",
+        "pkg:pypi/pootle@2.8.0b3",
+        "pkg:pypi/pootle@2.0.0-rc2",
+        "pkg:pypi/pootle@2.8.0rc1",
+        "pkg:pypi/pootle@2.8.2",
+        "pkg:pypi/pootle@2.8.0rc2",
+        "pkg:pypi/pootle@2.8.0b2",
+        "pkg:pypi/pootle@2.0.3",
+        "pkg:pypi/pootle@2.8.0rc4",
+        "pkg:pypi/pootle@2.9.0rc1",
+        "pkg:pypi/pootle@2.7.6",
+        "pkg:pypi/pootle@2.5.1-rc1",
+        "pkg:pypi/pootle@1.0.2",
+        "pkg:pypi/pootle@2.6.0-rc1",
+        "pkg:pypi/pootle@2.7.3",
+        "pkg:pypi/pootle@2.9.0b2",
+        "pkg:pypi/pootle@2.8.0b1",
+        "pkg:pypi/pootle@1.1.0",
+        "pkg:pypi/pootle@2.5.1.1",
+        "pkg:pypi/pootle@2.9.0b1",
+        "pkg:pypi/pootle@2.1.2",
+        "pkg:pypi/pootle@2.5.1",
+        "pkg:pypi/pootle@2.5.1.3",
+        "pkg:pypi/pootle@2.9.0b3",
+        "pkg:pypi/pootle@2.8.0b5",
+        "pkg:pypi/pootle@2.0.2",
+        "pkg:pypi/pootle@2.5.0",
+        "pkg:pypi/pootle@2.7.5",
+        "pkg:pypi/pootle@2.8.0",
+        "pkg:pypi/pootle@2.9.0b4",
+        "pkg:pypi/pootle@2.0.5",
+        "pkg:pypi/pootle@2.8.0b4",
+        "pkg:pypi/pootle@2.7.4",
+        "pkg:pypi/pootle@2.7.3b1",
+        "pkg:pypi/pootle@2.8.0rc6",
+        "pkg:pypi/pootle@2.8.1",
+        "pkg:pypi/pootle@2.5.0-rc1",
+        "pkg:pypi/pootle@2.8.0rc5",
+        "pkg:pypi/pootle@2.8.0rc3",
+        "pkg:pypi/pootle@2.8.0rc7",
+        "pkg:pypi/pootle@2.1.1"
+    ]
+}

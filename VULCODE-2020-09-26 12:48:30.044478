@@ -1,0 +1,20 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:30.044478",
+    "summary": "js-videojs  4.12.5 updates videojs-swf to v4.5.4 to fix a potential security issue ([view](https://github.com/videojs/video.js/pull/1955)",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36130"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/js-videojs@4.5.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/js-videojs@7.5.5",
+        "pkg:pypi/js-videojs@5.1.0",
+        "pkg:pypi/js-videojs@5.10.2",
+        "pkg:pypi/js-videojs@5.13.2",
+        "pkg:pypi/js-videojs@6.6.0"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:46:33.941577",
+    "summary": "django-allauth-underground before 0.28.0 contained a vulnerability allowing an attacker to alter the\r\n  provider specific settings for ``SCOPE`` and/or ``AUTH_PARAMS`` (part of the\r\n  larger ``SOCIALACCOUNT_PROVIDERS`` setting).",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36394"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/django-allauth-underground@0.1.0"
+    ],
+    "resolved_packages": []
+}

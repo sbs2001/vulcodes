@@ -1,0 +1,15 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:19.460180",
+    "summary": "Inspetor 2.3.1 updates `sprockets` in `Gemfile.lock` to fix security warnings.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37343"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/inspetor@0.0.2",
+        "pkg:pypi/inspetor@0.0.3"
+    ],
+    "resolved_packages": []
+}

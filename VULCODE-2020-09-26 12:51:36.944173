@@ -1,0 +1,41 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:36.944173",
+    "summary": "pywebsite before 0.1.9pre is vulnerable to length extension attacks, and value equivalence attacks.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-26095"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/pywebsite@0.1pre",
+        "pkg:pypi/pywebsite@0.1.7pre",
+        "pkg:pypi/pywebsite@0.1.4pre",
+        "pkg:pypi/pywebsite@0.1.1pre",
+        "pkg:pypi/pywebsite@0.1.8pre",
+        "pkg:pypi/pywebsite@0.1.3pre",
+        "pkg:pypi/pywebsite@0.1.5pre",
+        "pkg:pypi/pywebsite@0.1.6pre",
+        "pkg:pypi/pywebsite@0.1.2pre"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/pywebsite@0.1.24pre",
+        "pkg:pypi/pywebsite@0.1.15pre",
+        "pkg:pypi/pywebsite@0.1.10pre",
+        "pkg:pypi/pywebsite@0.1.23pre",
+        "pkg:pypi/pywebsite@0.1.25pre",
+        "pkg:pypi/pywebsite@0.1.26pre",
+        "pkg:pypi/pywebsite@0.1.22pre",
+        "pkg:pypi/pywebsite@0.1.21pre",
+        "pkg:pypi/pywebsite@0.1.20pre",
+        "pkg:pypi/pywebsite@0.1.19pre",
+        "pkg:pypi/pywebsite@0.1.11pre",
+        "pkg:pypi/pywebsite@0.1.18pre",
+        "pkg:pypi/pywebsite@0.1.12pre",
+        "pkg:pypi/pywebsite@0.1.13pre",
+        "pkg:pypi/pywebsite@0.1.9pre",
+        "pkg:pypi/pywebsite@0.1.16pre",
+        "pkg:pypi/pywebsite@0.1.14pre",
+        "pkg:pypi/pywebsite@0.1.17pre"
+    ]
+}

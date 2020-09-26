@@ -1,0 +1,16 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:56.107271",
+    "summary": "remme 0.5.0alpha upgrades py-cryptography to mitigate CVE-2018-10903.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36971"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/remme@1.1.0a1",
+        "pkg:pypi/remme@1.1.1",
+        "pkg:pypi/remme@1.0.0"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:52:47.557930",
+    "summary": "In teneto 0.4.5, save_tenetobids_snapshot to export current teneto settings. save_to_pickle (and corresponding load function) have been removed as they are not secure.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37550"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/teneto@0.2.2",
+        "pkg:pypi/teneto@0.2.5",
+        "pkg:pypi/teneto@0.2.0",
+        "pkg:pypi/teneto@0.2.6",
+        "pkg:pypi/teneto@0.4.0",
+        "pkg:pypi/teneto@0.2.3",
+        "pkg:pypi/teneto@0.4.3",
+        "pkg:pypi/teneto@0.2.4b0",
+        "pkg:pypi/teneto@0.3.5",
+        "pkg:pypi/teneto@0.4.1",
+        "pkg:pypi/teneto@0.3.4",
+        "pkg:pypi/teneto@0.2.4",
+        "pkg:pypi/teneto@0.3.2",
+        "pkg:pypi/teneto@0.4.4",
+        "pkg:pypi/teneto@0.3.3",
+        "pkg:pypi/teneto@0.4.2",
+        "pkg:pypi/teneto@0.3.1",
+        "pkg:pypi/teneto@0.2.7b0",
+        "pkg:pypi/teneto@0.3.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/teneto@0.5.0",
+        "pkg:pypi/teneto@0.5.1",
+        "pkg:pypi/teneto@0.4.6",
+        "pkg:pypi/teneto@0.4.5"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:24.497319",
+    "summary": "Pytrackdat 0.2.0 validates the security of the administrator passwords.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37141"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/pytrackdat@0.2.0",
+        "pkg:pypi/pytrackdat@0.2.1"
+    ]
+}

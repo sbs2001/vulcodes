@@ -1,0 +1,28 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:19.852310",
+    "summary": "Creopyson 0.4.2 modifies the pipenv config for the bleach security alert.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37964"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/creopyson@0.3.0",
+        "pkg:pypi/creopyson@0.2.0",
+        "pkg:pypi/creopyson@0.4.0",
+        "pkg:pypi/creopyson@0.1.0",
+        "pkg:pypi/creopyson@0.4.1",
+        "pkg:pypi/creopyson@0.3.3",
+        "pkg:pypi/creopyson@0.3.2",
+        "pkg:pypi/creopyson@0.3.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/creopyson@0.5.0",
+        "pkg:pypi/creopyson@0.5.2",
+        "pkg:pypi/creopyson@0.4.2",
+        "pkg:pypi/creopyson@0.6.0",
+        "pkg:pypi/creopyson@0.5.1",
+        "pkg:pypi/creopyson@0.4.3"
+    ]
+}

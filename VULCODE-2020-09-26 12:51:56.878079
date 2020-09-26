@@ -1,0 +1,57 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:56.878079",
+    "summary": "ricloud 2.3.8 updates requests in requirements due to vulnerability discovery.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36723"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/ricloud@2.0.3",
+        "pkg:pypi/ricloud@2.0.4",
+        "pkg:pypi/ricloud@2.3.7",
+        "pkg:pypi/ricloud@2.0.2",
+        "pkg:pypi/ricloud@2.2.0",
+        "pkg:pypi/ricloud@1.0.6",
+        "pkg:pypi/ricloud@2.2.2",
+        "pkg:pypi/ricloud@1.0.5",
+        "pkg:pypi/ricloud@2.3.2",
+        "pkg:pypi/ricloud@1.0.1",
+        "pkg:pypi/ricloud@1.0.4",
+        "pkg:pypi/ricloud@1.0.8",
+        "pkg:pypi/ricloud@2.3.3",
+        "pkg:pypi/ricloud@2.3.6",
+        "pkg:pypi/ricloud@1.0.11",
+        "pkg:pypi/ricloud@1.0.9",
+        "pkg:pypi/ricloud@1.0.2",
+        "pkg:pypi/ricloud@1.0.0",
+        "pkg:pypi/ricloud@1.0.13",
+        "pkg:pypi/ricloud@2.0.1",
+        "pkg:pypi/ricloud@2.1.1",
+        "pkg:pypi/ricloud@1.0.3",
+        "pkg:pypi/ricloud@2.1.0",
+        "pkg:pypi/ricloud@1.0.12",
+        "pkg:pypi/ricloud@2.3.5",
+        "pkg:pypi/ricloud@1.0.10",
+        "pkg:pypi/ricloud@2.2.1",
+        "pkg:pypi/ricloud@2.3.0",
+        "pkg:pypi/ricloud@2.3.1",
+        "pkg:pypi/ricloud@1.0.7",
+        "pkg:pypi/ricloud@2.3.4"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/ricloud@3.0.0",
+        "pkg:pypi/ricloud@3.0.1",
+        "pkg:pypi/ricloud@3.0.0rc0",
+        "pkg:pypi/ricloud@3.0.0rc2",
+        "pkg:pypi/ricloud@3.0.0rc1",
+        "pkg:pypi/ricloud@3.1.0",
+        "pkg:pypi/ricloud@2.3.9",
+        "pkg:pypi/ricloud@3.2.0",
+        "pkg:pypi/ricloud@3.1.1",
+        "pkg:pypi/ricloud@2.3.10",
+        "pkg:pypi/ricloud@2.3.8",
+        "pkg:pypi/ricloud@3.0.0rc3"
+    ]
+}

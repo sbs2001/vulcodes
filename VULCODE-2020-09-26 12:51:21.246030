@@ -1,0 +1,14 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:21.246030",
+    "summary": "python-libtorrent before 1.0.6 has several undisclosed vulnerabilities related to uTP.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-26084"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/python-libtorrent@1.1.0"
+    ]
+}

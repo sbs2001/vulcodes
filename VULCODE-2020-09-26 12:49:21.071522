@@ -1,0 +1,44 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:21.071522",
+    "summary": "Nba-scraper 0.2.7 removes a security flaw where it wasn't verifying SSL certificates during testing.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37142"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/nba-scraper@0.1",
+        "pkg:pypi/nba-scraper@0.2.5",
+        "pkg:pypi/nba-scraper@0.2.6",
+        "pkg:pypi/nba-scraper@0.2.3",
+        "pkg:pypi/nba-scraper@0.2.4",
+        "pkg:pypi/nba-scraper@0.2"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/nba-scraper@0.2.7",
+        "pkg:pypi/nba-scraper@0.2.9.3",
+        "pkg:pypi/nba-scraper@0.2.9.9",
+        "pkg:pypi/nba-scraper@0.2.9.8",
+        "pkg:pypi/nba-scraper@0.2.9.6",
+        "pkg:pypi/nba-scraper@0.2.9.1",
+        "pkg:pypi/nba-scraper@1.0.6",
+        "pkg:pypi/nba-scraper@1.0.5",
+        "pkg:pypi/nba-scraper@0.2.9.5",
+        "pkg:pypi/nba-scraper@1.0.0",
+        "pkg:pypi/nba-scraper@1.0.1",
+        "pkg:pypi/nba-scraper@1.0.7",
+        "pkg:pypi/nba-scraper@0.2.9.4",
+        "pkg:pypi/nba-scraper@0.2.9.2",
+        "pkg:pypi/nba-scraper@1.0.3",
+        "pkg:pypi/nba-scraper@1.0.8",
+        "pkg:pypi/nba-scraper@0.2.9",
+        "pkg:pypi/nba-scraper@1.0.9",
+        "pkg:pypi/nba-scraper@1.0.4",
+        "pkg:pypi/nba-scraper@0.2.8",
+        "pkg:pypi/nba-scraper@0.2.9.10",
+        "pkg:pypi/nba-scraper@0.2.9.7",
+        "pkg:pypi/nba-scraper@1.0.2",
+        "pkg:pypi/nba-scraper@1.0.10"
+    ]
+}

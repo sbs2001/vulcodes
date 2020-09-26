@@ -1,0 +1,39 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:01.007252",
+    "summary": "cheetah 0.9.17rc1 removeS the use of temp files for handling imports with dynamic compilation. This removes a whole slew of issues, including a temp file security issue.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25649"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/cheetah@2.0rc8",
+        "pkg:pypi/cheetah@2.4.3",
+        "pkg:pypi/cheetah@2.4.4",
+        "pkg:pypi/cheetah@2.4.2.1",
+        "pkg:pypi/cheetah@1.0",
+        "pkg:pypi/cheetah@2.3.0",
+        "pkg:pypi/cheetah@2.0",
+        "pkg:pypi/cheetah@2.0b3",
+        "pkg:pypi/cheetah@2.0.1",
+        "pkg:pypi/cheetah@2.0b4",
+        "pkg:pypi/cheetah@2.0rc7",
+        "pkg:pypi/cheetah@2.0rc1",
+        "pkg:pypi/cheetah@2.0rc3",
+        "pkg:pypi/cheetah@1.0rc1",
+        "pkg:pypi/cheetah@2.4.0",
+        "pkg:pypi/cheetah@2.0rc6",
+        "pkg:pypi/cheetah@0.9.18rc1",
+        "pkg:pypi/cheetah@2.0rc5",
+        "pkg:pypi/cheetah@2.0rc4",
+        "pkg:pypi/cheetah@2.4.1",
+        "pkg:pypi/cheetah@2.2.1",
+        "pkg:pypi/cheetah@2.4.2",
+        "pkg:pypi/cheetah@2.0rc2",
+        "pkg:pypi/cheetah@2.0b2",
+        "pkg:pypi/cheetah@2.2.2",
+        "pkg:pypi/cheetah@2.0b5"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:46.549022",
+    "summary": "Rdiff-backup 1.0.2 includes a fix for a spurious security violation from --create-full-path and a fix for bug 14545 which was introduced in version 1.0.1:  Quoting caused a spurious security violation.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38064"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/rdiff-backup@0.1.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/rdiff-backup@2.0.1.dev9",
+        "pkg:pypi/rdiff-backup@2.0.3",
+        "pkg:pypi/rdiff-backup@2.0.4rc0",
+        "pkg:pypi/rdiff-backup@2.0.1rc0",
+        "pkg:pypi/rdiff-backup@2.0.0",
+        "pkg:pypi/rdiff-backup@1.4.0b2",
+        "pkg:pypi/rdiff-backup@1.9.1b0",
+        "pkg:pypi/rdiff-backup@2.0.2",
+        "pkg:pypi/rdiff-backup@2.0.5",
+        "pkg:pypi/rdiff-backup@1.9.2rc0",
+        "pkg:pypi/rdiff-backup@1.9.0b0"
+    ]
+}

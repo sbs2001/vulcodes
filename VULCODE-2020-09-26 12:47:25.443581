@@ -1,0 +1,25 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:47:25.443581",
+    "summary": "Extensiveautomation-server 14.0.0 includes various security updates:\r\n- It has a minor improvement to secure the product (php and apache).\r\n- It encrypts test environment data.\r\n- It no longer run server as root.\r\n- It no longer uses the root account for database access.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37346"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/extensiveautomation-server@22.1.0",
+        "pkg:pypi/extensiveautomation-server@21.4.0",
+        "pkg:pypi/extensiveautomation-server@21.1.1",
+        "pkg:pypi/extensiveautomation-server@22.0.2",
+        "pkg:pypi/extensiveautomation-server@22.0.1",
+        "pkg:pypi/extensiveautomation-server@22.0.0",
+        "pkg:pypi/extensiveautomation-server@21.1.0",
+        "pkg:pypi/extensiveautomation-server@21.2.0",
+        "pkg:pypi/extensiveautomation-server@21.0.0",
+        "pkg:pypi/extensiveautomation-server@21.0.1",
+        "pkg:pypi/extensiveautomation-server@21.2.1",
+        "pkg:pypi/extensiveautomation-server@21.3.0"
+    ]
+}

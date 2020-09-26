@@ -1,0 +1,32 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:47:28.410616",
+    "summary": "Flambe 0.4.16 fixes a vulnerability with PyYAML < 5.3.1.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38138"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/flambe@0.4.2",
+        "pkg:pypi/flambe@0.4.9",
+        "pkg:pypi/flambe@0.4.6",
+        "pkg:pypi/flambe@0.4.11",
+        "pkg:pypi/flambe@0.4.0",
+        "pkg:pypi/flambe@0.4.1",
+        "pkg:pypi/flambe@0.4.12",
+        "pkg:pypi/flambe@0.4.7",
+        "pkg:pypi/flambe@0.4.4",
+        "pkg:pypi/flambe@0.4.10",
+        "pkg:pypi/flambe@0.4.8",
+        "pkg:pypi/flambe@0.4.14",
+        "pkg:pypi/flambe@0.4.5",
+        "pkg:pypi/flambe@0.4.13",
+        "pkg:pypi/flambe@0.4.15",
+        "pkg:pypi/flambe@0.4.3"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/flambe@0.4.16",
+        "pkg:pypi/flambe@0.4.18"
+    ]
+}

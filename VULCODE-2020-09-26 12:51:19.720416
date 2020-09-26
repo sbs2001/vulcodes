@@ -1,0 +1,31 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:19.720416",
+    "summary": "Python-nomad 1.0.1 updates `Requests` to 2.20.0. Earlier versions of `Requests` sent an HTTP Authorization header to an http URI upon receiving a same-hostname https-to-http redirect, which makes it easier for remote attackers to discover credentials by sniffing the network.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36602"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/python-nomad@0.0.2",
+        "pkg:pypi/python-nomad@0.0.1",
+        "pkg:pypi/python-nomad@0.6.0",
+        "pkg:pypi/python-nomad@0.7.0",
+        "pkg:pypi/python-nomad@0.3.0",
+        "pkg:pypi/python-nomad@0.6.1",
+        "pkg:pypi/python-nomad@0.4.0",
+        "pkg:pypi/python-nomad@0.1.0",
+        "pkg:pypi/python-nomad@1.0.0",
+        "pkg:pypi/python-nomad@0.5.0",
+        "pkg:pypi/python-nomad@0.9.0",
+        "pkg:pypi/python-nomad@0.8.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/python-nomad@1.2.0",
+        "pkg:pypi/python-nomad@1.2.1",
+        "pkg:pypi/python-nomad@1.1.0",
+        "pkg:pypi/python-nomad@1.0.2",
+        "pkg:pypi/python-nomad@1.0.1"
+    ]
+}

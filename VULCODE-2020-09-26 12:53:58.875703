@@ -1,0 +1,26 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:53:58.875703",
+    "summary": "Webp 1.0.1 adds further security related hardening in libwebp & libwebpmux.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36726"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/webp@0.1.0a13",
+        "pkg:pypi/webp@0.1.0a6",
+        "pkg:pypi/webp@0.1.0a11",
+        "pkg:pypi/webp@0.1.0a15",
+        "pkg:pypi/webp@0.1.0a5",
+        "pkg:pypi/webp@0.1.0a4",
+        "pkg:pypi/webp@0.1.0a9",
+        "pkg:pypi/webp@0.1.0a10",
+        "pkg:pypi/webp@0.1.0a12",
+        "pkg:pypi/webp@0.1.0a7",
+        "pkg:pypi/webp@0.1.0a14",
+        "pkg:pypi/webp@0.1.0a16",
+        "pkg:pypi/webp@0.1.0"
+    ],
+    "resolved_packages": []
+}

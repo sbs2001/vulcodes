@@ -1,0 +1,53 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:57.226499",
+    "summary": "markdown2 before 1.0.1.14 has a security hole in the md5-hashing scheme for handling HTML  chunks during processing.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25884"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/markdown2@1.0.1.13",
+        "pkg:pypi/markdown2@1.0.1.10",
+        "pkg:pypi/markdown2@1.0.1.8",
+        "pkg:pypi/markdown2@1.0.1.9",
+        "pkg:pypi/markdown2@1.0.1.11",
+        "pkg:pypi/markdown2@1.0.1.12",
+        "pkg:pypi/markdown2@1.0.1.6",
+        "pkg:pypi/markdown2@1.0.1.7"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/markdown2@2.3.6",
+        "pkg:pypi/markdown2@2.2.3",
+        "pkg:pypi/markdown2@2.2.0",
+        "pkg:pypi/markdown2@1.4.1",
+        "pkg:pypi/markdown2@1.4.0",
+        "pkg:pypi/markdown2@2.3.2",
+        "pkg:pypi/markdown2@2.0.0",
+        "pkg:pypi/markdown2@2.3.0",
+        "pkg:pypi/markdown2@1.0.1.18",
+        "pkg:pypi/markdown2@2.0.1",
+        "pkg:pypi/markdown2@2.3.5",
+        "pkg:pypi/markdown2@1.1.1",
+        "pkg:pypi/markdown2@1.3.0",
+        "pkg:pypi/markdown2@2.3.3",
+        "pkg:pypi/markdown2@2.1.0",
+        "pkg:pypi/markdown2@2.2.1",
+        "pkg:pypi/markdown2@1.0.1.15",
+        "pkg:pypi/markdown2@1.0.1.19",
+        "pkg:pypi/markdown2@2.2.2",
+        "pkg:pypi/markdown2@1.0.1.17",
+        "pkg:pypi/markdown2@1.0.1.16",
+        "pkg:pypi/markdown2@2.3.7",
+        "pkg:pypi/markdown2@2.3.9",
+        "pkg:pypi/markdown2@1.1.0",
+        "pkg:pypi/markdown2@1.3.1",
+        "pkg:pypi/markdown2@2.3.1",
+        "pkg:pypi/markdown2@2.3.4",
+        "pkg:pypi/markdown2@1.0.1.14",
+        "pkg:pypi/markdown2@2.3.8",
+        "pkg:pypi/markdown2@1.4.2",
+        "pkg:pypi/markdown2@1.2.0"
+    ]
+}

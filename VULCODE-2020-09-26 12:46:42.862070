@@ -1,0 +1,23 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:46:42.862070",
+    "summary": "django-epiced before 0.3.0 does not escape HTML output by default.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-34269"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/django-epiced@0.1",
+        "pkg:pypi/django-epiced@0.2.1",
+        "pkg:pypi/django-epiced@0.2"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/django-epiced@0.4.1",
+        "pkg:pypi/django-epiced@0.4.2",
+        "pkg:pypi/django-epiced@0.4.0",
+        "pkg:pypi/django-epiced@0.3.0",
+        "pkg:pypi/django-epiced@0.4.3",
+        "pkg:pypi/django-epiced@0.3.1"
+    ]
+}

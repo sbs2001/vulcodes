@@ -1,0 +1,54 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:37.244144",
+    "summary": "Pywikibot 3.0.20181203 require requests version 2.20.0 or later for security reasons.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38151"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/pywikibot@2.0rc1.post2",
+        "pkg:pypi/pywikibot@2.0rc1",
+        "pkg:pypi/pywikibot@2.0rc1.post1",
+        "pkg:pypi/pywikibot@2.0b1",
+        "pkg:pypi/pywikibot@2.0rc3",
+        "pkg:pypi/pywikibot@2.0rc4",
+        "pkg:pypi/pywikibot@3.0.20180108",
+        "pkg:pypi/pywikibot@3.0.20180204",
+        "pkg:pypi/pywikibot@3.0.20180710",
+        "pkg:pypi/pywikibot@3.0.20170403",
+        "pkg:pypi/pywikibot@3.0.20180922",
+        "pkg:pypi/pywikibot@3.0.20171212",
+        "pkg:pypi/pywikibot@3.0.20180505",
+        "pkg:pypi/pywikibot@3.0.20170713",
+        "pkg:pypi/pywikibot@3.0.20170521",
+        "pkg:pypi/pywikibot@2.0rc5",
+        "pkg:pypi/pywikibot@3.0.20180823",
+        "pkg:pypi/pywikibot@3.0.20180302",
+        "pkg:pypi/pywikibot@3.0.20180603",
+        "pkg:pypi/pywikibot@3.0.20180403",
+        "pkg:pypi/pywikibot@3.0.20180304",
+        "pkg:pypi/pywikibot@3.0.20170801"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/pywikibot@3.0.20200508",
+        "pkg:pypi/pywikibot@3.0.20200306",
+        "pkg:pypi/pywikibot@3.0.20190106",
+        "pkg:pypi/pywikibot@3.0.20190722",
+        "pkg:pypi/pywikibot@3.0.20190301",
+        "pkg:pypi/pywikibot@3.0.20200111",
+        "pkg:pypi/pywikibot@3.0.20200405",
+        "pkg:pypi/pywikibot@4.1.1",
+        "pkg:pypi/pywikibot@4.1.0",
+        "pkg:pypi/pywikibot@4.3.0",
+        "pkg:pypi/pywikibot@3.0.20200326",
+        "pkg:pypi/pywikibot@3.0.20190204",
+        "pkg:pypi/pywikibot@3.0.20190430",
+        "pkg:pypi/pywikibot@3.0.20200609",
+        "pkg:pypi/pywikibot@4.0.0",
+        "pkg:pypi/pywikibot@4.2.0",
+        "pkg:pypi/pywikibot@3.0.20181203",
+        "pkg:pypi/pywikibot@3.0.20200703"
+    ]
+}

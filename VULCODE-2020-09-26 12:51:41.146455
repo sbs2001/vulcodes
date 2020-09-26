@@ -1,0 +1,23 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:41.146455",
+    "summary": "The text boxes in qurro 0.4.0 describing the currently-selected numerator / denominator features are now \"read-only\" (you can't edit them while using Qurro). This should remove any vulnerability to accidental edits of these text boxes.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37374"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/qurro@0.3.0",
+        "pkg:pypi/qurro@0.2.0",
+        "pkg:pypi/qurro@0.1.0",
+        "pkg:pypi/qurro@0.2.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/qurro@0.6.0",
+        "pkg:pypi/qurro@0.4.0",
+        "pkg:pypi/qurro@0.7.0",
+        "pkg:pypi/qurro@0.7.1",
+        "pkg:pypi/qurro@0.5.0"
+    ]
+}

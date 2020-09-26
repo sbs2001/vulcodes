@@ -1,0 +1,39 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:32.227102",
+    "summary": "notifications-python-client before 4.7.1 is vulnerable to a not further described security issue in PyJWT.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-35116"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/notifications-python-client@4.2.0",
+        "pkg:pypi/notifications-python-client@4.4.0",
+        "pkg:pypi/notifications-python-client@4.1.0",
+        "pkg:pypi/notifications-python-client@4.5.0",
+        "pkg:pypi/notifications-python-client@3.1.0",
+        "pkg:pypi/notifications-python-client@4.0.0",
+        "pkg:pypi/notifications-python-client@4.3.1",
+        "pkg:pypi/notifications-python-client@4.6.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/notifications-python-client@4.8.1",
+        "pkg:pypi/notifications-python-client@4.9.0",
+        "pkg:pypi/notifications-python-client@5.4.0",
+        "pkg:pypi/notifications-python-client@4.8.2",
+        "pkg:pypi/notifications-python-client@5.1.0",
+        "pkg:pypi/notifications-python-client@4.7.2",
+        "pkg:pypi/notifications-python-client@5.3.0",
+        "pkg:pypi/notifications-python-client@5.0.0",
+        "pkg:pypi/notifications-python-client@5.5.1",
+        "pkg:pypi/notifications-python-client@5.5.0",
+        "pkg:pypi/notifications-python-client@5.7.0",
+        "pkg:pypi/notifications-python-client@5.6.0",
+        "pkg:pypi/notifications-python-client@5.2.0",
+        "pkg:pypi/notifications-python-client@5.4.1",
+        "pkg:pypi/notifications-python-client@4.10.0",
+        "pkg:pypi/notifications-python-client@4.7.1",
+        "pkg:pypi/notifications-python-client@5.0.1"
+    ]
+}

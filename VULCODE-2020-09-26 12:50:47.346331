@@ -1,0 +1,33 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:50:47.346331",
+    "summary": "Pybald 0.5.6 updates SQLAlchemy dependency to 1.3.3 to mitigate a security issue with SQLAlchemy verstions <= 1.3.0.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37104"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/pybald@0.5.2",
+        "pkg:pypi/pybald@0.4.0",
+        "pkg:pypi/pybald@0.2.8",
+        "pkg:pypi/pybald@0.5.0",
+        "pkg:pypi/pybald@0.3.1",
+        "pkg:pypi/pybald@0.2.5",
+        "pkg:pypi/pybald@0.3.2",
+        "pkg:pypi/pybald@0.5.5",
+        "pkg:pypi/pybald@0.4.1",
+        "pkg:pypi/pybald@0.5.4",
+        "pkg:pypi/pybald@0.3.0",
+        "pkg:pypi/pybald@0.5.3",
+        "pkg:pypi/pybald@0.2.4",
+        "pkg:pypi/pybald@0.2.6",
+        "pkg:pypi/pybald@0.5.1",
+        "pkg:pypi/pybald@0.2.3",
+        "pkg:pypi/pybald@0.1.5"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/pybald@0.5.7",
+        "pkg:pypi/pybald@0.5.6"
+    ]
+}

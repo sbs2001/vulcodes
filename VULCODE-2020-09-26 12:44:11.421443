@@ -1,0 +1,34 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:44:11.421443",
+    "summary": "The `Opake.client` & `Opake.client_registration` methods in aiootp version 0.11.0 take an instantiated client database instead of client credentials which  improves security, efficiency & usability. This change reduces the amount of exposure received by user passwords & other credentials. It also  simplifies usage of the protocol by only needing to carry around a  database instead of a slew of credentials, which is also faster, since the credentials are passed through the cpu & memory hard `passcrypt` function every time to open the database.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38602"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/aiootp@0.10.1",
+        "pkg:pypi/aiootp@0.6.0",
+        "pkg:pypi/aiootp@0.7.1",
+        "pkg:pypi/aiootp@0.10.0",
+        "pkg:pypi/aiootp@0.9.0",
+        "pkg:pypi/aiootp@0.1.0",
+        "pkg:pypi/aiootp@0.5.1",
+        "pkg:pypi/aiootp@0.3.1",
+        "pkg:pypi/aiootp@0.9.2",
+        "pkg:pypi/aiootp@0.9.1",
+        "pkg:pypi/aiootp@0.2.0",
+        "pkg:pypi/aiootp@0.5.0",
+        "pkg:pypi/aiootp@0.3.0",
+        "pkg:pypi/aiootp@0.9.3",
+        "pkg:pypi/aiootp@0.4.0",
+        "pkg:pypi/aiootp@0.7.0",
+        "pkg:pypi/aiootp@0.8.1",
+        "pkg:pypi/aiootp@0.8.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/aiootp@0.12.0",
+        "pkg:pypi/aiootp@0.11.0"
+    ]
+}

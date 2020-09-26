@@ -1,0 +1,24 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:54.272678",
+    "summary": "Persephone 0.4.0 updates the nltk dependency to resolve a possible security issue.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38231"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/persephone@0.3.1",
+        "pkg:pypi/persephone@0.1.7",
+        "pkg:pypi/persephone@0.1.8",
+        "pkg:pypi/persephone@0.3.0",
+        "pkg:pypi/persephone@0.1.9",
+        "pkg:pypi/persephone@0.2.0",
+        "pkg:pypi/persephone@0.3.2"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/persephone@0.4.1",
+        "pkg:pypi/persephone@0.4.2",
+        "pkg:pypi/persephone@0.4.0"
+    ]
+}

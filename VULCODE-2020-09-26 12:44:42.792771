@@ -1,0 +1,57 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:44:42.792771",
+    "summary": "Baseplate 0.19.0 includes support for fetching secrets in a secure, auditable, manner from Hashicorp Vault. A sidecar daemon manages the infrastructure-level authentication with Vault and fetches secrets to a file on disk. Helpers in Baseplate then allow your application to fetch these secrets efficiently from the sidecar daemon with some helpful conventions for versioning/key rotation. This is now the right way to get secret tokens into your application going forward. See: <http://baseplate.readthedocs.io/en/v0.19.0/baseplate/secrets.html>.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38349"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/baseplate@0.14.2",
+        "pkg:pypi/baseplate@0.18.0",
+        "pkg:pypi/baseplate@0.14.0",
+        "pkg:pypi/baseplate@0.16.2",
+        "pkg:pypi/baseplate@0.16.0",
+        "pkg:pypi/baseplate@0.16.1",
+        "pkg:pypi/baseplate@0.14.1",
+        "pkg:pypi/baseplate@0.13.1.1",
+        "pkg:pypi/baseplate@0.14.3",
+        "pkg:pypi/baseplate@0.17.0",
+        "pkg:pypi/baseplate@0.17.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/baseplate@0.21.0",
+        "pkg:pypi/baseplate@0.24.1",
+        "pkg:pypi/baseplate@1.4.0",
+        "pkg:pypi/baseplate@0.30.3",
+        "pkg:pypi/baseplate@1.1.0",
+        "pkg:pypi/baseplate@1.2.3",
+        "pkg:pypi/baseplate@0.23.0",
+        "pkg:pypi/baseplate@1.0.0",
+        "pkg:pypi/baseplate@1.2.0",
+        "pkg:pypi/baseplate@0.24.0",
+        "pkg:pypi/baseplate@0.23.1",
+        "pkg:pypi/baseplate@0.29.0",
+        "pkg:pypi/baseplate@1.2.1",
+        "pkg:pypi/baseplate@0.20.0",
+        "pkg:pypi/baseplate@1.3.2",
+        "pkg:pypi/baseplate@1.3.0",
+        "pkg:pypi/baseplate@0.30.1",
+        "pkg:pypi/baseplate@0.26.0",
+        "pkg:pypi/baseplate@1.2.2",
+        "pkg:pypi/baseplate@1.3.1",
+        "pkg:pypi/baseplate@0.25.0",
+        "pkg:pypi/baseplate@0.30.0",
+        "pkg:pypi/baseplate@0.30.6",
+        "pkg:pypi/baseplate@1.3.5",
+        "pkg:pypi/baseplate@1.3.4",
+        "pkg:pypi/baseplate@0.30.5",
+        "pkg:pypi/baseplate@0.30.4",
+        "pkg:pypi/baseplate@0.22.0",
+        "pkg:pypi/baseplate@1.3.3",
+        "pkg:pypi/baseplate@1.2.4",
+        "pkg:pypi/baseplate@0.19.0",
+        "pkg:pypi/baseplate@0.23.2"
+    ]
+}

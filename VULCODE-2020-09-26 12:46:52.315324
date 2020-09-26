@@ -1,0 +1,36 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:46:52.315324",
+    "summary": "django-registration-redux before 1.7 leaks password reset tokens through the Referer header. For more info, see: https://github.com/macropin/django-registration/pull/268",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-35199"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/django-registration-redux@1.1",
+        "pkg:pypi/django-registration-redux@1.4",
+        "pkg:pypi/django-registration-redux@1.6",
+        "pkg:pypi/django-registration-redux@1.3",
+        "pkg:pypi/django-registration-redux@1.2",
+        "pkg:pypi/django-registration-redux@1.5"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/django-registration-redux@1.10",
+        "pkg:pypi/django-registration-redux@2.5",
+        "pkg:pypi/django-registration-redux@2.4",
+        "pkg:pypi/django-registration-redux@2.0",
+        "pkg:pypi/django-registration-redux@2.0a3",
+        "pkg:pypi/django-registration-redux@2.6",
+        "pkg:pypi/django-registration-redux@2.3",
+        "pkg:pypi/django-registration-redux@1.7",
+        "pkg:pypi/django-registration-redux@1.9",
+        "pkg:pypi/django-registration-redux@2.7",
+        "pkg:pypi/django-registration-redux@2.8",
+        "pkg:pypi/django-registration-redux@2.2",
+        "pkg:pypi/django-registration-redux@1.8",
+        "pkg:pypi/django-registration-redux@2.0a2",
+        "pkg:pypi/django-registration-redux@1.11",
+        "pkg:pypi/django-registration-redux@2.1"
+    ]
+}

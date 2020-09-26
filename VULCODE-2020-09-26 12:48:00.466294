@@ -1,0 +1,17 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:00.466294",
+    "summary": "holocron 0.2.0 fixed a security issue when content author may steal private data through content's meta header.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25844"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/holocron@0.1.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/holocron@0.2.0",
+        "pkg:pypi/holocron@0.3.0"
+    ]
+}

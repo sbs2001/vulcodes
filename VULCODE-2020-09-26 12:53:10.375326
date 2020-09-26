@@ -1,0 +1,15 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:53:10.375326",
+    "summary": "trio-websockets before 5.0 was vulnerable to denial of service by memory exhaustion because it didn't enforce ``max_size`` when decompressing compressed messages.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36390"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/trio-websockets@0.2",
+        "pkg:pypi/trio-websockets@0.1"
+    ],
+    "resolved_packages": []
+}

@@ -1,0 +1,24 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:46:38.552285",
+    "summary": "django-basicauth before 0.4.2 is vulnerable to undisclosed timing attacks.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-35076"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/django-basicauth@0.2.1",
+        "pkg:pypi/django-basicauth@0.3",
+        "pkg:pypi/django-basicauth@0.4",
+        "pkg:pypi/django-basicauth@0.1",
+        "pkg:pypi/django-basicauth@0.4.1",
+        "pkg:pypi/django-basicauth@0.2"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/django-basicauth@0.5.1",
+        "pkg:pypi/django-basicauth@0.4.2",
+        "pkg:pypi/django-basicauth@0.5.2",
+        "pkg:pypi/django-basicauth@0.5"
+    ]
+}

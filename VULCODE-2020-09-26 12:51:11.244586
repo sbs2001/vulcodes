@@ -1,0 +1,27 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:11.244586",
+    "summary": "Pysbd 0.3.0rc includes an upgrade of bleach to address a security vulnerability.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38404"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/pysbd@0.1.2",
+        "pkg:pypi/pysbd@0.2.1",
+        "pkg:pypi/pysbd@0.1.4",
+        "pkg:pypi/pysbd@0.2.2",
+        "pkg:pypi/pysbd@0.1.5",
+        "pkg:pypi/pysbd@0.1.3",
+        "pkg:pypi/pysbd@0.2.3",
+        "pkg:pypi/pysbd@0.1.1",
+        "pkg:pypi/pysbd@0.2.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/pysbd@0.3.0",
+        "pkg:pypi/pysbd@0.3.0rc0",
+        "pkg:pypi/pysbd@0.3.1",
+        "pkg:pypi/pysbd@0.3.2"
+    ]
+}

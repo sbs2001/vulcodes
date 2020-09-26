@@ -1,0 +1,62 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:21.450179",
+    "summary": "invenio 2.0.6 fixes potential XSS issues by changing main flash messages template so that they are not displayed as safe HTML by default.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38740"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/invenio@2.0.0",
+        "pkg:pypi/invenio@2.0.2",
+        "pkg:pypi/invenio@2.0.5",
+        "pkg:pypi/invenio@2.0.3",
+        "pkg:pypi/invenio@2.0.4",
+        "pkg:pypi/invenio@2.0.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/invenio@3.1.2",
+        "pkg:pypi/invenio@3.2.0a4",
+        "pkg:pypi/invenio@3.3.0a1",
+        "pkg:pypi/invenio@3.0.1",
+        "pkg:pypi/invenio@3.2.0a3",
+        "pkg:pypi/invenio@3.1.0b1",
+        "pkg:pypi/invenio@3.4.0a7",
+        "pkg:pypi/invenio@2.1.1",
+        "pkg:pypi/invenio@3.2.0a1",
+        "pkg:pypi/invenio@3.3.0a2",
+        "pkg:pypi/invenio@3.4.0a4",
+        "pkg:pypi/invenio@3.0.0a2",
+        "pkg:pypi/invenio@3.3.0",
+        "pkg:pypi/invenio@3.0.0a4",
+        "pkg:pypi/invenio@3.0.1rc1",
+        "pkg:pypi/invenio@3.4.0a2",
+        "pkg:pypi/invenio@3.4.0a1",
+        "pkg:pypi/invenio@3.1.0",
+        "pkg:pypi/invenio@3.2.0",
+        "pkg:pypi/invenio@3.4.0a5",
+        "pkg:pypi/invenio@3.1.1",
+        "pkg:pypi/invenio@3.2.0a5",
+        "pkg:pypi/invenio@3.2.0a7",
+        "pkg:pypi/invenio@3.1.0.dev20181106",
+        "pkg:pypi/invenio@3.2.0a8",
+        "pkg:pypi/invenio@3.2.0a2",
+        "pkg:pypi/invenio@3.0.0rc2",
+        "pkg:pypi/invenio@3.2.2a1",
+        "pkg:pypi/invenio@3.2.0a9",
+        "pkg:pypi/invenio@3.2.0a6",
+        "pkg:pypi/invenio@2.0.6",
+        "pkg:pypi/invenio@3.2.1",
+        "pkg:pypi/invenio@3.0.2",
+        "pkg:pypi/invenio@3.4.0a6",
+        "pkg:pypi/invenio@3.4.0a3",
+        "pkg:pypi/invenio@3.0.0",
+        "pkg:pypi/invenio@3.3.0a3",
+        "pkg:pypi/invenio@3.0.0rc1",
+        "pkg:pypi/invenio@3.1.0.dev20190215",
+        "pkg:pypi/invenio@3.0.0a1",
+        "pkg:pypi/invenio@2.1.0",
+        "pkg:pypi/invenio@3.2.2"
+    ]
+}

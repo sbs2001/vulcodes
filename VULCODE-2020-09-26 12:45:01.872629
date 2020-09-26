@@ -1,0 +1,16 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:01.872629",
+    "summary": "Chaosloader 1.0.0 adds secure encrypted password to travis.yml.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37048"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/chaosloader@0.0.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/chaosloader@1.0.0"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:58.535014",
+    "summary": "pillow-simd before 3.1.2 is vulnerable to an integer overflow in Jpeg2KEncode.c causing a buffer overflow. CVE-2016-3076.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25954"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/pillow-simd@2.9.0.post0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/pillow-simd@5.2.0.post0",
+        "pkg:pypi/pillow-simd@5.3.0.post1",
+        "pkg:pypi/pillow-simd@3.4.1.post2",
+        "pkg:pypi/pillow-simd@4.3.0.post0",
+        "pkg:pypi/pillow-simd@6.0.0.post1",
+        "pkg:pypi/pillow-simd@3.3.3.post0",
+        "pkg:pypi/pillow-simd@5.2.0.post1",
+        "pkg:pypi/pillow-simd@4.1.1.post0",
+        "pkg:pypi/pillow-simd@5.4.1.post0",
+        "pkg:pypi/pillow-simd@7.0.0.post0",
+        "pkg:pypi/pillow-simd@3.3.0.post1",
+        "pkg:pypi/pillow-simd@3.2.0.post1",
+        "pkg:pypi/pillow-simd@3.2.0.post2",
+        "pkg:pypi/pillow-simd@3.4.1.post1",
+        "pkg:pypi/pillow-simd@6.2.2.post1",
+        "pkg:pypi/pillow-simd@3.3.0.post2",
+        "pkg:pypi/pillow-simd@6.2.2.post0",
+        "pkg:pypi/pillow-simd@6.0.0.post2",
+        "pkg:pypi/pillow-simd@6.0.0.post0",
+        "pkg:pypi/pillow-simd@6.1.0.post1",
+        "pkg:pypi/pillow-simd@6.1.0.post0",
+        "pkg:pypi/pillow-simd@4.0.0.post0",
+        "pkg:pypi/pillow-simd@7.0.0.post3",
+        "pkg:pypi/pillow-simd@5.1.1.post1",
+        "pkg:pypi/pillow-simd@7.0.0.post1",
+        "pkg:pypi/pillow-simd@3.3.2.post0",
+        "pkg:pypi/pillow-simd@4.2.1.post0",
+        "pkg:pypi/pillow-simd@3.4.1.post0",
+        "pkg:pypi/pillow-simd@5.3.0.post0",
+        "pkg:pypi/pillow-simd@7.0.0.post2",
+        "pkg:pypi/pillow-simd@3.2.0.post3",
+        "pkg:pypi/pillow-simd@3.3.0.post0",
+        "pkg:pypi/pillow-simd@3.2.0.post0",
+        "pkg:pypi/pillow-simd@5.1.1.post0"
+    ]
+}

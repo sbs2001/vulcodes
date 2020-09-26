@@ -1,0 +1,28 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:52:37.035707",
+    "summary": "Staty 1.2.3 updates requirements to fix security issues.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37049"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/staty@1.1.1",
+        "pkg:pypi/staty@0.5.0",
+        "pkg:pypi/staty@0.2.2",
+        "pkg:pypi/staty@0.3.0",
+        "pkg:pypi/staty@0.2",
+        "pkg:pypi/staty@0.0.1",
+        "pkg:pypi/staty@0.2.1",
+        "pkg:pypi/staty@1.2.1",
+        "pkg:pypi/staty@1.0.0",
+        "pkg:pypi/staty@1.2.2",
+        "pkg:pypi/staty@0.1",
+        "pkg:pypi/staty@1.2.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/staty@1.2.3",
+        "pkg:pypi/staty@1.2.4"
+    ]
+}

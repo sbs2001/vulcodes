@@ -1,0 +1,54 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:09.366535",
+    "summary": "pyramid-weblayer before 0.12 does not protect AJAX requests through the CSRF machinery.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-26052"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/pyramid-weblayer@0.6",
+        "pkg:pypi/pyramid-weblayer@0.11.2",
+        "pkg:pypi/pyramid-weblayer@0.9",
+        "pkg:pypi/pyramid-weblayer@0.11.3.1",
+        "pkg:pypi/pyramid-weblayer@0.11.3",
+        "pkg:pypi/pyramid-weblayer@0.8.5",
+        "pkg:pypi/pyramid-weblayer@0.11",
+        "pkg:pypi/pyramid-weblayer@0.1",
+        "pkg:pypi/pyramid-weblayer@0.9.1",
+        "pkg:pypi/pyramid-weblayer@0.9.2",
+        "pkg:pypi/pyramid-weblayer@0.3",
+        "pkg:pypi/pyramid-weblayer@0.2",
+        "pkg:pypi/pyramid-weblayer@0.11.1",
+        "pkg:pypi/pyramid-weblayer@0.6.1",
+        "pkg:pypi/pyramid-weblayer@0.10",
+        "pkg:pypi/pyramid-weblayer@0.8.1",
+        "pkg:pypi/pyramid-weblayer@0.10.1",
+        "pkg:pypi/pyramid-weblayer@0.11.4",
+        "pkg:pypi/pyramid-weblayer@0.4",
+        "pkg:pypi/pyramid-weblayer@0.2.1",
+        "pkg:pypi/pyramid-weblayer@0.5",
+        "pkg:pypi/pyramid-weblayer@0.10.2",
+        "pkg:pypi/pyramid-weblayer@0.7"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/pyramid-weblayer@0.12.3",
+        "pkg:pypi/pyramid-weblayer@0.14.1",
+        "pkg:pypi/pyramid-weblayer@0.12.5",
+        "pkg:pypi/pyramid-weblayer@0.12.1",
+        "pkg:pypi/pyramid-weblayer@0.12.4",
+        "pkg:pypi/pyramid-weblayer@0.14.2",
+        "pkg:pypi/pyramid-weblayer@0.12.2",
+        "pkg:pypi/pyramid-weblayer@0.13.1",
+        "pkg:pypi/pyramid-weblayer@0.14.3",
+        "pkg:pypi/pyramid-weblayer@0.13.2",
+        "pkg:pypi/pyramid-weblayer@0.14.6",
+        "pkg:pypi/pyramid-weblayer@0.13",
+        "pkg:pypi/pyramid-weblayer@0.14.7",
+        "pkg:pypi/pyramid-weblayer@0.14.5",
+        "pkg:pypi/pyramid-weblayer@0.12.0",
+        "pkg:pypi/pyramid-weblayer@0.14",
+        "pkg:pypi/pyramid-weblayer@0.14.4"
+    ]
+}

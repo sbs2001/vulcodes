@@ -1,0 +1,25 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:50:50.299832",
+    "summary": "pyamf 0.8 fixes a security issue and now wrappes all xml parsing in ``defusedxml`` to protect against any XML entity attacks. See https://www.owasp.org/index.php/XML_External_Entity_(XXE)_Processing for more details. Thanks to Nicolas Gr\u00e9goire (Agarri_FR) for the report.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-34622"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/pyamf@0.6b2",
+        "pkg:pypi/pyamf@0.7.2",
+        "pkg:pypi/pyamf@0.6.1.1",
+        "pkg:pypi/pyamf@0.5",
+        "pkg:pypi/pyamf@0.6",
+        "pkg:pypi/pyamf@0.7.1",
+        "pkg:pypi/pyamf@0.7.0",
+        "pkg:pypi/pyamf@0.4.2",
+        "pkg:pypi/pyamf@0.6.1",
+        "pkg:pypi/pyamf@0.5.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/pyamf@0.8.0"
+    ]
+}

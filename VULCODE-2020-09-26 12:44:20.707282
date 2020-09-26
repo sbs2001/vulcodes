@@ -1,0 +1,16 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:44:20.707282",
+    "summary": "Apache-skywalking 8.0.0 includes:\r\n* Fix SQL Injection vulnerability in H2/MySQL implementation.\r\n* Upgrade Nacos to avoid the FastJson CVE in high frequency.\r\n* Upgrade jasckson-databind to 2.9.10.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38630"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/apache-skywalking@0.1.0",
+        "pkg:pypi/apache-skywalking@0.2.0",
+        "pkg:pypi/apache-skywalking@0.3.0"
+    ],
+    "resolved_packages": []
+}

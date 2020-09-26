@@ -1,0 +1,18 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:46:50.157924",
+    "summary": "Django-orghierarchy 0.1.13 updates Django for security reasons.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37039"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/django-orghierarchy@0.1.20",
+        "pkg:pypi/django-orghierarchy@0.1.24",
+        "pkg:pypi/django-orghierarchy@0.1.23",
+        "pkg:pypi/django-orghierarchy@0.1.22",
+        "pkg:pypi/django-orghierarchy@0.1.21"
+    ]
+}

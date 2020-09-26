@@ -1,0 +1,19 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:52:00.888186",
+    "summary": "robotraconteur 0.9.0 changes: The `LocalTransport` file handle locations have been moved for increased security",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37221"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/robotraconteur@0.10.0",
+        "pkg:pypi/robotraconteur@0.9.3",
+        "pkg:pypi/robotraconteur@0.11.0",
+        "pkg:pypi/robotraconteur@0.9.0",
+        "pkg:pypi/robotraconteur@0.9.2",
+        "pkg:pypi/robotraconteur@0.9.1"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:52:41.047584",
+    "summary": "streamsx-kafka 1.5.1 - resolves security vulnerabilities in third-party libs",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36807"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/streamsx-kafka@1.4.0",
+        "pkg:pypi/streamsx-kafka@1.5.0",
+        "pkg:pypi/streamsx-kafka@1.4.1",
+        "pkg:pypi/streamsx-kafka@1.0.1",
+        "pkg:pypi/streamsx-kafka@1.1.0",
+        "pkg:pypi/streamsx-kafka@0.1.1",
+        "pkg:pypi/streamsx-kafka@1.3.0",
+        "pkg:pypi/streamsx-kafka@1.2.2",
+        "pkg:pypi/streamsx-kafka@1.2.0",
+        "pkg:pypi/streamsx-kafka@0.1.0",
+        "pkg:pypi/streamsx-kafka@1.2.4",
+        "pkg:pypi/streamsx-kafka@1.2.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/streamsx-kafka@1.9.0",
+        "pkg:pypi/streamsx-kafka@1.8.1",
+        "pkg:pypi/streamsx-kafka@1.6.1",
+        "pkg:pypi/streamsx-kafka@1.10.1",
+        "pkg:pypi/streamsx-kafka@1.6.0",
+        "pkg:pypi/streamsx-kafka@1.6.2",
+        "pkg:pypi/streamsx-kafka@1.10.0",
+        "pkg:pypi/streamsx-kafka@1.7.0"
+    ]
+}

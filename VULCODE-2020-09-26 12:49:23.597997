@@ -1,0 +1,15 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:23.597997",
+    "summary": "nfw before 0.0.7 is vulnerable to SQL-injection attacks.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-32994"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/nfw@0.2.0.dev1",
+        "pkg:pypi/nfw@0.2.0.dev2"
+    ]
+}

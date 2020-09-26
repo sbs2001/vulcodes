@@ -1,0 +1,26 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:34.711563",
+    "summary": "nsupdate 0.8.0 fixes a security issue: abuse_blocked flag could be worked around by abuser.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25907"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/nsupdate@0.7.0",
+        "pkg:pypi/nsupdate@0.2.0b0",
+        "pkg:pypi/nsupdate@0.5.0",
+        "pkg:pypi/nsupdate@0.4.0",
+        "pkg:pypi/nsupdate@0.3.0",
+        "pkg:pypi/nsupdate@0.6.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/nsupdate@0.9.0",
+        "pkg:pypi/nsupdate@0.11.0",
+        "pkg:pypi/nsupdate@0.8.0",
+        "pkg:pypi/nsupdate@0.9.1",
+        "pkg:pypi/nsupdate@0.12.0",
+        "pkg:pypi/nsupdate@0.10.0"
+    ]
+}

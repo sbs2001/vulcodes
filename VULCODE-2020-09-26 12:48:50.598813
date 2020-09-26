@@ -1,0 +1,52 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:50.598813",
+    "summary": "locustio before 0.7 uses pickle.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25878"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/locustio@0.4",
+        "pkg:pypi/locustio@0.6.2",
+        "pkg:pypi/locustio@0.5.1",
+        "pkg:pypi/locustio@0.6.1",
+        "pkg:pypi/locustio@0.5",
+        "pkg:pypi/locustio@0.6"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/locustio@1.0b2",
+        "pkg:pypi/locustio@0.13.2",
+        "pkg:pypi/locustio@0.14.6",
+        "pkg:pypi/locustio@0.13.5",
+        "pkg:pypi/locustio@0.12.1",
+        "pkg:pypi/locustio@0.14.4",
+        "pkg:pypi/locustio@0.8a4",
+        "pkg:pypi/locustio@0.7.5",
+        "pkg:pypi/locustio@0.13.1",
+        "pkg:pypi/locustio@0.11.0",
+        "pkg:pypi/locustio@0.14.5",
+        "pkg:pypi/locustio@0.7.4",
+        "pkg:pypi/locustio@0.8a2",
+        "pkg:pypi/locustio@0.8",
+        "pkg:pypi/locustio@0.14.3",
+        "pkg:pypi/locustio@0.7.2",
+        "pkg:pypi/locustio@0.9.0",
+        "pkg:pypi/locustio@1.0b1",
+        "pkg:pypi/locustio@0.7.0",
+        "pkg:pypi/locustio@0.7.3",
+        "pkg:pypi/locustio@0.8.1",
+        "pkg:pypi/locustio@0.13.0",
+        "pkg:pypi/locustio@0.10.0",
+        "pkg:pypi/locustio@0.8a3",
+        "pkg:pypi/locustio@0.8a1",
+        "pkg:pypi/locustio@0.13.4",
+        "pkg:pypi/locustio@0.12.2",
+        "pkg:pypi/locustio@0.7.1",
+        "pkg:pypi/locustio@0.999",
+        "pkg:pypi/locustio@0.13.3",
+        "pkg:pypi/locustio@0.99",
+        "pkg:pypi/locustio@0.14.2"
+    ]
+}

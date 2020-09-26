@@ -1,0 +1,14 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:35.100506",
+    "summary": "Nvidia-tensorflow 1.12.2 fixes a potential security vulnerability where carefully crafted GIF images can produce a null pointer dereference during decoding.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38456"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/nvidia-tensorflow@0.0.1.dev4"
+    ],
+    "resolved_packages": []
+}

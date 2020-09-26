@@ -1,0 +1,17 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:52:37.194264",
+    "summary": "stargate before 0.4 has several undisclosed security vulnerabilities.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-26143"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/stargate@0.3",
+        "pkg:pypi/stargate@0.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/stargate@0.4"
+    ]
+}

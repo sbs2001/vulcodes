@@ -1,0 +1,22 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:48.038548",
+    "summary": "Paradrop 0.10.0 supports more WiFi encryption settings, including properly supporting CCMP for better security.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37491"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/paradrop@0.13.3a8",
+        "pkg:pypi/paradrop@0.13.3a4",
+        "pkg:pypi/paradrop@0.13.3a1",
+        "pkg:pypi/paradrop@0.13.3a7",
+        "pkg:pypi/paradrop@0.13.3a3",
+        "pkg:pypi/paradrop@0.13.2",
+        "pkg:pypi/paradrop@0.13.3a2",
+        "pkg:pypi/paradrop@0.13.3a5",
+        "pkg:pypi/paradrop@0.13.3a6"
+    ]
+}

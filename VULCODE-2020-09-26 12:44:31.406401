@@ -1,0 +1,34 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:44:31.406401",
+    "summary": "authbwc 0.1.4 fixes an issue with the way the HTTP session user permissions were loaded.  This vulnerability made it possible for a user to gain the permissions of the user logged in previously.  The user would have had to be sharing the same http session for this access to have been gained.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25631"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/authbwc@0.1.2",
+        "pkg:pypi/authbwc@0.1.3",
+        "pkg:pypi/authbwc@0.1.0",
+        "pkg:pypi/authbwc@0.1.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/authbwc@0.2.5",
+        "pkg:pypi/authbwc@0.1.8",
+        "pkg:pypi/authbwc@0.1.4",
+        "pkg:pypi/authbwc@0.1.7",
+        "pkg:pypi/authbwc@0.1.9",
+        "pkg:pypi/authbwc@0.3.0",
+        "pkg:pypi/authbwc@0.2.2",
+        "pkg:pypi/authbwc@0.3.1",
+        "pkg:pypi/authbwc@0.1.6",
+        "pkg:pypi/authbwc@0.2.0",
+        "pkg:pypi/authbwc@0.3.2",
+        "pkg:pypi/authbwc@0.2.1",
+        "pkg:pypi/authbwc@0.1.5",
+        "pkg:pypi/authbwc@0.2.3",
+        "pkg:pypi/authbwc@0.2.4",
+        "pkg:pypi/authbwc@0.1.10"
+    ]
+}

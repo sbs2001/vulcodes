@@ -1,0 +1,22 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:46.425535",
+    "summary": "Raylib 1.2 adds a security check in case deployed vertex excess buffer size - [rlgl]",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37165"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/raylib@2.5.0.post4",
+        "pkg:pypi/raylib@2.5.0.post3",
+        "pkg:pypi/raylib@2.6.0",
+        "pkg:pypi/raylib@2.5.0.post2",
+        "pkg:pypi/raylib@2.5.0",
+        "pkg:pypi/raylib@2.5.dev4",
+        "pkg:pypi/raylib@2.5.dev5",
+        "pkg:pypi/raylib@2.5.dev3",
+        "pkg:pypi/raylib@2.5.0.post1"
+    ]
+}

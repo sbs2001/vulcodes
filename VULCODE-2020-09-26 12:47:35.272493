@@ -1,0 +1,29 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:47:35.272493",
+    "summary": "flask-images 1.1.3 fixes 3 security bugs, each of which would allow for reading any image on disk.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25823"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/flask-images@1.1.0",
+        "pkg:pypi/flask-images@1.1.1",
+        "pkg:pypi/flask-images@1.0.0",
+        "pkg:pypi/flask-images@1.1.2",
+        "pkg:pypi/flask-images@0.1.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/flask-images@2.0.0",
+        "pkg:pypi/flask-images@2.1.0",
+        "pkg:pypi/flask-images@2.1.1",
+        "pkg:pypi/flask-images@3.0.0",
+        "pkg:pypi/flask-images@1.1.4",
+        "pkg:pypi/flask-images@1.1.3",
+        "pkg:pypi/flask-images@3.0.2",
+        "pkg:pypi/flask-images@2.1.2",
+        "pkg:pypi/flask-images@3.0.1",
+        "pkg:pypi/flask-images@1.1.5"
+    ]
+}

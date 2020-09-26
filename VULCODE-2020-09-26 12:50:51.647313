@@ -1,0 +1,14 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:50:51.647313",
+    "summary": "Pycapnp-async 0.5.5 updates the bundled C++ libcapnp to v0.5.1.2 security release.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37585"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/pycapnp-async@0.7.0"
+    ]
+}

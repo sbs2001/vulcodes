@@ -1,0 +1,63 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:45.832451",
+    "summary": "radicale before 1.1.2 is vulnerable to bruteforce attacks when using the htpasswd authentication method.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-33323"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/radicale@0.4",
+        "pkg:pypi/radicale@0.6.3",
+        "pkg:pypi/radicale@1.0.1",
+        "pkg:pypi/radicale@0.6.1",
+        "pkg:pypi/radicale@1.1",
+        "pkg:pypi/radicale@0.2",
+        "pkg:pypi/radicale@1.0",
+        "pkg:pypi/radicale@0.6",
+        "pkg:pypi/radicale@1.1.1",
+        "pkg:pypi/radicale@0.9b1",
+        "pkg:pypi/radicale@0.9",
+        "pkg:pypi/radicale@0.9b2",
+        "pkg:pypi/radicale@0.7.1",
+        "pkg:pypi/radicale@0.6.4",
+        "pkg:pypi/radicale@0.3",
+        "pkg:pypi/radicale@0.6.2",
+        "pkg:pypi/radicale@0.5",
+        "pkg:pypi/radicale@0.7",
+        "pkg:pypi/radicale@0.10",
+        "pkg:pypi/radicale@0.8"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/radicale@3.0.0",
+        "pkg:pypi/radicale@3.0.5",
+        "pkg:pypi/radicale@2.0.0rc1",
+        "pkg:pypi/radicale@3.0.2",
+        "pkg:pypi/radicale@2.1.1",
+        "pkg:pypi/radicale@1.1.6",
+        "pkg:pypi/radicale@3.0.4",
+        "pkg:pypi/radicale@2.1.2",
+        "pkg:pypi/radicale@2.1.10",
+        "pkg:pypi/radicale@3.0.6",
+        "pkg:pypi/radicale@2.1.0",
+        "pkg:pypi/radicale@3.0.1",
+        "pkg:pypi/radicale@2.1.5",
+        "pkg:pypi/radicale@1.1.7",
+        "pkg:pypi/radicale@2.1.3",
+        "pkg:pypi/radicale@2.1.9",
+        "pkg:pypi/radicale@2.1.8",
+        "pkg:pypi/radicale@1.1.5",
+        "pkg:pypi/radicale@2.0.0rc2",
+        "pkg:pypi/radicale@2.1.6",
+        "pkg:pypi/radicale@2.1.12",
+        "pkg:pypi/radicale@1.1.3",
+        "pkg:pypi/radicale@2.1.4",
+        "pkg:pypi/radicale@1.1.4",
+        "pkg:pypi/radicale@2.1.11",
+        "pkg:pypi/radicale@1.1.2",
+        "pkg:pypi/radicale@3.0.3",
+        "pkg:pypi/radicale@2.0.0",
+        "pkg:pypi/radicale@2.1.7"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:44:26.126356",
+    "summary": "Cookie values in asgi-csrf 0.3 are now signed to prevent subdomain attacks. See also: <https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html#double-submit-cookie>.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38376"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/asgi-csrf@0.2.1a0",
+        "pkg:pypi/asgi-csrf@0.2a0",
+        "pkg:pypi/asgi-csrf@0.1a0",
+        "pkg:pypi/asgi-csrf@0.2.2a0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/asgi-csrf@0.7.1",
+        "pkg:pypi/asgi-csrf@0.3",
+        "pkg:pypi/asgi-csrf@0.5.1",
+        "pkg:pypi/asgi-csrf@0.4",
+        "pkg:pypi/asgi-csrf@0.3.1",
+        "pkg:pypi/asgi-csrf@0.7",
+        "pkg:pypi/asgi-csrf@0.7a0",
+        "pkg:pypi/asgi-csrf@0.6.1",
+        "pkg:pypi/asgi-csrf@0.6",
+        "pkg:pypi/asgi-csrf@0.5"
+    ]
+}

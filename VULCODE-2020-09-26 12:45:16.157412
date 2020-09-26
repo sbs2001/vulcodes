@@ -1,0 +1,40 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:16.157412",
+    "summary": "Confidant 6.3.0 adds support for keeping track of when credentials should be rotated. It therefore adds three new fields to the Credential model, two of which improve the security (`last_decrypted_date` and `last_rotation_date`). The former explicitly stores when someone viewed a credential. Certain credentials can potentially be highly vulnerable and could benefit from being rotated the moment the credential pair is viewed. The latter stores when a credential was last rotated. Some credentials might need to periodically be rotated for security purposes.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38560"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/confidant@4.4.0",
+        "pkg:pypi/confidant@4.0.0",
+        "pkg:pypi/confidant@5.2.0",
+        "pkg:pypi/confidant@4.1.0",
+        "pkg:pypi/confidant@1.3.0",
+        "pkg:pypi/confidant@4.3.1",
+        "pkg:pypi/confidant@1.10.1",
+        "pkg:pypi/confidant@5.0.0",
+        "pkg:pypi/confidant@6.2.0",
+        "pkg:pypi/confidant@6.0.0",
+        "pkg:pypi/confidant@5.0.1",
+        "pkg:pypi/confidant@1.1.20",
+        "pkg:pypi/confidant@4.2.0",
+        "pkg:pypi/confidant@1.8.0",
+        "pkg:pypi/confidant@5.1.0",
+        "pkg:pypi/confidant@1.4.0",
+        "pkg:pypi/confidant@1.9.0",
+        "pkg:pypi/confidant@1.5.1",
+        "pkg:pypi/confidant@1.5.0",
+        "pkg:pypi/confidant@1.1.19",
+        "pkg:pypi/confidant@1.2.0",
+        "pkg:pypi/confidant@1.1.21",
+        "pkg:pypi/confidant@1.11.0",
+        "pkg:pypi/confidant@6.1.0",
+        "pkg:pypi/confidant@1.6.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/confidant@6.3.0"
+    ]
+}

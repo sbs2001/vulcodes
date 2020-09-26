@@ -1,0 +1,51 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:08.945116",
+    "summary": "Miniwdl 0.6.0 manipulates ownership/permissions to improve security and user experience:\r\n* as run completes, chown everything in run directory to invoking user and primary group\r\n* run task commands with membership in invoking user's primary group, ensuring access to working directory even if they've dropped privileges (a good docker security practice)\r\n* `--as-me` to force all task commands to run as invoking user (more secure, but blocks commands that assume root e.g. apt-get)\r\n* Revert to always running command in bash (as required by WDL spec) rather than container $SHELL",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37814"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/miniwdl@0.1.1",
+        "pkg:pypi/miniwdl@0.3.0",
+        "pkg:pypi/miniwdl@0.1.2",
+        "pkg:pypi/miniwdl@0.2.2",
+        "pkg:pypi/miniwdl@0.0.4",
+        "pkg:pypi/miniwdl@0.2.0",
+        "pkg:pypi/miniwdl@0.4.1",
+        "pkg:pypi/miniwdl@0.5.0",
+        "pkg:pypi/miniwdl@0.1.7",
+        "pkg:pypi/miniwdl@0.1.3",
+        "pkg:pypi/miniwdl@0.5.2",
+        "pkg:pypi/miniwdl@0.5.1",
+        "pkg:pypi/miniwdl@0.0.2",
+        "pkg:pypi/miniwdl@0.1.6",
+        "pkg:pypi/miniwdl@0.0.3",
+        "pkg:pypi/miniwdl@0.2.1",
+        "pkg:pypi/miniwdl@0.0.5",
+        "pkg:pypi/miniwdl@0.0.1",
+        "pkg:pypi/miniwdl@0.4.0",
+        "pkg:pypi/miniwdl@0.1.4",
+        "pkg:pypi/miniwdl@0.1.5",
+        "pkg:pypi/miniwdl@0.1.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/miniwdl@0.8.1",
+        "pkg:pypi/miniwdl@0.7.3",
+        "pkg:pypi/miniwdl@0.6.4",
+        "pkg:pypi/miniwdl@0.6.5",
+        "pkg:pypi/miniwdl@0.7.4",
+        "pkg:pypi/miniwdl@0.6.2",
+        "pkg:pypi/miniwdl@0.7.0",
+        "pkg:pypi/miniwdl@0.7.2",
+        "pkg:pypi/miniwdl@0.8.2",
+        "pkg:pypi/miniwdl@0.6.3",
+        "pkg:pypi/miniwdl@0.7.5",
+        "pkg:pypi/miniwdl@0.8.0",
+        "pkg:pypi/miniwdl@0.6.1",
+        "pkg:pypi/miniwdl@0.7.1",
+        "pkg:pypi/miniwdl@0.6.0"
+    ]
+}

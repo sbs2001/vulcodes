@@ -1,0 +1,36 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:44:51.089126",
+    "summary": "In bodhi before 2.9.1 it is possible to inject JavaScript into Bodhi's web interface through Bugzilla ticket subjects.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-35208"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/bodhi@2.5.0",
+        "pkg:pypi/bodhi@2.3.0",
+        "pkg:pypi/bodhi@2.9.0",
+        "pkg:pypi/bodhi@2.3.1",
+        "pkg:pypi/bodhi@2.7.0",
+        "pkg:pypi/bodhi@2.4.0",
+        "pkg:pypi/bodhi@2.3.3"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/bodhi@4.0.1",
+        "pkg:pypi/bodhi@4.1.0",
+        "pkg:pypi/bodhi@4.0.0",
+        "pkg:pypi/bodhi@3.3.0",
+        "pkg:pypi/bodhi@3.13.0",
+        "pkg:pypi/bodhi@4.1.1",
+        "pkg:pypi/bodhi@3.11.0",
+        "pkg:pypi/bodhi@5.4.0",
+        "pkg:pypi/bodhi@3.10.0",
+        "pkg:pypi/bodhi@5.0.0",
+        "pkg:pypi/bodhi@5.4.1",
+        "pkg:pypi/bodhi@5.1.0",
+        "pkg:pypi/bodhi@5.2.0",
+        "pkg:pypi/bodhi@3.14.0",
+        "pkg:pypi/bodhi@5.5"
+    ]
+}

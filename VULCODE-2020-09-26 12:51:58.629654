@@ -1,0 +1,17 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:58.629654",
+    "summary": "Rotten-tomatoes-cli 0.0.2 updates the `pyyaml`, `urllib3`, and `requests` dependencies to avoid security vulnerabilities.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37315"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/rotten-tomatoes-cli@0.0.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/rotten-tomatoes-cli@0.0.2",
+        "pkg:pypi/rotten-tomatoes-cli@0.0.3"
+    ]
+}

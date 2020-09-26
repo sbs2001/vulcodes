@@ -1,0 +1,21 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:12.575208",
+    "summary": "pytest-git before 1.1.0  uses a subshell in workspace.run.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-26060"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/pytest-git@1.6.0",
+        "pkg:pypi/pytest-git@1.1.2",
+        "pkg:pypi/pytest-git@1.2.2",
+        "pkg:pypi/pytest-git@1.2.0",
+        "pkg:pypi/pytest-git@1.7.0",
+        "pkg:pypi/pytest-git@1.3.0",
+        "pkg:pypi/pytest-git@1.4.0",
+        "pkg:pypi/pytest-git@1.2.11"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:53:49.678464",
+    "summary": "Virustotal-python 0.0.9 includes updates of some dependencies due to security vulnerabilities.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38227"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/virustotal-python@0.0.3",
+        "pkg:pypi/virustotal-python@0.0.6",
+        "pkg:pypi/virustotal-python@0.0.4",
+        "pkg:pypi/virustotal-python@0.0.5",
+        "pkg:pypi/virustotal-python@0.0.2",
+        "pkg:pypi/virustotal-python@0.0.7",
+        "pkg:pypi/virustotal-python@0.0.1",
+        "pkg:pypi/virustotal-python@0.0.8"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/virustotal-python@0.0.9"
+    ]
+}

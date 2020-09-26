@@ -1,0 +1,17 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:28.479312",
+    "summary": "iso6709 0.1.4 bumped development versions for security fixes",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37250"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/iso6709@0.1.3"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/iso6709@0.1.4",
+        "pkg:pypi/iso6709@0.1.5"
+    ]
+}

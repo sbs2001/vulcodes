@@ -1,0 +1,60 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:52:36.460920",
+    "summary": "Sslyze 3.0.2 improves the check for HTTP security headers by adding support for HTTP redirections.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38197"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/sslyze@2.1.0",
+        "pkg:pypi/sslyze@0.13.1",
+        "pkg:pypi/sslyze@1.3.0",
+        "pkg:pypi/sslyze@1.0.0",
+        "pkg:pypi/sslyze@0.13.0",
+        "pkg:pypi/sslyze@3.0.1",
+        "pkg:pypi/sslyze@1.3.4",
+        "pkg:pypi/sslyze@2.0.6",
+        "pkg:pypi/sslyze@2.0.2",
+        "pkg:pypi/sslyze@1.1.0",
+        "pkg:pypi/sslyze@1.3.1",
+        "pkg:pypi/sslyze@1.4.1",
+        "pkg:pypi/sslyze@0.13.5",
+        "pkg:pypi/sslyze@2.1.3",
+        "pkg:pypi/sslyze@1.1.1",
+        "pkg:pypi/sslyze@2.1.2",
+        "pkg:pypi/sslyze@2.0.0",
+        "pkg:pypi/sslyze@2.0.5",
+        "pkg:pypi/sslyze@0.13.3",
+        "pkg:pypi/sslyze@0.14.0",
+        "pkg:pypi/sslyze@2.0.4",
+        "pkg:pypi/sslyze@2.0.3",
+        "pkg:pypi/sslyze@1.1.3",
+        "pkg:pypi/sslyze@1.4.3",
+        "pkg:pypi/sslyze@1.2.0",
+        "pkg:pypi/sslyze@1.4.2",
+        "pkg:pypi/sslyze@2.1.1",
+        "pkg:pypi/sslyze@1.1.4",
+        "pkg:pypi/sslyze@1.4.0",
+        "pkg:pypi/sslyze@0.13.4",
+        "pkg:pypi/sslyze@0.14.1",
+        "pkg:pypi/sslyze@0.13.2",
+        "pkg:pypi/sslyze@3.0.0",
+        "pkg:pypi/sslyze@0.14.2",
+        "pkg:pypi/sslyze@1.3.2",
+        "pkg:pypi/sslyze@1.1.2",
+        "pkg:pypi/sslyze@0.13.6",
+        "pkg:pypi/sslyze@2.1.4",
+        "pkg:pypi/sslyze@1.1.5",
+        "pkg:pypi/sslyze@2.0.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/sslyze@3.0.6",
+        "pkg:pypi/sslyze@3.0.4",
+        "pkg:pypi/sslyze@3.0.3",
+        "pkg:pypi/sslyze@3.0.7",
+        "pkg:pypi/sslyze@3.0.8",
+        "pkg:pypi/sslyze@3.0.2"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:54:13.302899",
+    "summary": "Zulip-term 0.5.2 fixes a security issue due to limited quote escaping in notifications. Additionally, it fixes a security issue when running in profiling mode (fixed filename in /tmp).",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38640"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/zulip-term@0.3.1",
+        "pkg:pypi/zulip-term@0.5.0",
+        "pkg:pypi/zulip-term@0.2.1",
+        "pkg:pypi/zulip-term@0.5.1",
+        "pkg:pypi/zulip-term@0.4.0",
+        "pkg:pypi/zulip-term@0.2.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/zulip-term@0.5.2"
+    ]
+}
