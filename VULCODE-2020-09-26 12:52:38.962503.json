@@ -1,0 +1,16 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:52:38.962503",
+    "summary": "Stork 3.0.1 includes re-compiled dependencies to fix a security issue in a pinned dependency.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38611"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/stork@3.0.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/stork@3.0.1"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:40.823953",
+    "summary": "quintagroup.seoptimizer before 3.0.4 has a security issue for SEO Property action and view.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-26098"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/quintagroup.seoptimizer@2.3.3",
+        "pkg:pypi/quintagroup.seoptimizer@2.0.4",
+        "pkg:pypi/quintagroup.seoptimizer@2.0.8",
+        "pkg:pypi/quintagroup.seoptimizer@2.0.6",
+        "pkg:pypi/quintagroup.seoptimizer@2.3.1",
+        "pkg:pypi/quintagroup.seoptimizer@2.1.0",
+        "pkg:pypi/quintagroup.seoptimizer@2.0.7",
+        "pkg:pypi/quintagroup.seoptimizer@2.3.2",
+        "pkg:pypi/quintagroup.seoptimizer@2.3.0",
+        "pkg:pypi/quintagroup.seoptimizer@3.0",
+        "pkg:pypi/quintagroup.seoptimizer@2.3.4",
+        "pkg:pypi/quintagroup.seoptimizer@2.0.9",
+        "pkg:pypi/quintagroup.seoptimizer@2.0.0",
+        "pkg:pypi/quintagroup.seoptimizer@2.0.2",
+        "pkg:pypi/quintagroup.seoptimizer@2.1.1",
+        "pkg:pypi/quintagroup.seoptimizer@3.0.1",
+        "pkg:pypi/quintagroup.seoptimizer@2.0.1",
+        "pkg:pypi/quintagroup.seoptimizer@2.2.0",
+        "pkg:pypi/quintagroup.seoptimizer@2.0.5"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/quintagroup.seoptimizer@4.0.3",
+        "pkg:pypi/quintagroup.seoptimizer@4.1.2",
+        "pkg:pypi/quintagroup.seoptimizer@4.0.4",
+        "pkg:pypi/quintagroup.seoptimizer@4.0.6",
+        "pkg:pypi/quintagroup.seoptimizer@4.2.1",
+        "pkg:pypi/quintagroup.seoptimizer@4.0.1",
+        "pkg:pypi/quintagroup.seoptimizer@4.1.3",
+        "pkg:pypi/quintagroup.seoptimizer@3.0.5",
+        "pkg:pypi/quintagroup.seoptimizer@4.0",
+        "pkg:pypi/quintagroup.seoptimizer@4.1.0",
+        "pkg:pypi/quintagroup.seoptimizer@4.3",
+        "pkg:pypi/quintagroup.seoptimizer@4.1.1",
+        "pkg:pypi/quintagroup.seoptimizer@4.2.0",
+        "pkg:pypi/quintagroup.seoptimizer@3.0.4",
+        "pkg:pypi/quintagroup.seoptimizer@3.0.7"
+    ]
+}

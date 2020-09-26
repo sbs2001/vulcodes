@@ -1,0 +1,26 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:59.932900",
+    "summary": "pim-dm 1.0 includes dissertation work and an unspecified security implementation",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37857"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/pim-dm@1.2",
+        "pkg:pypi/pim-dm@1.1",
+        "pkg:pypi/pim-dm@1.1.1.4",
+        "pkg:pypi/pim-dm@1.0.4.1",
+        "pkg:pypi/pim-dm@1.1.1.1",
+        "pkg:pypi/pim-dm@1.1.1.2",
+        "pkg:pypi/pim-dm@1.0.4",
+        "pkg:pypi/pim-dm@1.0.1",
+        "pkg:pypi/pim-dm@1.1.1",
+        "pkg:pypi/pim-dm@1.0.3",
+        "pkg:pypi/pim-dm@1.0.4.2",
+        "pkg:pypi/pim-dm@1.0.2",
+        "pkg:pypi/pim-dm@1.1.1.3"
+    ]
+}

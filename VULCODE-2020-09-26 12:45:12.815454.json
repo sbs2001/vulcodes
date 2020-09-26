@@ -1,0 +1,18 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:12.815454",
+    "summary": "collective.portlet.twitter 1.0b3 fixes a potential XSS (arbitrary injection) issue by escaping and quoting all attributes being set on the rendered portlet.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25661"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/collective.portlet.twitter@1.0b2",
+        "pkg:pypi/collective.portlet.twitter@1.0b1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/collective.portlet.twitter@1.0b3",
+        "pkg:pypi/collective.portlet.twitter@1.0rc1"
+    ]
+}

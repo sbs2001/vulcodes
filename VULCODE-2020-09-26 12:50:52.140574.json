@@ -1,0 +1,21 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:50:52.140574",
+    "summary": "Pyfrost 0.2.1 updates dependencies with security alerts.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38192"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/pyfrost@0.2.0",
+        "pkg:pypi/pyfrost@0.1.2",
+        "pkg:pypi/pyfrost@0.1.3",
+        "pkg:pypi/pyfrost@0.1.1",
+        "pkg:pypi/pyfrost@0.1.4",
+        "pkg:pypi/pyfrost@0.1.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/pyfrost@0.2.1"
+    ]
+}

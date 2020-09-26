@@ -1,0 +1,22 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:44:08.401740",
+    "summary": "The proxy in aiocoap 0.4a1 only creates log files when explicitly requested (18ddf8c). Also, support for secured protocols has been added.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37469"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/aiocoap@0.3",
+        "pkg:pypi/aiocoap@0.2",
+        "pkg:pypi/aiocoap@0.1",
+        "pkg:pypi/aiocoap@0.3rc1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/aiocoap@0.4b3",
+        "pkg:pypi/aiocoap@0.4a1",
+        "pkg:pypi/aiocoap@0.4b1",
+        "pkg:pypi/aiocoap@0.4b2"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:05.348413",
+    "summary": "Megalib 0.9.5alpha updates requirements.txt to fix a vulnerability.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37099"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/megalib@0.9.4",
+        "pkg:pypi/megalib@0.9.4.2",
+        "pkg:pypi/megalib@0.9.4.1",
+        "pkg:pypi/megalib@0.9.3.3",
+        "pkg:pypi/megalib@0.9.3.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/megalib@0.9.5.2",
+        "pkg:pypi/megalib@1.0",
+        "pkg:pypi/megalib@1.1",
+        "pkg:pypi/megalib@0.9.5.1",
+        "pkg:pypi/megalib@0.9.5"
+    ]
+}

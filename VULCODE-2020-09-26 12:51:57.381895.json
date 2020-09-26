@@ -1,0 +1,34 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:57.381895",
+    "summary": "Restrictedpython 4.0 ships with a default implementation for ``_getattr_`` which prevents from using the ``format()`` method on str/unicode as it is not safe. See <http://lucumr.pocoo.org/2016/12/29/careful-with-str-format/>.\r\n\r\n **Caution:** If you do not already have secured the access to this ``format()`` method in your ``_getattr_`` implementation use ``RestrictedPython.Guards.safer_getattr()`` in your implementation to benefit from this fix.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37433"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/restrictedpython@3.6.0a1",
+        "pkg:pypi/restrictedpython@3.5.0",
+        "pkg:pypi/restrictedpython@3.5.2",
+        "pkg:pypi/restrictedpython@3.4.3",
+        "pkg:pypi/restrictedpython@3.5.1",
+        "pkg:pypi/restrictedpython@3.4.2",
+        "pkg:pypi/restrictedpython@3.6.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/restrictedpython@4.0",
+        "pkg:pypi/restrictedpython@4.0a1",
+        "pkg:pypi/restrictedpython@4.0b3",
+        "pkg:pypi/restrictedpython@4.0a2",
+        "pkg:pypi/restrictedpython@4.0b7",
+        "pkg:pypi/restrictedpython@4.0b6",
+        "pkg:pypi/restrictedpython@4.0b5",
+        "pkg:pypi/restrictedpython@4.0b8",
+        "pkg:pypi/restrictedpython@5.0",
+        "pkg:pypi/restrictedpython@4.0b4",
+        "pkg:pypi/restrictedpython@4.0b1",
+        "pkg:pypi/restrictedpython@4.0b2",
+        "pkg:pypi/restrictedpython@4.0a3"
+    ]
+}

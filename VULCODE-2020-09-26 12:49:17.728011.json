@@ -1,0 +1,25 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:17.728011",
+    "summary": "Muffnn 2.3.1 increases the minimum version of tensorflow to v1.15.2 to fix a security vulnerability.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38154"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/muffnn@1.1.2",
+        "pkg:pypi/muffnn@2.3.0",
+        "pkg:pypi/muffnn@0.2.0",
+        "pkg:pypi/muffnn@1.1.1",
+        "pkg:pypi/muffnn@1.2.0",
+        "pkg:pypi/muffnn@2.0.0",
+        "pkg:pypi/muffnn@2.1.0",
+        "pkg:pypi/muffnn@1.0.0",
+        "pkg:pypi/muffnn@2.2.0",
+        "pkg:pypi/muffnn@1.1.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/muffnn@2.3.1"
+    ]
+}

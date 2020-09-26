@@ -1,0 +1,49 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:01.810955",
+    "summary": "Please upgrade to 1.8.0 immediately.\r\n\r\nVersions 1.6.6 to 1.7.1 are vulnerable to code execution. If you are running a vulnerable version, a malicious website owner could craft a page which executes arbitrary Python code on the machine that runs this script. This can only occur if the website that the user attempts to scrape has specifically prepared a page to exploit vulnerable versions of cfscrape.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-34275"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/cfscrape@1.6.8",
+        "pkg:pypi/cfscrape@1.6.6",
+        "pkg:pypi/cfscrape@1.7.1",
+        "pkg:pypi/cfscrape@1.6.7",
+        "pkg:pypi/cfscrape@1.7.0",
+        "pkg:pypi/cfscrape@1.8.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/cfscrape@2.0.3",
+        "pkg:pypi/cfscrape@1.6.2",
+        "pkg:pypi/cfscrape@1.9.1",
+        "pkg:pypi/cfscrape@1.8.1",
+        "pkg:pypi/cfscrape@2.0.8",
+        "pkg:pypi/cfscrape@1.9.0",
+        "pkg:pypi/cfscrape@1.9.6",
+        "pkg:pypi/cfscrape@1.4.3",
+        "pkg:pypi/cfscrape@1.6.5",
+        "pkg:pypi/cfscrape@1.6.3",
+        "pkg:pypi/cfscrape@2.0.7",
+        "pkg:pypi/cfscrape@2.1.0",
+        "pkg:pypi/cfscrape@1.9.4",
+        "pkg:pypi/cfscrape@1.6.4",
+        "pkg:pypi/cfscrape@2.0.1",
+        "pkg:pypi/cfscrape@2.1.1",
+        "pkg:pypi/cfscrape@2.0.2",
+        "pkg:pypi/cfscrape@1.4.2",
+        "pkg:pypi/cfscrape@2.0.4",
+        "pkg:pypi/cfscrape@1.9.5",
+        "pkg:pypi/cfscrape@1.6.1",
+        "pkg:pypi/cfscrape@1.9.2",
+        "pkg:pypi/cfscrape@1.3",
+        "pkg:pypi/cfscrape@1.9.7",
+        "pkg:pypi/cfscrape@1.9.3",
+        "pkg:pypi/cfscrape@2.0.5",
+        "pkg:pypi/cfscrape@1.4",
+        "pkg:pypi/cfscrape@2.0.0",
+        "pkg:pypi/cfscrape@1.4.1"
+    ]
+}

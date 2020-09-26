@@ -1,0 +1,30 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:54.892246",
+    "summary": "Lurklite 0.4.9 includes a change that allows Discord administrators to be specified with user IDs as well as usernamediscriminator, improving security with username changes.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38394"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/lurklite@0.4.0",
+        "pkg:pypi/lurklite@0.4.6",
+        "pkg:pypi/lurklite@0.4.7",
+        "pkg:pypi/lurklite@0.4.3",
+        "pkg:pypi/lurklite@0.3.2",
+        "pkg:pypi/lurklite@0.4.1",
+        "pkg:pypi/lurklite@0.4.4",
+        "pkg:pypi/lurklite@0.4.5",
+        "pkg:pypi/lurklite@0.4.2",
+        "pkg:pypi/lurklite@0.4.8",
+        "pkg:pypi/lurklite@0.3.0",
+        "pkg:pypi/lurklite@0.3.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/lurklite@0.4.9",
+        "pkg:pypi/lurklite@0.4.11",
+        "pkg:pypi/lurklite@0.4.10",
+        "pkg:pypi/lurklite@0.4.12"
+    ]
+}

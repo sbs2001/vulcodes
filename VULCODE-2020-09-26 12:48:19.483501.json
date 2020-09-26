@@ -1,0 +1,14 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:19.483501",
+    "summary": "This is an insecure package with lots of exploitable security vulnerabilities.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25853"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/insecure-package@0.1.0"
+    ],
+    "resolved_packages": []
+}

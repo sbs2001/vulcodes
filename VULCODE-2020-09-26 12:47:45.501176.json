@@ -1,0 +1,35 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:47:45.501176",
+    "summary": "Giosgapps-bindings 0.0.19 updates Django to get rid of security warnings.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37906"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/giosgapps-bindings@0.0.13",
+        "pkg:pypi/giosgapps-bindings@0.0.17",
+        "pkg:pypi/giosgapps-bindings@0.0.3",
+        "pkg:pypi/giosgapps-bindings@0.0.15",
+        "pkg:pypi/giosgapps-bindings@0.0.18",
+        "pkg:pypi/giosgapps-bindings@0.0.12",
+        "pkg:pypi/giosgapps-bindings@0.0.2",
+        "pkg:pypi/giosgapps-bindings@0.0.10",
+        "pkg:pypi/giosgapps-bindings@0.0.1",
+        "pkg:pypi/giosgapps-bindings@0.0.4",
+        "pkg:pypi/giosgapps-bindings@0.0.6",
+        "pkg:pypi/giosgapps-bindings@0.0.14",
+        "pkg:pypi/giosgapps-bindings@0.0.9",
+        "pkg:pypi/giosgapps-bindings@0.0.7",
+        "pkg:pypi/giosgapps-bindings@0.0.16",
+        "pkg:pypi/giosgapps-bindings@0.0.8",
+        "pkg:pypi/giosgapps-bindings@0.0.5"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/giosgapps-bindings@0.0.22",
+        "pkg:pypi/giosgapps-bindings@0.0.20",
+        "pkg:pypi/giosgapps-bindings@0.0.19",
+        "pkg:pypi/giosgapps-bindings@0.0.21"
+    ]
+}

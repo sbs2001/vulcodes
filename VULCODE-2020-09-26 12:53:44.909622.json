@@ -1,0 +1,37 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:53:44.909622",
+    "summary": "verifone 0.1.8 updates Pipfiles and requirement files. There was security issue in PyYAML module.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36774"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/verifone@0.1.3",
+        "pkg:pypi/verifone@0.1.1",
+        "pkg:pypi/verifone@0.1.2",
+        "pkg:pypi/verifone@0.1.4",
+        "pkg:pypi/verifone@0.1.6",
+        "pkg:pypi/verifone@0.1.0",
+        "pkg:pypi/verifone@0.1.7",
+        "pkg:pypi/verifone@0.1.5"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/verifone@0.1.13",
+        "pkg:pypi/verifone@0.1.16",
+        "pkg:pypi/verifone@0.1.14",
+        "pkg:pypi/verifone@0.1.10",
+        "pkg:pypi/verifone@0.1.18",
+        "pkg:pypi/verifone@0.1.12",
+        "pkg:pypi/verifone@0.1.19",
+        "pkg:pypi/verifone@0.1.20",
+        "pkg:pypi/verifone@0.1.11",
+        "pkg:pypi/verifone@0.1.15",
+        "pkg:pypi/verifone@0.1.17",
+        "pkg:pypi/verifone@0.1.8",
+        "pkg:pypi/verifone@0.1.9",
+        "pkg:pypi/verifone@0.1.21",
+        "pkg:pypi/verifone@0.1.22"
+    ]
+}

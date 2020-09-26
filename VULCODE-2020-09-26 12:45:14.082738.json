@@ -1,0 +1,28 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:14.082738",
+    "summary": "collective.xmpp.chat 0.3.1 updates convers.js to 0.6.3 which includes an important security fix.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25666"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/collective.xmpp.chat@0.2b5",
+        "pkg:pypi/collective.xmpp.chat@0.2b1",
+        "pkg:pypi/collective.xmpp.chat@0.2a3",
+        "pkg:pypi/collective.xmpp.chat@0.2b3",
+        "pkg:pypi/collective.xmpp.chat@0.2b2",
+        "pkg:pypi/collective.xmpp.chat@0.3b1",
+        "pkg:pypi/collective.xmpp.chat@0.3",
+        "pkg:pypi/collective.xmpp.chat@0.2b4",
+        "pkg:pypi/collective.xmpp.chat@0.2a2",
+        "pkg:pypi/collective.xmpp.chat@0.1",
+        "pkg:pypi/collective.xmpp.chat@0.2",
+        "pkg:pypi/collective.xmpp.chat@0.2.1",
+        "pkg:pypi/collective.xmpp.chat@0.3b2"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/collective.xmpp.chat@0.3.1"
+    ]
+}

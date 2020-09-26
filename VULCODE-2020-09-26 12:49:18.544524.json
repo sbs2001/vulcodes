@@ -1,0 +1,29 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:18.544524",
+    "summary": "mr.migrator 1.2 fixes a form problem with security hotfix.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25897"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/mr.migrator@1.0.1",
+        "pkg:pypi/mr.migrator@1.0b11",
+        "pkg:pypi/mr.migrator@1.1",
+        "pkg:pypi/mr.migrator@1.0b9",
+        "pkg:pypi/mr.migrator@1.0b8",
+        "pkg:pypi/mr.migrator@1.0b6",
+        "pkg:pypi/mr.migrator@1.0b2",
+        "pkg:pypi/mr.migrator@1.0b10",
+        "pkg:pypi/mr.migrator@1.0b5",
+        "pkg:pypi/mr.migrator@1.0b4",
+        "pkg:pypi/mr.migrator@1.0b1",
+        "pkg:pypi/mr.migrator@1.0b3",
+        "pkg:pypi/mr.migrator@1.0",
+        "pkg:pypi/mr.migrator@1.0b7"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/mr.migrator@1.2"
+    ]
+}

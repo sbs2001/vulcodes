@@ -1,0 +1,44 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:52:28.215051",
+    "summary": "sftp-cloudfs before 0.13.1 is using an insecure transitive dependency (ftp-cloudfs<=0.26.1).",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-26135"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/sftp-cloudfs@0.9",
+        "pkg:pypi/sftp-cloudfs@0.6.1",
+        "pkg:pypi/sftp-cloudfs@0.13",
+        "pkg:pypi/sftp-cloudfs@0.8",
+        "pkg:pypi/sftp-cloudfs@0.2.1",
+        "pkg:pypi/sftp-cloudfs@0.12",
+        "pkg:pypi/sftp-cloudfs@0.7",
+        "pkg:pypi/sftp-cloudfs@0.10.1",
+        "pkg:pypi/sftp-cloudfs@0.12.2",
+        "pkg:pypi/sftp-cloudfs@0.2",
+        "pkg:pypi/sftp-cloudfs@0.8.1",
+        "pkg:pypi/sftp-cloudfs@0.6",
+        "pkg:pypi/sftp-cloudfs@0.10",
+        "pkg:pypi/sftp-cloudfs@0.11",
+        "pkg:pypi/sftp-cloudfs@0.4",
+        "pkg:pypi/sftp-cloudfs@0.2.3",
+        "pkg:pypi/sftp-cloudfs@0.5",
+        "pkg:pypi/sftp-cloudfs@0.3",
+        "pkg:pypi/sftp-cloudfs@0.12.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/sftp-cloudfs@0.14",
+        "pkg:pypi/sftp-cloudfs@0.21",
+        "pkg:pypi/sftp-cloudfs@0.18",
+        "pkg:pypi/sftp-cloudfs@0.13.1",
+        "pkg:pypi/sftp-cloudfs@0.16",
+        "pkg:pypi/sftp-cloudfs@0.20",
+        "pkg:pypi/sftp-cloudfs@0.19",
+        "pkg:pypi/sftp-cloudfs@0.17",
+        "pkg:pypi/sftp-cloudfs@0.14.1",
+        "pkg:pypi/sftp-cloudfs@0.15",
+        "pkg:pypi/sftp-cloudfs@0.18.1"
+    ]
+}

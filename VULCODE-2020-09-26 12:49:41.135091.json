@@ -1,0 +1,30 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:41.135091",
+    "summary": "oodt before 0.4 is vulnerable to XSS attacks via malformed query strings.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25913"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/oodt@0.3",
+        "pkg:pypi/oodt@0.2",
+        "pkg:pypi/oodt@0.0.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/oodt@0.7",
+        "pkg:pypi/oodt@0.10",
+        "pkg:pypi/oodt@0.5",
+        "pkg:pypi/oodt@0.9",
+        "pkg:pypi/oodt@0.12",
+        "pkg:pypi/oodt@0.6",
+        "pkg:pypi/oodt@1.0",
+        "pkg:pypi/oodt@1.1.dev0",
+        "pkg:pypi/oodt@0.11",
+        "pkg:pypi/oodt@1.1",
+        "pkg:pypi/oodt@0.8",
+        "pkg:pypi/oodt@0.8.1",
+        "pkg:pypi/oodt@0.4"
+    ]
+}

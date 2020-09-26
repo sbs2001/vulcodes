@@ -1,0 +1,16 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:57.311509",
+    "summary": "Responsibly 0.0.3 fixes security issues with its dependencies.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37335"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/responsibly@0.1.2",
+        "pkg:pypi/responsibly@0.1.1",
+        "pkg:pypi/responsibly@0.1.0"
+    ]
+}

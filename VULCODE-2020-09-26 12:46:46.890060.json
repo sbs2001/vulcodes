@@ -1,0 +1,48 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:46:46.890060",
+    "summary": "django-hijack before 1.0.7 has a unspecified security issue and is vulnerable via unknown vectors.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25765"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/django-hijack@1.0.3",
+        "pkg:pypi/django-hijack@1.0.6",
+        "pkg:pypi/django-hijack@1.0.1",
+        "pkg:pypi/django-hijack@1.0.4",
+        "pkg:pypi/django-hijack@0.1.1",
+        "pkg:pypi/django-hijack@1.0.0",
+        "pkg:pypi/django-hijack@1.0.2",
+        "pkg:pypi/django-hijack@1.0.5",
+        "pkg:pypi/django-hijack@0.1.4",
+        "pkg:pypi/django-hijack@0.1.2",
+        "pkg:pypi/django-hijack@0.1",
+        "pkg:pypi/django-hijack@0.1.3"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/django-hijack@2.1.3",
+        "pkg:pypi/django-hijack@2.1.5",
+        "pkg:pypi/django-hijack@2.0.6",
+        "pkg:pypi/django-hijack@2.1.6",
+        "pkg:pypi/django-hijack@2.1.10",
+        "pkg:pypi/django-hijack@2.0.3",
+        "pkg:pypi/django-hijack@2.1.0",
+        "pkg:pypi/django-hijack@2.0.7",
+        "pkg:pypi/django-hijack@2.0.8",
+        "pkg:pypi/django-hijack@2.0.0",
+        "pkg:pypi/django-hijack@2.1.4",
+        "pkg:pypi/django-hijack@2.1.9",
+        "pkg:pypi/django-hijack@2.1.7",
+        "pkg:pypi/django-hijack@2.0.1",
+        "pkg:pypi/django-hijack@1.0.9",
+        "pkg:pypi/django-hijack@2.1.2",
+        "pkg:pypi/django-hijack@1.0.7",
+        "pkg:pypi/django-hijack@2.1.8",
+        "pkg:pypi/django-hijack@2.1.1",
+        "pkg:pypi/django-hijack@1.0.10",
+        "pkg:pypi/django-hijack@1.0.8",
+        "pkg:pypi/django-hijack@2.0.2"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:52.411101",
+    "summary": "phileo before 0.3 allows users to like anything and everything, which could potentially lead to security problems (eg. liking entries in permission tables, and thus seeing their content; liking administrative users and thus getting their username).",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25930"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/phileo@0.1",
+        "pkg:pypi/phileo@0.2"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/phileo@1.3",
+        "pkg:pypi/phileo@1.2.2",
+        "pkg:pypi/phileo@1.2.1",
+        "pkg:pypi/phileo@1.1.1",
+        "pkg:pypi/phileo@1.1",
+        "pkg:pypi/phileo@0.4.1",
+        "pkg:pypi/phileo@0.6",
+        "pkg:pypi/phileo@0.5",
+        "pkg:pypi/phileo@1.0",
+        "pkg:pypi/phileo@1.2",
+        "pkg:pypi/phileo@0.3",
+        "pkg:pypi/phileo@0.4"
+    ]
+}

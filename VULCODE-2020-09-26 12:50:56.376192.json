@@ -1,0 +1,43 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:50:56.376192",
+    "summary": "Pyinaturalist 0.7.0 includes minor dependencies updates for security reasons.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37127"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/pyinaturalist@0.5.0",
+        "pkg:pypi/pyinaturalist@0.2.0",
+        "pkg:pypi/pyinaturalist@0.3.0",
+        "pkg:pypi/pyinaturalist@0.4.0",
+        "pkg:pypi/pyinaturalist@0.6.0",
+        "pkg:pypi/pyinaturalist@0.1.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/pyinaturalist@0.11.0.dev220",
+        "pkg:pypi/pyinaturalist@0.11.0.dev320",
+        "pkg:pypi/pyinaturalist@0.10.0.dev215",
+        "pkg:pypi/pyinaturalist@0.11.0.dev254",
+        "pkg:pypi/pyinaturalist@0.11.0.dev289",
+        "pkg:pypi/pyinaturalist@0.9.1",
+        "pkg:pypi/pyinaturalist@0.11.0.dev288",
+        "pkg:pypi/pyinaturalist@0.11.0.dev230",
+        "pkg:pypi/pyinaturalist@0.10.0.dev176",
+        "pkg:pypi/pyinaturalist@0.11.0.dev307",
+        "pkg:pypi/pyinaturalist@0.9.0",
+        "pkg:pypi/pyinaturalist@0.11.0.dev244",
+        "pkg:pypi/pyinaturalist@0.10.0.dev175",
+        "pkg:pypi/pyinaturalist@0.11.0.dev322",
+        "pkg:pypi/pyinaturalist@0.8.0",
+        "pkg:pypi/pyinaturalist@0.10.0.dev206",
+        "pkg:pypi/pyinaturalist@0.10.0.dev180",
+        "pkg:pypi/pyinaturalist@0.11.0.dev253",
+        "pkg:pypi/pyinaturalist@0.10.0.dev208",
+        "pkg:pypi/pyinaturalist@0.7.0",
+        "pkg:pypi/pyinaturalist@0.11.0.dev299",
+        "pkg:pypi/pyinaturalist@0.10.0.dev212",
+        "pkg:pypi/pyinaturalist@0.10.0"
+    ]
+}

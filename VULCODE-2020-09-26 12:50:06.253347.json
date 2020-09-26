@@ -1,0 +1,33 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:50:06.253347",
+    "summary": "pkgcore 0.4.7.12 includes a security fix; force cwd to something controlled for ebuild env.  This blocks an attack detailed in glsa 200810-02; namely that an ebuild invoking python -c (which looks in cwd for modules to load) allows for an attacker to slip something in.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25962"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/pkgcore@0.10.8",
+        "pkg:pypi/pkgcore@0.10.4",
+        "pkg:pypi/pkgcore@0.10.0",
+        "pkg:pypi/pkgcore@0.9.1",
+        "pkg:pypi/pkgcore@0.10.5",
+        "pkg:pypi/pkgcore@0.9.2",
+        "pkg:pypi/pkgcore@0.9.3",
+        "pkg:pypi/pkgcore@0.10.7",
+        "pkg:pypi/pkgcore@0.10.13",
+        "pkg:pypi/pkgcore@0.9",
+        "pkg:pypi/pkgcore@0.10.12",
+        "pkg:pypi/pkgcore@0.10.9",
+        "pkg:pypi/pkgcore@0.9.4",
+        "pkg:pypi/pkgcore@0.10.1",
+        "pkg:pypi/pkgcore@0.9.7",
+        "pkg:pypi/pkgcore@0.10.3",
+        "pkg:pypi/pkgcore@0.9.6",
+        "pkg:pypi/pkgcore@0.10.6",
+        "pkg:pypi/pkgcore@0.10.11",
+        "pkg:pypi/pkgcore@0.10.2"
+    ]
+}

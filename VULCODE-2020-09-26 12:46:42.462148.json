@@ -1,0 +1,31 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:46:42.462148",
+    "summary": "django-dajaxice-ng  0.1.7 fixes the dajaxice callback model to improve security against XSS attacks.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25753"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/django-dajaxice-ng@0.7.0.2",
+        "pkg:pypi/django-dajaxice-ng@0.7.0.6",
+        "pkg:pypi/django-dajaxice-ng@0.7.1.0",
+        "pkg:pypi/django-dajaxice-ng@0.5.6.4",
+        "pkg:pypi/django-dajaxice-ng@0.5.6.5",
+        "pkg:pypi/django-dajaxice-ng@0.8.0.1",
+        "pkg:pypi/django-dajaxice-ng@0.9.0.0",
+        "pkg:pypi/django-dajaxice-ng@0.7.0.4",
+        "pkg:pypi/django-dajaxice-ng@0.7.0.1",
+        "pkg:pypi/django-dajaxice-ng@0.6.0.0",
+        "pkg:pypi/django-dajaxice-ng@0.5.6.1",
+        "pkg:pypi/django-dajaxice-ng@0.8.0.0",
+        "pkg:pypi/django-dajaxice-ng@0.5.6.3",
+        "pkg:pypi/django-dajaxice-ng@0.7.0.7",
+        "pkg:pypi/django-dajaxice-ng@0.7.0.5",
+        "pkg:pypi/django-dajaxice-ng@0.5.6",
+        "pkg:pypi/django-dajaxice-ng@0.8.1.0",
+        "pkg:pypi/django-dajaxice-ng@0.5.6.2"
+    ]
+}

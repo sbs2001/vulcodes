@@ -1,0 +1,25 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:07.145178",
+    "summary": "henosis before 0.0.11 included a vulnerability that was opened by using `yaml.load` as opposed to `yaml.safe_load` ([issue 22](https://github.com/vc1492a/henosis/issues/22)).",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36303"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/henosis@0.0.4",
+        "pkg:pypi/henosis@0.0.2",
+        "pkg:pypi/henosis@0.0.6",
+        "pkg:pypi/henosis@0.0.5",
+        "pkg:pypi/henosis@0.0.8",
+        "pkg:pypi/henosis@0.0.7",
+        "pkg:pypi/henosis@0.0.1",
+        "pkg:pypi/henosis@0.0.10",
+        "pkg:pypi/henosis@0.0.3",
+        "pkg:pypi/henosis@0.0.9"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/henosis@0.0.11"
+    ]
+}

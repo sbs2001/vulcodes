@@ -1,0 +1,22 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:44:16.470251",
+    "summary": "ambient-api 1.5.2 updates requirements.txt to use requests>=2.2.0 due to a security vulnerability.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36594"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/ambient-api@1.5.1",
+        "pkg:pypi/ambient-api@1.5.0",
+        "pkg:pypi/ambient-api@1.0.2",
+        "pkg:pypi/ambient-api@1.0",
+        "pkg:pypi/ambient-api@1.0.1",
+        "pkg:pypi/ambient-api@1.0.3"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/ambient-api@1.5.2",
+        "pkg:pypi/ambient-api@1.5.5"
+    ]
+}

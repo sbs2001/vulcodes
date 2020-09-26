@@ -1,0 +1,58 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:47:14.286064",
+    "summary": "docker 3.5.1 bumps version of `pyOpenSSL` in `requirements.txt` and `setup.py` to prevent\r\n  installation of a vulnerable version.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36783"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/docker@3.4.0",
+        "pkg:pypi/docker@3.2.0",
+        "pkg:pypi/docker@3.1.3",
+        "pkg:pypi/docker@2.4.0",
+        "pkg:pypi/docker@2.4.2",
+        "pkg:pypi/docker@2.0.1",
+        "pkg:pypi/docker@2.7.0",
+        "pkg:pypi/docker@3.2.1",
+        "pkg:pypi/docker@2.1.0",
+        "pkg:pypi/docker@2.6.1",
+        "pkg:pypi/docker@3.1.2",
+        "pkg:pypi/docker@3.1.1",
+        "pkg:pypi/docker@2.5.0",
+        "pkg:pypi/docker@3.4.1",
+        "pkg:pypi/docker@3.0.1",
+        "pkg:pypi/docker@2.0.0",
+        "pkg:pypi/docker@2.5.1",
+        "pkg:pypi/docker@2.6.0",
+        "pkg:pypi/docker@3.0.0",
+        "pkg:pypi/docker@2.2.0",
+        "pkg:pypi/docker@3.3.0",
+        "pkg:pypi/docker@3.5.0",
+        "pkg:pypi/docker@2.3.0",
+        "pkg:pypi/docker@2.0.2",
+        "pkg:pypi/docker@3.1.4",
+        "pkg:pypi/docker@2.2.1",
+        "pkg:pypi/docker@3.1.0",
+        "pkg:pypi/docker@0.0.1",
+        "pkg:pypi/docker@2.4.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/docker@4.0.0",
+        "pkg:pypi/docker@4.3.0",
+        "pkg:pypi/docker@3.5.1",
+        "pkg:pypi/docker@4.2.0",
+        "pkg:pypi/docker@4.0.1",
+        "pkg:pypi/docker@4.2.1",
+        "pkg:pypi/docker@3.7.0",
+        "pkg:pypi/docker@4.1.0",
+        "pkg:pypi/docker@3.6.0",
+        "pkg:pypi/docker@3.7.3",
+        "pkg:pypi/docker@4.3.1",
+        "pkg:pypi/docker@3.7.2",
+        "pkg:pypi/docker@3.7.1",
+        "pkg:pypi/docker@4.0.2",
+        "pkg:pypi/docker@4.2.2"
+    ]
+}

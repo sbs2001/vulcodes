@@ -1,0 +1,20 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:52.311258",
+    "summary": "peppercorn before 0.5 is vulnerable to DoS attacks due to the use of an iterative parser rather than a recursive parser.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25928"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/peppercorn@0.4",
+        "pkg:pypi/peppercorn@0.3",
+        "pkg:pypi/peppercorn@0.2",
+        "pkg:pypi/peppercorn@0.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/peppercorn@0.6",
+        "pkg:pypi/peppercorn@0.5"
+    ]
+}

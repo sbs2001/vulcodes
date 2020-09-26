@@ -1,0 +1,14 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:47:28.385048",
+    "summary": "As an extra security measure on top of what the standard Django password reset token generator is already facilitating, allauth in fincity-django-allauth 0.35.0 adds the user email address to the hash such that whenever the user's email address changes the token is invalidated.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37462"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/fincity-django-allauth@0.40.0"
+    ]
+}

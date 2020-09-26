@@ -1,0 +1,40 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:53:13.190863",
+    "summary": "trosnoth before 1.13.0 had insecure hard-coded server settings in the configuration file.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36954"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/trosnoth@1.5.1",
+        "pkg:pypi/trosnoth@1.2.0",
+        "pkg:pypi/trosnoth@1.12.0",
+        "pkg:pypi/trosnoth@1.3.2",
+        "pkg:pypi/trosnoth@1.12.2",
+        "pkg:pypi/trosnoth@1.3.0",
+        "pkg:pypi/trosnoth@1.9.0",
+        "pkg:pypi/trosnoth@1.2.2",
+        "pkg:pypi/trosnoth@1.2.1",
+        "pkg:pypi/trosnoth@1.10.0",
+        "pkg:pypi/trosnoth@1.11.0",
+        "pkg:pypi/trosnoth@1.4.1",
+        "pkg:pypi/trosnoth@1.1.0",
+        "pkg:pypi/trosnoth@1.4.0",
+        "pkg:pypi/trosnoth@1.12.1",
+        "pkg:pypi/trosnoth@1.8.0",
+        "pkg:pypi/trosnoth@1.0.0",
+        "pkg:pypi/trosnoth@1.3.1",
+        "pkg:pypi/trosnoth@1.8.2",
+        "pkg:pypi/trosnoth@0.ut.09s",
+        "pkg:pypi/trosnoth@1.8.1",
+        "pkg:pypi/trosnoth@1.0.1",
+        "pkg:pypi/trosnoth@1.6.0",
+        "pkg:pypi/trosnoth@1.5.2"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/trosnoth@1.13.0",
+        "pkg:pypi/trosnoth@1.14.0"
+    ]
+}

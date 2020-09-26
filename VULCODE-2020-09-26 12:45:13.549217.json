@@ -1,0 +1,50 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:13.549217",
+    "summary": "collective.contact.core 1.10 fixes a security issue related to AddContact.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25657"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/collective.contact.core@1.1",
+        "pkg:pypi/collective.contact.core@0.10",
+        "pkg:pypi/collective.contact.core@1.3",
+        "pkg:pypi/collective.contact.core@0.11",
+        "pkg:pypi/collective.contact.core@1.2",
+        "pkg:pypi/collective.contact.core@1.0",
+        "pkg:pypi/collective.contact.core@1.5",
+        "pkg:pypi/collective.contact.core@1.9",
+        "pkg:pypi/collective.contact.core@1.7",
+        "pkg:pypi/collective.contact.core@1.6",
+        "pkg:pypi/collective.contact.core@1.4",
+        "pkg:pypi/collective.contact.core@1.8"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/collective.contact.core@1.22",
+        "pkg:pypi/collective.contact.core@1.25",
+        "pkg:pypi/collective.contact.core@1.15",
+        "pkg:pypi/collective.contact.core@1.26",
+        "pkg:pypi/collective.contact.core@1.21",
+        "pkg:pypi/collective.contact.core@1.31",
+        "pkg:pypi/collective.contact.core@1.11",
+        "pkg:pypi/collective.contact.core@1.17",
+        "pkg:pypi/collective.contact.core@1.13.dev0",
+        "pkg:pypi/collective.contact.core@1.19",
+        "pkg:pypi/collective.contact.core@1.27",
+        "pkg:pypi/collective.contact.core@1.18",
+        "pkg:pypi/collective.contact.core@1.10",
+        "pkg:pypi/collective.contact.core@1.16",
+        "pkg:pypi/collective.contact.core@1.24",
+        "pkg:pypi/collective.contact.core@1.33",
+        "pkg:pypi/collective.contact.core@1.20",
+        "pkg:pypi/collective.contact.core@1.29",
+        "pkg:pypi/collective.contact.core@1.32",
+        "pkg:pypi/collective.contact.core@1.12",
+        "pkg:pypi/collective.contact.core@1.14",
+        "pkg:pypi/collective.contact.core@1.30",
+        "pkg:pypi/collective.contact.core@1.23",
+        "pkg:pypi/collective.contact.core@1.28"
+    ]
+}

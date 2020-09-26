@@ -1,0 +1,27 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:50:51.339697",
+    "summary": "In the ElGamal schemes (for both encryption and signatures), g is supposed to be the generator of the entire Z^*_p group.  However, in PyCrypto 2.5 and earlier, g is more simply the generator of a random sub-group of Z^*_p.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-26032"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/pycrypto@1.9a5",
+        "pkg:pypi/pycrypto@1.9a2",
+        "pkg:pypi/pycrypto@2.4.1",
+        "pkg:pypi/pycrypto@2.0",
+        "pkg:pypi/pycrypto@2.0.1",
+        "pkg:pypi/pycrypto@2.2",
+        "pkg:pypi/pycrypto@2.3",
+        "pkg:pypi/pycrypto@2.5",
+        "pkg:pypi/pycrypto@2.4",
+        "pkg:pypi/pycrypto@1.9a6",
+        "pkg:pypi/pycrypto@2.1.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/pycrypto@2.6.1",
+        "pkg:pypi/pycrypto@2.6"
+    ]
+}

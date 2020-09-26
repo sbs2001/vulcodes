@@ -1,0 +1,53 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:44:49.879031",
+    "summary": "bok-choy 0.5.1 contains a fix to XSS vulnerability in the auditing feature.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25641"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/bok-choy@0.2.1",
+        "pkg:pypi/bok-choy@0.4.0",
+        "pkg:pypi/bok-choy@0.3.3",
+        "pkg:pypi/bok-choy@0.4.6",
+        "pkg:pypi/bok-choy@0.3.2",
+        "pkg:pypi/bok-choy@0.4.10",
+        "pkg:pypi/bok-choy@0.0.1",
+        "pkg:pypi/bok-choy@0.4.1",
+        "pkg:pypi/bok-choy@0.5.0",
+        "pkg:pypi/bok-choy@0.4.5",
+        "pkg:pypi/bok-choy@0.3.1",
+        "pkg:pypi/bok-choy@0.3.0",
+        "pkg:pypi/bok-choy@0.3.4",
+        "pkg:pypi/bok-choy@0.2.0",
+        "pkg:pypi/bok-choy@0.4.2",
+        "pkg:pypi/bok-choy@0.0.3",
+        "pkg:pypi/bok-choy@0.4.4",
+        "pkg:pypi/bok-choy@0.1.0",
+        "pkg:pypi/bok-choy@0.4.3",
+        "pkg:pypi/bok-choy@0.0.2",
+        "pkg:pypi/bok-choy@0.4.7"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/bok-choy@0.8.1",
+        "pkg:pypi/bok-choy@0.9.3",
+        "pkg:pypi/bok-choy@0.7.2",
+        "pkg:pypi/bok-choy@1.1.1",
+        "pkg:pypi/bok-choy@0.5.4",
+        "pkg:pypi/bok-choy@0.5.1",
+        "pkg:pypi/bok-choy@0.7.0",
+        "pkg:pypi/bok-choy@0.8.0",
+        "pkg:pypi/bok-choy@1.0.0",
+        "pkg:pypi/bok-choy@0.6.2",
+        "pkg:pypi/bok-choy@0.7.1",
+        "pkg:pypi/bok-choy@0.6.1",
+        "pkg:pypi/bok-choy@1.0.1",
+        "pkg:pypi/bok-choy@0.6.0",
+        "pkg:pypi/bok-choy@0.5.2",
+        "pkg:pypi/bok-choy@0.7.3",
+        "pkg:pypi/bok-choy@0.5.3",
+        "pkg:pypi/bok-choy@0.9.0"
+    ]
+}

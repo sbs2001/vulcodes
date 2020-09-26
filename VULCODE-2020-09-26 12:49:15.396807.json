@@ -1,0 +1,44 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:15.396807",
+    "summary": "morepath before 0.14 has no host header validation to protect against header poisoning attacks.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25895"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/morepath@0.5.1",
+        "pkg:pypi/morepath@0.13.1",
+        "pkg:pypi/morepath@0.1",
+        "pkg:pypi/morepath@0.5",
+        "pkg:pypi/morepath@0.12",
+        "pkg:pypi/morepath@0.4.1",
+        "pkg:pypi/morepath@0.7.2",
+        "pkg:pypi/morepath@0.8",
+        "pkg:pypi/morepath@0.11.1",
+        "pkg:pypi/morepath@0.13",
+        "pkg:pypi/morepath@0.10",
+        "pkg:pypi/morepath@0.11",
+        "pkg:pypi/morepath@0.7.1",
+        "pkg:pypi/morepath@0.3",
+        "pkg:pypi/morepath@0.13.2",
+        "pkg:pypi/morepath@0.4",
+        "pkg:pypi/morepath@0.9",
+        "pkg:pypi/morepath@0.6",
+        "pkg:pypi/morepath@0.7",
+        "pkg:pypi/morepath@0.2"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/morepath@0.16.1",
+        "pkg:pypi/morepath@0.18",
+        "pkg:pypi/morepath@0.14",
+        "pkg:pypi/morepath@0.16.2",
+        "pkg:pypi/morepath@0.18.1",
+        "pkg:pypi/morepath@0.19",
+        "pkg:pypi/morepath@0.17",
+        "pkg:pypi/morepath@0.16",
+        "pkg:pypi/morepath@0.15",
+        "pkg:pypi/morepath@0.18.2"
+    ]
+}

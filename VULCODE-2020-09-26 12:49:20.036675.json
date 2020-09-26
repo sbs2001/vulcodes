@@ -1,0 +1,25 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:20.036675",
+    "summary": "Nearbeach 0.22.1 fixes several security issues in relation to Bandit, identified by Nearbeach as BUG491, BUG492, BUG493, BUG494, BUG495, BUG496, BUG497, and BUG498.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37602"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/nearbeach@0.22.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/nearbeach@0.22.4",
+        "pkg:pypi/nearbeach@0.26.1",
+        "pkg:pypi/nearbeach@0.22.3",
+        "pkg:pypi/nearbeach@0.22.2",
+        "pkg:pypi/nearbeach@0.22.1",
+        "pkg:pypi/nearbeach@0.24.1",
+        "pkg:pypi/nearbeach@0.24.0",
+        "pkg:pypi/nearbeach@0.26.0",
+        "pkg:pypi/nearbeach@0.26.2",
+        "pkg:pypi/nearbeach@0.24.2"
+    ]
+}

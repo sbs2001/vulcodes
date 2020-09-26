@@ -1,0 +1,33 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:46:57.703432",
+    "summary": "django-sql-explorer before 1.1.0 isn't escaping values from the database correctly, making it open for potential XSS-attacks.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-33293"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/django-sql-explorer@0.8",
+        "pkg:pypi/django-sql-explorer@0.2",
+        "pkg:pypi/django-sql-explorer@0.9.1",
+        "pkg:pypi/django-sql-explorer@0.5",
+        "pkg:pypi/django-sql-explorer@0.3",
+        "pkg:pypi/django-sql-explorer@0.6",
+        "pkg:pypi/django-sql-explorer@0.4",
+        "pkg:pypi/django-sql-explorer@0.9.2",
+        "pkg:pypi/django-sql-explorer@0.9",
+        "pkg:pypi/django-sql-explorer@0.4.1",
+        "pkg:pypi/django-sql-explorer@0.1.1",
+        "pkg:pypi/django-sql-explorer@0.1",
+        "pkg:pypi/django-sql-explorer@0.5.1",
+        "pkg:pypi/django-sql-explorer@0.7",
+        "pkg:pypi/django-sql-explorer@1.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/django-sql-explorer@1.1",
+        "pkg:pypi/django-sql-explorer@1.1.1",
+        "pkg:pypi/django-sql-explorer@1.1.2",
+        "pkg:pypi/django-sql-explorer@1.1.3"
+    ]
+}

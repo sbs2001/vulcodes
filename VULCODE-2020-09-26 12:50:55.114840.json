@@ -1,0 +1,21 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:50:55.114840",
+    "summary": "Servers in pylabnet before version 0.3.0 were not secure by default.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38667"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/pylabnet@0.2.6",
+        "pkg:pypi/pylabnet@0.2.3",
+        "pkg:pypi/pylabnet@0.2.7",
+        "pkg:pypi/pylabnet@0.2.5",
+        "pkg:pypi/pylabnet@0.2.4",
+        "pkg:pypi/pylabnet@0.2.2"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/pylabnet@0.3.0"
+    ]
+}

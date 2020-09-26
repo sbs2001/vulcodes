@@ -1,0 +1,17 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:50.557156",
+    "summary": "Lifx-control-panel 1.5.4 fixes a pretty major security exploit. It adds safe-scopes to all `eval()` calls.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37424"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/lifx-control-panel@1.7.6",
+        "pkg:pypi/lifx-control-panel@1.7.4",
+        "pkg:pypi/lifx-control-panel@1.7.5",
+        "pkg:pypi/lifx-control-panel@1.8.0"
+    ]
+}

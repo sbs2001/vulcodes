@@ -1,0 +1,22 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:14.516287",
+    "summary": "collective.noticeboard 0.7.1 fixes a security issue, anonymous users could modify notes positions.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25660"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/collective.noticeboard@0.1",
+        "pkg:pypi/collective.noticeboard@0.6",
+        "pkg:pypi/collective.noticeboard@0.7",
+        "pkg:pypi/collective.noticeboard@0.5",
+        "pkg:pypi/collective.noticeboard@0.2",
+        "pkg:pypi/collective.noticeboard@0.4",
+        "pkg:pypi/collective.noticeboard@0.3"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/collective.noticeboard@0.7.1"
+    ]
+}

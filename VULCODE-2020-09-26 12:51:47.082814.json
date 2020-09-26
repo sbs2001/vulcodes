@@ -1,0 +1,22 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:47.082814",
+    "summary": "Raylib 1.1.1 adds a security check if a file doesn't exist - [textures]",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37166"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/raylib@2.5.0.post1",
+        "pkg:pypi/raylib@2.5.0.post4",
+        "pkg:pypi/raylib@2.5.0.post3",
+        "pkg:pypi/raylib@2.6.0",
+        "pkg:pypi/raylib@2.5.0.post2",
+        "pkg:pypi/raylib@2.5.0",
+        "pkg:pypi/raylib@2.5.dev4",
+        "pkg:pypi/raylib@2.5.dev5",
+        "pkg:pypi/raylib@2.5.dev3"
+    ]
+}

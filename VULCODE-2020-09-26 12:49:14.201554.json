@@ -1,0 +1,24 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:14.201554",
+    "summary": "Before mitogen version 0.2.8, unidirectional routing, where contexts may optionally only communicate with parents and never siblings (so that air-gapped networks cannot be unintentionally bridged) was not inherited when a child was initiated directly from another child. This did not effect Ansible, since the controller initiates any new child used for routing, only forked tasks are initiated by children [gh:commit:`5924af15`].",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37381"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/mitogen@0.2.5",
+        "pkg:pypi/mitogen@0.2.6",
+        "pkg:pypi/mitogen@0.2.3",
+        "pkg:pypi/mitogen@0.2.1",
+        "pkg:pypi/mitogen@0.2.4",
+        "pkg:pypi/mitogen@0.2.2",
+        "pkg:pypi/mitogen@0.2.0",
+        "pkg:pypi/mitogen@0.2.7"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/mitogen@0.2.8",
+        "pkg:pypi/mitogen@0.2.9"
+    ]
+}

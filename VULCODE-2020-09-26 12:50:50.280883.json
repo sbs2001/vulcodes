@@ -1,0 +1,19 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:50:50.280883",
+    "summary": "Py-nightscout 13.0.0 introduces the new APIv3, which generally provides a secured and HTTP REST compliant interface for Nightscout's data exchange.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38657"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/py-nightscout@1.2.2",
+        "pkg:pypi/py-nightscout@1.1.0",
+        "pkg:pypi/py-nightscout@1.1.1",
+        "pkg:pypi/py-nightscout@1.2.0",
+        "pkg:pypi/py-nightscout@1.2.1",
+        "pkg:pypi/py-nightscout@1.0.0"
+    ],
+    "resolved_packages": []
+}

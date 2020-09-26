@@ -1,0 +1,14 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:24.823016",
+    "summary": "python3-ldap before 0.9.5.4 has a security issue in lazy connections.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-26089"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/python3-ldap@0.9.8.4"
+    ]
+}

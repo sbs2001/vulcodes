@@ -1,0 +1,48 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:53:04.870629",
+    "summary": "Tf-encrypted 0.5.6 improves handling for cases where the secure random operation is not available.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37373"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/tf-encrypted@0.1.0",
+        "pkg:pypi/tf-encrypted@0.4.0rc2",
+        "pkg:pypi/tf-encrypted@0.5.0rc1",
+        "pkg:pypi/tf-encrypted@0.5.5rc0",
+        "pkg:pypi/tf-encrypted@0.3.0",
+        "pkg:pypi/tf-encrypted@0.5.4",
+        "pkg:pypi/tf-encrypted@0.2.0rc1",
+        "pkg:pypi/tf-encrypted@0.5.0",
+        "pkg:pypi/tf-encrypted@0.3.0rc1",
+        "pkg:pypi/tf-encrypted@0.2.0",
+        "pkg:pypi/tf-encrypted@0.5.5",
+        "pkg:pypi/tf-encrypted@0.4.1rc0",
+        "pkg:pypi/tf-encrypted@0.5.2rc0",
+        "pkg:pypi/tf-encrypted@0.2.0rc2",
+        "pkg:pypi/tf-encrypted@0.5.2rc2",
+        "pkg:pypi/tf-encrypted@0.5.2",
+        "pkg:pypi/tf-encrypted@0.4.0",
+        "pkg:pypi/tf-encrypted@0.5.2rc1",
+        "pkg:pypi/tf-encrypted@0.5.3",
+        "pkg:pypi/tf-encrypted@0.1.0rc0",
+        "pkg:pypi/tf-encrypted@0.4.0rc3",
+        "pkg:pypi/tf-encrypted@0.5.1",
+        "pkg:pypi/tf-encrypted@0.5.3rc0",
+        "pkg:pypi/tf-encrypted@0.5.4rc0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/tf-encrypted@0.5.6rc1",
+        "pkg:pypi/tf-encrypted@0.5.8rc0",
+        "pkg:pypi/tf-encrypted@0.5.6",
+        "pkg:pypi/tf-encrypted@0.5.7rc1",
+        "pkg:pypi/tf-encrypted@0.5.7",
+        "pkg:pypi/tf-encrypted@0.5.7rc0",
+        "pkg:pypi/tf-encrypted@0.5.9",
+        "pkg:pypi/tf-encrypted@0.6.0rc0",
+        "pkg:pypi/tf-encrypted@0.5.9rc0",
+        "pkg:pypi/tf-encrypted@0.5.8"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:44:08.193448",
+    "summary": "Aiida 0.12.3 fixes a security vulnerability by upgrading `paramiko` to `2.4.2`.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37054"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/aiida@0.11.4",
+        "pkg:pypi/aiida@0.12.1",
+        "pkg:pypi/aiida@0.11.0",
+        "pkg:pypi/aiida@0.12.2",
+        "pkg:pypi/aiida@0.9.1",
+        "pkg:pypi/aiida@0.10.0rc1",
+        "pkg:pypi/aiida@0.12.0",
+        "pkg:pypi/aiida@0.10.0",
+        "pkg:pypi/aiida@0.6.0.1",
+        "pkg:pypi/aiida@0.8.0",
+        "pkg:pypi/aiida@0.8.1",
+        "pkg:pypi/aiida@0.11.2",
+        "pkg:pypi/aiida@0.11.3",
+        "pkg:pypi/aiida@0.10.0rc2",
+        "pkg:pypi/aiida@0.10.1",
+        "pkg:pypi/aiida@0.8.0rc1",
+        "pkg:pypi/aiida@0.11.1",
+        "pkg:pypi/aiida@0.9.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/aiida@1.0.0",
+        "pkg:pypi/aiida@1.0.0b6",
+        "pkg:pypi/aiida@1.0.0b3",
+        "pkg:pypi/aiida@0.12.4",
+        "pkg:pypi/aiida@0.12.3"
+    ]
+}

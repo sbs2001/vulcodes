@@ -1,0 +1,19 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:47:36.120842",
+    "summary": "flask-logger 1.0.3 updates dependencies for security issues in Flask.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36811"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/flask-logger@1.0.2",
+        "pkg:pypi/flask-logger@1.0.1",
+        "pkg:pypi/flask-logger@1.0.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/flask-logger@1.0.3",
+        "pkg:pypi/flask-logger@1.0.4"
+    ]
+}

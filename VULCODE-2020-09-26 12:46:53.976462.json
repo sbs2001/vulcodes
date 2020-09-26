@@ -1,0 +1,50 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:46:53.976462",
+    "summary": "django-session-security  2.4.0 fixes a vulnerability when SESSION_EXPIRE_AT_BROWSER_CLOSE is off.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25789"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/django-session-security@2.3.1",
+        "pkg:pypi/django-session-security@2.1.7",
+        "pkg:pypi/django-session-security@1.2.2",
+        "pkg:pypi/django-session-security@2.3.2",
+        "pkg:pypi/django-session-security@2.2.3",
+        "pkg:pypi/django-session-security@2.0.4",
+        "pkg:pypi/django-session-security@2.1.1",
+        "pkg:pypi/django-session-security@2.2.0",
+        "pkg:pypi/django-session-security@2.0.0",
+        "pkg:pypi/django-session-security@2.1.6",
+        "pkg:pypi/django-session-security@1.1",
+        "pkg:pypi/django-session-security@2.0.3",
+        "pkg:pypi/django-session-security@2.1.0",
+        "pkg:pypi/django-session-security@1.2.1",
+        "pkg:pypi/django-session-security@2.2.4",
+        "pkg:pypi/django-session-security@1.0rc1",
+        "pkg:pypi/django-session-security@2.2.1",
+        "pkg:pypi/django-session-security@2.1.2",
+        "pkg:pypi/django-session-security@2.0.2",
+        "pkg:pypi/django-session-security@2.3.0",
+        "pkg:pypi/django-session-security@1.0rc2",
+        "pkg:pypi/django-session-security@2.1.5",
+        "pkg:pypi/django-session-security@2.2.2",
+        "pkg:pypi/django-session-security@2.0.5",
+        "pkg:pypi/django-session-security@2.0.6"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/django-session-security@2.4.0",
+        "pkg:pypi/django-session-security@2.5.0",
+        "pkg:pypi/django-session-security@2.4.1",
+        "pkg:pypi/django-session-security@2.6.0rc1",
+        "pkg:pypi/django-session-security@2.5.1",
+        "pkg:pypi/django-session-security@2.6.0",
+        "pkg:pypi/django-session-security@2.6.2",
+        "pkg:pypi/django-session-security@2.6.5",
+        "pkg:pypi/django-session-security@2.6.1",
+        "pkg:pypi/django-session-security@2.6.3",
+        "pkg:pypi/django-session-security@2.6.6"
+    ]
+}

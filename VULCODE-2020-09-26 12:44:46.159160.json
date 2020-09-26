@@ -1,0 +1,33 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:44:46.159160",
+    "summary": "Bigdl 0.8.0 fixes the scala compiler security issue in 2.10 & 2.11",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37576"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/bigdl@0.4.0.dev0",
+        "pkg:pypi/bigdl@0.6.0",
+        "pkg:pypi/bigdl@0.4.0",
+        "pkg:pypi/bigdl@0.4.0.dev51",
+        "pkg:pypi/bigdl@0.7.2",
+        "pkg:pypi/bigdl@0.7.1",
+        "pkg:pypi/bigdl@0.5.0",
+        "pkg:pypi/bigdl@0.4.0.dev511",
+        "pkg:pypi/bigdl@0.7.0",
+        "pkg:pypi/bigdl@0.3.0",
+        "pkg:pypi/bigdl@0.1.2",
+        "pkg:pypi/bigdl@0.4.0.dev134",
+        "pkg:pypi/bigdl@0.2.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/bigdl@0.9.0",
+        "pkg:pypi/bigdl@0.9.1",
+        "pkg:pypi/bigdl@0.8.0",
+        "pkg:pypi/bigdl@0.11.1",
+        "pkg:pypi/bigdl@0.10.0",
+        "pkg:pypi/bigdl@0.11.0"
+    ]
+}

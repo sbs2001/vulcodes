@@ -1,0 +1,20 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:00.755401",
+    "summary": "Ccf 0.7 fixes a vulnerability to a possible replay attack.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38641"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/ccf@0.13.2",
+        "pkg:pypi/ccf@0.13.0",
+        "pkg:pypi/ccf@0.12",
+        "pkg:pypi/ccf@0.13.4",
+        "pkg:pypi/ccf@0.13.3",
+        "pkg:pypi/ccf@0.12.1",
+        "pkg:pypi/ccf@0.13.1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:50:24.776992",
+    "summary": "plone.formwidget.contenttree 1.0a3 fixes an issues with the security validator to work properly on add views and other views using namespace traversal.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-26008"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/plone.formwidget.contenttree@1.0a1",
+        "pkg:pypi/plone.formwidget.contenttree@1.0a2"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/plone.formwidget.contenttree@1.0.8",
+        "pkg:pypi/plone.formwidget.contenttree@1.0.16",
+        "pkg:pypi/plone.formwidget.contenttree@1.0b2",
+        "pkg:pypi/plone.formwidget.contenttree@1.0.15",
+        "pkg:pypi/plone.formwidget.contenttree@1.0.11",
+        "pkg:pypi/plone.formwidget.contenttree@1.0.2",
+        "pkg:pypi/plone.formwidget.contenttree@1.2.0",
+        "pkg:pypi/plone.formwidget.contenttree@1.0.10",
+        "pkg:pypi/plone.formwidget.contenttree@1.0.5",
+        "pkg:pypi/plone.formwidget.contenttree@1.0.9",
+        "pkg:pypi/plone.formwidget.contenttree@1.0.13",
+        "pkg:pypi/plone.formwidget.contenttree@1.0",
+        "pkg:pypi/plone.formwidget.contenttree@1.0.7",
+        "pkg:pypi/plone.formwidget.contenttree@1.0.14",
+        "pkg:pypi/plone.formwidget.contenttree@1.0.1",
+        "pkg:pypi/plone.formwidget.contenttree@1.0.6",
+        "pkg:pypi/plone.formwidget.contenttree@1.0b1",
+        "pkg:pypi/plone.formwidget.contenttree@1.0a3",
+        "pkg:pypi/plone.formwidget.contenttree@1.0.4",
+        "pkg:pypi/plone.formwidget.contenttree@1.0a5",
+        "pkg:pypi/plone.formwidget.contenttree@1.0b3",
+        "pkg:pypi/plone.formwidget.contenttree@1.0.12",
+        "pkg:pypi/plone.formwidget.contenttree@1.0.3",
+        "pkg:pypi/plone.formwidget.contenttree@1.1.0",
+        "pkg:pypi/plone.formwidget.contenttree@1.0a4"
+    ]
+}

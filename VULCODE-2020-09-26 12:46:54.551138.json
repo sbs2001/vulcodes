@@ -1,0 +1,40 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:46:54.551138",
+    "summary": "django-safedelete 0.3.3 contains a security fix that prevents an XSS attack in the admin interface.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25785"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/django-safedelete@0.2.1",
+        "pkg:pypi/django-safedelete@0.1.3",
+        "pkg:pypi/django-safedelete@0.3.0",
+        "pkg:pypi/django-safedelete@0.2.0",
+        "pkg:pypi/django-safedelete@0.3.2",
+        "pkg:pypi/django-safedelete@0.3.1",
+        "pkg:pypi/django-safedelete@0.1.2",
+        "pkg:pypi/django-safedelete@0.1.1",
+        "pkg:pypi/django-safedelete@0.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/django-safedelete@0.4.4",
+        "pkg:pypi/django-safedelete@0.5.0",
+        "pkg:pypi/django-safedelete@0.5.3",
+        "pkg:pypi/django-safedelete@0.3.5",
+        "pkg:pypi/django-safedelete@0.4.2",
+        "pkg:pypi/django-safedelete@0.5.6",
+        "pkg:pypi/django-safedelete@0.4.0",
+        "pkg:pypi/django-safedelete@0.5.1.dev0",
+        "pkg:pypi/django-safedelete@0.5.2",
+        "pkg:pypi/django-safedelete@0.4.5",
+        "pkg:pypi/django-safedelete@0.5.5",
+        "pkg:pypi/django-safedelete@0.3.4",
+        "pkg:pypi/django-safedelete@0.4.3",
+        "pkg:pypi/django-safedelete@0.3.3",
+        "pkg:pypi/django-safedelete@0.4.1",
+        "pkg:pypi/django-safedelete@0.5.4",
+        "pkg:pypi/django-safedelete@0.5.1"
+    ]
+}

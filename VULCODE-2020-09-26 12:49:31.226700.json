@@ -1,0 +1,18 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:31.226700",
+    "summary": "Netviel 0.2 fixes security vulnerabilities. No details were provided.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38366"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/netviel@0.1.1",
+        "pkg:pypi/netviel@0.1",
+        "pkg:pypi/netviel@0.1.2"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/netviel@0.2"
+    ]
+}

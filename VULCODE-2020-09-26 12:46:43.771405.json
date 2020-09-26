@@ -1,0 +1,54 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:46:43.771405",
+    "summary": "django-haystack 1.1 removes insecure use of ``eval`` from the Whoosh backend.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25764"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/django-haystack@1.0.1-final",
+        "pkg:pypi/django-haystack@1.0.0-final",
+        "pkg:pypi/django-haystack@1.0.0-rc1",
+        "pkg:pypi/django-haystack@1.0.0b",
+        "pkg:pypi/django-haystack@1.0.2-final"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/django-haystack@2.5.dev2",
+        "pkg:pypi/django-haystack@2.5.1",
+        "pkg:pypi/django-haystack@2.3.1",
+        "pkg:pypi/django-haystack@2.4.0rc2",
+        "pkg:pypi/django-haystack@2.3.2",
+        "pkg:pypi/django-haystack@2.5.0",
+        "pkg:pypi/django-haystack@3.0b2",
+        "pkg:pypi/django-haystack@3.0",
+        "pkg:pypi/django-haystack@1.2.3",
+        "pkg:pypi/django-haystack@2.5.dev1",
+        "pkg:pypi/django-haystack@2.3.0",
+        "pkg:pypi/django-haystack@2.4.0rc1",
+        "pkg:pypi/django-haystack@2.7.0",
+        "pkg:pypi/django-haystack@2.7.dev0",
+        "pkg:pypi/django-haystack@2.6.0",
+        "pkg:pypi/django-haystack@2.1.0",
+        "pkg:pypi/django-haystack@2.8.1",
+        "pkg:pypi/django-haystack@2.5.dev0",
+        "pkg:pypi/django-haystack@1.2.1",
+        "pkg:pypi/django-haystack@2.4.0",
+        "pkg:pypi/django-haystack@2.6.1",
+        "pkg:pypi/django-haystack@1.2.4",
+        "pkg:pypi/django-haystack@1.2.0",
+        "pkg:pypi/django-haystack@2.2.0",
+        "pkg:pypi/django-haystack@2.4.1",
+        "pkg:pypi/django-haystack@3.0b1",
+        "pkg:pypi/django-haystack@2.8.0",
+        "pkg:pypi/django-haystack@1.1.0",
+        "pkg:pypi/django-haystack@1.2.7",
+        "pkg:pypi/django-haystack@1.2.5",
+        "pkg:pypi/django-haystack@2.7.dev1",
+        "pkg:pypi/django-haystack@1.2.2",
+        "pkg:pypi/django-haystack@1.2.6",
+        "pkg:pypi/django-haystack@2.2.1",
+        "pkg:pypi/django-haystack@2.0.0"
+    ]
+}

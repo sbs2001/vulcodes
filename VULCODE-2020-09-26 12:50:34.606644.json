@@ -1,0 +1,19 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:50:34.606644",
+    "summary": "pokedex.py 1.1.2 updates `requests` package to `>=2.20.0,<3.0.0` to fix information exposure vulnerability",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36593"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/pokedex.py@1.1.1",
+        "pkg:pypi/pokedex.py@1.0.1",
+        "pkg:pypi/pokedex.py@1.1.0",
+        "pkg:pypi/pokedex.py@1.0.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/pokedex.py@1.1.2"
+    ]
+}

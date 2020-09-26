@@ -1,0 +1,16 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:45.591661",
+    "summary": "Osc 0.123 is the first release that performs SSL certificate checks to prevent man-in-the-middle-attacks. Python-m2crypto is needed to make this work. Certificate checks can be turned off per server via 'sslcertck = 0' in .oscrc.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37874"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/osc@0.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/osc@0.167.2"
+    ]
+}

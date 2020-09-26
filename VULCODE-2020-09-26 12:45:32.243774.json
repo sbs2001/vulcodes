@@ -1,0 +1,34 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:32.243774",
+    "summary": "Directory-client-core 5.1.1 upgrades a vulnerable Django version to Django 1.11.22.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38689"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/directory-client-core@5.1.0",
+        "pkg:pypi/directory-client-core@5.0.0",
+        "pkg:pypi/directory-client-core@4.2.0",
+        "pkg:pypi/directory-client-core@0.1.0",
+        "pkg:pypi/directory-client-core@4.4.0",
+        "pkg:pypi/directory-client-core@0.2.0",
+        "pkg:pypi/directory-client-core@4.0.2",
+        "pkg:pypi/directory-client-core@0.3.0",
+        "pkg:pypi/directory-client-core@0.2.2",
+        "pkg:pypi/directory-client-core@4.3.0",
+        "pkg:pypi/directory-client-core@0.3.1",
+        "pkg:pypi/directory-client-core@4.3.1",
+        "pkg:pypi/directory-client-core@4.0.1",
+        "pkg:pypi/directory-client-core@0.0.1",
+        "pkg:pypi/directory-client-core@0.2.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/directory-client-core@5.1.1",
+        "pkg:pypi/directory-client-core@6.0.1",
+        "pkg:pypi/directory-client-core@6.1.0",
+        "pkg:pypi/directory-client-core@6.0.0",
+        "pkg:pypi/directory-client-core@6.2.0"
+    ]
+}

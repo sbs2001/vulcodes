@@ -1,0 +1,42 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:42.343873",
+    "summary": "knowledge-repo 0.8.0 removed two security vulnerabilities associated with arbitrary code execution from code stored in knowledge repositories on both clients and servers via knowledge repository configuration and embedded tooling.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36510"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/knowledge-repo@0.7.6",
+        "pkg:pypi/knowledge-repo@0.7.3",
+        "pkg:pypi/knowledge-repo@0.6.6",
+        "pkg:pypi/knowledge-repo@0.6.9",
+        "pkg:pypi/knowledge-repo@0.6.11",
+        "pkg:pypi/knowledge-repo@0.6.10",
+        "pkg:pypi/knowledge-repo@0.7.2",
+        "pkg:pypi/knowledge-repo@0.6.1",
+        "pkg:pypi/knowledge-repo@0.6.2",
+        "pkg:pypi/knowledge-repo@0.6.8",
+        "pkg:pypi/knowledge-repo@0.6.3",
+        "pkg:pypi/knowledge-repo@0.7.0",
+        "pkg:pypi/knowledge-repo@0.6.5",
+        "pkg:pypi/knowledge-repo@0.6.7",
+        "pkg:pypi/knowledge-repo@0.6.4",
+        "pkg:pypi/knowledge-repo@0.7.1",
+        "pkg:pypi/knowledge-repo@0.7.5",
+        "pkg:pypi/knowledge-repo@0.7.4"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/knowledge-repo@0.8.3",
+        "pkg:pypi/knowledge-repo@0.8.5",
+        "pkg:pypi/knowledge-repo@0.8.4",
+        "pkg:pypi/knowledge-repo@0.8.0",
+        "pkg:pypi/knowledge-repo@0.8.7",
+        "pkg:pypi/knowledge-repo@0.8.1",
+        "pkg:pypi/knowledge-repo@0.8.9",
+        "pkg:pypi/knowledge-repo@0.8.8",
+        "pkg:pypi/knowledge-repo@0.8.6",
+        "pkg:pypi/knowledge-repo@0.8.2"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:52:08.799726",
+    "summary": "Scapy 2.4.2 addresses a Malicious Radius Attribute DoS vulnerability. See: <https://github.com/secdev/scapy/security/advisories/GHSA-q5wg-mj9r-hp59>.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37341"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/scapy@2.4.0",
+        "pkg:pypi/scapy@2.4.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/scapy@2.4.3",
+        "pkg:pypi/scapy@2.4.4rc2",
+        "pkg:pypi/scapy@2.2.0-dev",
+        "pkg:pypi/scapy@2.4.3rc3",
+        "pkg:pypi/scapy@2.3.1",
+        "pkg:pypi/scapy@2.4.3rc2",
+        "pkg:pypi/scapy@2.4.0rc4",
+        "pkg:pypi/scapy@2.3.3",
+        "pkg:pypi/scapy@2.4.4",
+        "pkg:pypi/scapy@2.3.2",
+        "pkg:pypi/scapy@2.4rc2",
+        "pkg:pypi/scapy@2.4.3rc1",
+        "pkg:pypi/scapy@2.4.4rc1",
+        "pkg:pypi/scapy@2.4.3rc4",
+        "pkg:pypi/scapy@2.4.2",
+        "pkg:pypi/scapy@2.4.0rc3",
+        "pkg:pypi/scapy@2.4.0rc5"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:44:51.375715",
+    "summary": "bodhi-server 2.2.0 addresses CVE-2016-1000008 by disallowing the re-use of solved captchas. Additionally, the captcha is\\r\\nwarped to make it more difficult to solve through automation.\\r\\n\\r\\n- https://github.com/fedora-infra/bodhi/pull/857\\r\\n- https://github.com/fedora-infra/bodhi/commit/f0122855",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-34241"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/bodhi-server@2.9.0",
+        "pkg:pypi/bodhi-server@2.3.3",
+        "pkg:pypi/bodhi-server@5.1.0",
+        "pkg:pypi/bodhi-server@5.2.0",
+        "pkg:pypi/bodhi-server@5.0.0",
+        "pkg:pypi/bodhi-server@3.10.0",
+        "pkg:pypi/bodhi-server@3.3.0",
+        "pkg:pypi/bodhi-server@5.4.0",
+        "pkg:pypi/bodhi-server@3.11.0",
+        "pkg:pypi/bodhi-server@2.4.0",
+        "pkg:pypi/bodhi-server@5.5",
+        "pkg:pypi/bodhi-server@3.14.0",
+        "pkg:pypi/bodhi-server@4.1.0",
+        "pkg:pypi/bodhi-server@4.0.1",
+        "pkg:pypi/bodhi-server@2.7.0",
+        "pkg:pypi/bodhi-server@4.0.0",
+        "pkg:pypi/bodhi-server@5.4.1",
+        "pkg:pypi/bodhi-server@3.13.0",
+        "pkg:pypi/bodhi-server@4.1.1",
+        "pkg:pypi/bodhi-server@2.5.0"
+    ]
+}

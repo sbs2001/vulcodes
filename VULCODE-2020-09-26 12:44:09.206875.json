@@ -1,0 +1,29 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:44:09.206875",
+    "summary": "aioli 0.16.3 fixes StaticRoute vulnerability to directory traversal attacks.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37007"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/aioli@0.3.0",
+        "pkg:pypi/aioli@0.3.2",
+        "pkg:pypi/aioli@0.5.1",
+        "pkg:pypi/aioli@0.0.1.dev12",
+        "pkg:pypi/aioli@0.5.0",
+        "pkg:pypi/aioli@0.4.3",
+        "pkg:pypi/aioli@0.4.1",
+        "pkg:pypi/aioli@0.4.0",
+        "pkg:pypi/aioli@0.4.6",
+        "pkg:pypi/aioli@0.0.2",
+        "pkg:pypi/aioli@0.2.2",
+        "pkg:pypi/aioli@0.0.3",
+        "pkg:pypi/aioli@0.2.1",
+        "pkg:pypi/aioli@0.0.4",
+        "pkg:pypi/aioli@0.4.5",
+        "pkg:pypi/aioli@0.3.1"
+    ],
+    "resolved_packages": []
+}

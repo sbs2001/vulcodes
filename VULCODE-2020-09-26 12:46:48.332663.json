@@ -1,0 +1,14 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:46:48.332663",
+    "summary": "django-material-orange before 0.9.0 has a XSS vulnerability in input fields.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-32207"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/django-material-orange@0.11.6"
+    ]
+}

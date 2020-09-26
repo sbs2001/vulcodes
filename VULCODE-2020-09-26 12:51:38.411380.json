@@ -1,0 +1,29 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:38.411380",
+    "summary": "pyxmlsecurity 0.9 protects against wrapping attacks.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-26096"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/pyxmlsecurity@0.8",
+        "pkg:pypi/pyxmlsecurity@0.7"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/pyxmlsecurity@0.18",
+        "pkg:pypi/pyxmlsecurity@0.21",
+        "pkg:pypi/pyxmlsecurity@0.16",
+        "pkg:pypi/pyxmlsecurity@0.12",
+        "pkg:pypi/pyxmlsecurity@0.20",
+        "pkg:pypi/pyxmlsecurity@0.15",
+        "pkg:pypi/pyxmlsecurity@0.11",
+        "pkg:pypi/pyxmlsecurity@0.17",
+        "pkg:pypi/pyxmlsecurity@0.19",
+        "pkg:pypi/pyxmlsecurity@0.9",
+        "pkg:pypi/pyxmlsecurity@0.14",
+        "pkg:pypi/pyxmlsecurity@0.13",
+        "pkg:pypi/pyxmlsecurity@0.10.0"
+    ]
+}

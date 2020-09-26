@@ -1,0 +1,17 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:16.598497",
+    "summary": "Monoshape 1.2 updates Pillow version for security.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37605"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/monoshape@1.1",
+        "pkg:pypi/monoshape@1.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/monoshape@1.2"
+    ]
+}

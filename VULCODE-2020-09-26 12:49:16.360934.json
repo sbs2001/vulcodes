@@ -1,0 +1,29 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:16.360934",
+    "summary": "moin 1.9.10 includes a security fix for CVE-2017-5934, XSS in GUI editor related code, as well as CVE-2016-7146 and CVE-2016-9119.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36478"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/moin@1.8.7",
+        "pkg:pypi/moin@1.8.4",
+        "pkg:pypi/moin@1.9.5",
+        "pkg:pypi/moin@1.9.6",
+        "pkg:pypi/moin@1.9.2",
+        "pkg:pypi/moin@1.9.7",
+        "pkg:pypi/moin@1.9.1",
+        "pkg:pypi/moin@1.8.6",
+        "pkg:pypi/moin@1.9.0",
+        "pkg:pypi/moin@1.8.5",
+        "pkg:pypi/moin@1.9.4",
+        "pkg:pypi/moin@1.9.3",
+        "pkg:pypi/moin@1.9.9",
+        "pkg:pypi/moin@1.9.8"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/moin@1.9.10"
+    ]
+}

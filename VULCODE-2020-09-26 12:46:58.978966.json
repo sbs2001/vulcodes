@@ -1,0 +1,23 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:46:58.978966",
+    "summary": "django-sticky-uploads 0.2.0 fixes a security issue related to client changing the upload url specified by the widget for the upload.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25793"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/django-sticky-uploads@0.1.0",
+        "pkg:pypi/django-sticky-uploads@0.0.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/django-sticky-uploads@0.4.0",
+        "pkg:pypi/django-sticky-uploads@1.0.0",
+        "pkg:pypi/django-sticky-uploads@0.2.0",
+        "pkg:pypi/django-sticky-uploads@0.6.0",
+        "pkg:pypi/django-sticky-uploads@0.6.1",
+        "pkg:pypi/django-sticky-uploads@0.5.0",
+        "pkg:pypi/django-sticky-uploads@0.3.0"
+    ]
+}

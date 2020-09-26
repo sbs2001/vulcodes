@@ -1,0 +1,47 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:53:59.736202",
+    "summary": "Wirepas-backend-client 1.2.0rc2 hides credentials when printing to stdout - see https://github.com/wirepas/backend-client/issues/48",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37522"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/wirepas-backend-client@1.1.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/wirepas-backend-client@1.3.2rc1",
+        "pkg:pypi/wirepas-backend-client@1.2.2rc3",
+        "pkg:pypi/wirepas-backend-client@1.3.0",
+        "pkg:pypi/wirepas-backend-client@1.3.7",
+        "pkg:pypi/wirepas-backend-client@1.3.5rc6",
+        "pkg:pypi/wirepas-backend-client@1.3.7rc1",
+        "pkg:pypi/wirepas-backend-client@1.2.2",
+        "pkg:pypi/wirepas-backend-client@1.3.6",
+        "pkg:pypi/wirepas-backend-client@1.3.6rc1",
+        "pkg:pypi/wirepas-backend-client@1.3.5rc7",
+        "pkg:pypi/wirepas-backend-client@1.3.3rc1",
+        "pkg:pypi/wirepas-backend-client@1.3.7rc2",
+        "pkg:pypi/wirepas-backend-client@1.3.6rc3",
+        "pkg:pypi/wirepas-backend-client@1.2.2rc1",
+        "pkg:pypi/wirepas-backend-client@1.2.0rc3",
+        "pkg:pypi/wirepas-backend-client@1.2.1",
+        "pkg:pypi/wirepas-backend-client@1.3.5rc3",
+        "pkg:pypi/wirepas-backend-client@1.2.0",
+        "pkg:pypi/wirepas-backend-client@1.3.4rc4",
+        "pkg:pypi/wirepas-backend-client@1.2.0rc2",
+        "pkg:pypi/wirepas-backend-client@1.2.2rc2",
+        "pkg:pypi/wirepas-backend-client@1.3.6rc4",
+        "pkg:pypi/wirepas-backend-client@1.2.3",
+        "pkg:pypi/wirepas-backend-client@1.3.6rc2",
+        "pkg:pypi/wirepas-backend-client@1.3.5",
+        "pkg:pypi/wirepas-backend-client@1.3.3rc2",
+        "pkg:pypi/wirepas-backend-client@1.3.7rc3",
+        "pkg:pypi/wirepas-backend-client@1.3.2",
+        "pkg:pypi/wirepas-backend-client@1.3.1",
+        "pkg:pypi/wirepas-backend-client@1.3.5rc9",
+        "pkg:pypi/wirepas-backend-client@1.3.6rc5",
+        "pkg:pypi/wirepas-backend-client@1.2.4"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:47:54.474279",
+    "summary": "Grafana-dashboard-builder 0.6.0a1 fixes a pyyaml security issue.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38648"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/grafana-dashboard-builder@0.3.0a2",
+        "pkg:pypi/grafana-dashboard-builder@0.3.0a6",
+        "pkg:pypi/grafana-dashboard-builder@0.1.0a14",
+        "pkg:pypi/grafana-dashboard-builder@0.3.0a3",
+        "pkg:pypi/grafana-dashboard-builder@0.5.0a1",
+        "pkg:pypi/grafana-dashboard-builder@0.4.0a3",
+        "pkg:pypi/grafana-dashboard-builder@0.2.0a3",
+        "pkg:pypi/grafana-dashboard-builder@0.1.0a10",
+        "pkg:pypi/grafana-dashboard-builder@0.1.0a6",
+        "pkg:pypi/grafana-dashboard-builder@0.1.0a11",
+        "pkg:pypi/grafana-dashboard-builder@0.1.0a16",
+        "pkg:pypi/grafana-dashboard-builder@0.3.0a1",
+        "pkg:pypi/grafana-dashboard-builder@0.1.0a1",
+        "pkg:pypi/grafana-dashboard-builder@0.3.0a5",
+        "pkg:pypi/grafana-dashboard-builder@0.1.0a12",
+        "pkg:pypi/grafana-dashboard-builder@0.1.0a3",
+        "pkg:pypi/grafana-dashboard-builder@0.1.0a8",
+        "pkg:pypi/grafana-dashboard-builder@0.2.0a1",
+        "pkg:pypi/grafana-dashboard-builder@0.1.0a5",
+        "pkg:pypi/grafana-dashboard-builder@0.4.0a1",
+        "pkg:pypi/grafana-dashboard-builder@0.1.0a7",
+        "pkg:pypi/grafana-dashboard-builder@0.3.0a4",
+        "pkg:pypi/grafana-dashboard-builder@0.5.0a2",
+        "pkg:pypi/grafana-dashboard-builder@0.1.0a13",
+        "pkg:pypi/grafana-dashboard-builder@0.1.0a15",
+        "pkg:pypi/grafana-dashboard-builder@0.1.0a9",
+        "pkg:pypi/grafana-dashboard-builder@0.4.0a2",
+        "pkg:pypi/grafana-dashboard-builder@0.1.0a4",
+        "pkg:pypi/grafana-dashboard-builder@0.2.0a2",
+        "pkg:pypi/grafana-dashboard-builder@0.1.0a2"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/grafana-dashboard-builder@0.7.0a1",
+        "pkg:pypi/grafana-dashboard-builder@0.6.0a1"
+    ]
+}

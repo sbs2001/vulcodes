@@ -1,0 +1,40 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:45:28.823273",
+    "summary": "datacube 1.6.2 is a Patch release to build a new Docker container, to resolve an upstream security bug.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36835"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/datacube@1.1.12.post1",
+        "pkg:pypi/datacube@1.5.4",
+        "pkg:pypi/datacube@1.6rc1",
+        "pkg:pypi/datacube@1.1.13",
+        "pkg:pypi/datacube@1.1.12",
+        "pkg:pypi/datacube@1.1.15",
+        "pkg:pypi/datacube@1.6.1",
+        "pkg:pypi/datacube@1.1.16",
+        "pkg:pypi/datacube@1.6.0",
+        "pkg:pypi/datacube@1.1.17",
+        "pkg:pypi/datacube@1.6rc2",
+        "pkg:pypi/datacube@1.1.14",
+        "pkg:pypi/datacube@1.2.2",
+        "pkg:pypi/datacube@1.5.2",
+        "pkg:pypi/datacube@1.3.0",
+        "pkg:pypi/datacube@1.3.2"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/datacube@1.8.3",
+        "pkg:pypi/datacube@1.8.1",
+        "pkg:pypi/datacube@1.8.0",
+        "pkg:pypi/datacube@1.7rc1",
+        "pkg:pypi/datacube@1.8.0b5",
+        "pkg:pypi/datacube@1.8.2",
+        "pkg:pypi/datacube@1.8.0rc1",
+        "pkg:pypi/datacube@1.7",
+        "pkg:pypi/datacube@1.8.0b6",
+        "pkg:pypi/datacube@1.6.2"
+    ]
+}

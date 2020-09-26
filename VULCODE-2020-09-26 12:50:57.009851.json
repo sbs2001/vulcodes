@@ -1,0 +1,43 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:50:57.009851",
+    "summary": "pylons before 1.0.1RC1 is vulnerable to timing attacks on secure cookies.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-26044"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/pylons@0.9.1",
+        "pkg:pypi/pylons@0.9.6rc1",
+        "pkg:pypi/pylons@0.8.2",
+        "pkg:pypi/pylons@0.9.7",
+        "pkg:pypi/pylons@0.9",
+        "pkg:pypi/pylons@0.9.6rc3",
+        "pkg:pypi/pylons@0.9.7rc4",
+        "pkg:pypi/pylons@0.9.7rc6",
+        "pkg:pypi/pylons@0.8.1",
+        "pkg:pypi/pylons@0.9.7rc5",
+        "pkg:pypi/pylons@1.0",
+        "pkg:pypi/pylons@0.9.5",
+        "pkg:pypi/pylons@0.9.6.2",
+        "pkg:pypi/pylons@0.8",
+        "pkg:pypi/pylons@0.9.7rc1",
+        "pkg:pypi/pylons@0.9.2",
+        "pkg:pypi/pylons@0.9.6rc2",
+        "pkg:pypi/pylons@0.9.4",
+        "pkg:pypi/pylons@0.10rc1",
+        "pkg:pypi/pylons@0.9.7rc3",
+        "pkg:pypi/pylons@0.10",
+        "pkg:pypi/pylons@0.9.6",
+        "pkg:pypi/pylons@0.9.3",
+        "pkg:pypi/pylons@0.9.6.1",
+        "pkg:pypi/pylons@0.9.7rc2",
+        "pkg:pypi/pylons@0.9.4.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/pylons@1.0.3",
+        "pkg:pypi/pylons@1.0.1",
+        "pkg:pypi/pylons@1.0.1rc1"
+    ]
+}

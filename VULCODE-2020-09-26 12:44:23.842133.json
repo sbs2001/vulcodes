@@ -1,0 +1,45 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:44:23.842133",
+    "summary": "appdaemontestframework 2.3.3 update dependencies to fix security vulnerability",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37907"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/appdaemontestframework@2.0.1",
+        "pkg:pypi/appdaemontestframework@1.2",
+        "pkg:pypi/appdaemontestframework@1.1.0",
+        "pkg:pypi/appdaemontestframework@2.3.0",
+        "pkg:pypi/appdaemontestframework@1.2.3",
+        "pkg:pypi/appdaemontestframework@2.0.0",
+        "pkg:pypi/appdaemontestframework@1.2.1",
+        "pkg:pypi/appdaemontestframework@2.1.1",
+        "pkg:pypi/appdaemontestframework@2.1.0",
+        "pkg:pypi/appdaemontestframework@1.2.5",
+        "pkg:pypi/appdaemontestframework@1.2.4",
+        "pkg:pypi/appdaemontestframework@2.3.1",
+        "pkg:pypi/appdaemontestframework@2.3.2",
+        "pkg:pypi/appdaemontestframework@1.0.0",
+        "pkg:pypi/appdaemontestframework@2.0.2",
+        "pkg:pypi/appdaemontestframework@1.1.1",
+        "pkg:pypi/appdaemontestframework@2.2.0",
+        "pkg:pypi/appdaemontestframework@1.2.2"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/appdaemontestframework@2.5.0",
+        "pkg:pypi/appdaemontestframework@3.0.4",
+        "pkg:pypi/appdaemontestframework@3.0.0",
+        "pkg:pypi/appdaemontestframework@2.3.3",
+        "pkg:pypi/appdaemontestframework@2.6.1",
+        "pkg:pypi/appdaemontestframework@2.8.0",
+        "pkg:pypi/appdaemontestframework@2.7.0",
+        "pkg:pypi/appdaemontestframework@2.4.0",
+        "pkg:pypi/appdaemontestframework@3.0.5",
+        "pkg:pypi/appdaemontestframework@2.5.1",
+        "pkg:pypi/appdaemontestframework@2.6.0",
+        "pkg:pypi/appdaemontestframework@3.0.1",
+        "pkg:pypi/appdaemontestframework@4.0.0b0"
+    ]
+}

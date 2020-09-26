@@ -1,0 +1,14 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:14.975736",
+    "summary": "httpsig-cffi 1.0.0 removed suport for reading keyfiles from disk as this is a huge security hole if this is used in a server framework like drf-httpsig.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25850"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/httpsig-cffi@15.0.0"
+    ]
+}

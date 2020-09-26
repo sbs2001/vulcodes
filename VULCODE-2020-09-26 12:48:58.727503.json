@@ -1,0 +1,20 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:58.727503",
+    "summary": "martypy 1.2 requests security issues in `requests` and `urllib3` dependencies",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36739"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/martypy@1.1",
+        "pkg:pypi/martypy@1.0",
+        "pkg:pypi/martypy@0.1.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/martypy@1.2.post1",
+        "pkg:pypi/martypy@1.3",
+        "pkg:pypi/martypy@1.2"
+    ]
+}

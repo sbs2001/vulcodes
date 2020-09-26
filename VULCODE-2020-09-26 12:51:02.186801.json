@@ -1,0 +1,25 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:02.186801",
+    "summary": "Pynps 1.2.0 removes support for search after updating database for security reasons.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37724"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/pynps@1.4.1",
+        "pkg:pypi/pynps@1.6.2",
+        "pkg:pypi/pynps@1.4.0",
+        "pkg:pypi/pynps@1.6.0",
+        "pkg:pypi/pynps@1.6.1",
+        "pkg:pypi/pynps@1.4.3",
+        "pkg:pypi/pynps@1.2.1",
+        "pkg:pypi/pynps@1.3.0",
+        "pkg:pypi/pynps@1.4.2",
+        "pkg:pypi/pynps@1.2.0",
+        "pkg:pypi/pynps@1.3.1",
+        "pkg:pypi/pynps@1.6.2.post2"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:52:30.566169",
+    "summary": "soappy before 0.12.6 allows remote attackers to read arbitrary files via a SOAP request containing an external entity declaration in conjunction with an entity reference, related to an XML External Entity (XXE) issue.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-26137"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/soappy@0.12.3",
+        "pkg:pypi/soappy@0.12.1",
+        "pkg:pypi/soappy@0.12.5",
+        "pkg:pypi/soappy@0.12.4"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/soappy@0.12.6",
+        "pkg:pypi/soappy@0.12.22",
+        "pkg:pypi/soappy@0.12.18",
+        "pkg:pypi/soappy@0.12.20",
+        "pkg:pypi/soappy@0.12.21"
+    ]
+}

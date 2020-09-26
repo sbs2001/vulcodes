@@ -1,0 +1,38 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:52:37.970165",
+    "summary": "starcluster before 0.95.3 opens up the VPC to the internet by default which is a security risk and it requires a special VPC configuration (internet gateway attached to the VPC and a route to the gateway with dest CIDR block 0.0.0.0/0 associated with the VPC subnet).  Configuring this automatically (which does not happen currently) would be a security risk and without this configuration StarCluster cannot connect to the VPC nodes even though they've been assigned a public IP.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-26142"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/starcluster@0.92",
+        "pkg:pypi/starcluster@0.92rc2",
+        "pkg:pypi/starcluster@0.94",
+        "pkg:pypi/starcluster@0.93.2",
+        "pkg:pypi/starcluster@0.94.3",
+        "pkg:pypi/starcluster@0.94.2",
+        "pkg:pypi/starcluster@0.95",
+        "pkg:pypi/starcluster@0.95.1",
+        "pkg:pypi/starcluster@0.93.1",
+        "pkg:pypi/starcluster@0.92rc1",
+        "pkg:pypi/starcluster@0.93",
+        "pkg:pypi/starcluster@0.91.1",
+        "pkg:pypi/starcluster@0.93.3",
+        "pkg:pypi/starcluster@0.92.1",
+        "pkg:pypi/starcluster@0.95.2",
+        "pkg:pypi/starcluster@0.91.2",
+        "pkg:pypi/starcluster@0.90",
+        "pkg:pypi/starcluster@0.91",
+        "pkg:pypi/starcluster@0.94.1",
+        "pkg:pypi/starcluster@0.90.1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/starcluster@0.95.3",
+        "pkg:pypi/starcluster@0.95.5",
+        "pkg:pypi/starcluster@0.95.4",
+        "pkg:pypi/starcluster@0.95.6"
+    ]
+}

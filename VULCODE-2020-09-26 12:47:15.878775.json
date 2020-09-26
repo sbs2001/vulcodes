@@ -1,0 +1,36 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:47:15.878775",
+    "summary": "dpaste 2.8 fixes a XSS bug where HTML tags were not properly escaped with the simple  ``code`` lexer.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25807"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/dpaste@2.3",
+        "pkg:pypi/dpaste@2.2",
+        "pkg:pypi/dpaste@2.7",
+        "pkg:pypi/dpaste@2.0",
+        "pkg:pypi/dpaste@2.1",
+        "pkg:pypi/dpaste@2.5",
+        "pkg:pypi/dpaste@2.4",
+        "pkg:pypi/dpaste@2.6"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/dpaste@2.11",
+        "pkg:pypi/dpaste@2.13a0",
+        "pkg:pypi/dpaste@2.9",
+        "pkg:pypi/dpaste@2.8",
+        "pkg:pypi/dpaste@3.3.1",
+        "pkg:pypi/dpaste@2.10",
+        "pkg:pypi/dpaste@3.5",
+        "pkg:pypi/dpaste@3.2",
+        "pkg:pypi/dpaste@2.13",
+        "pkg:pypi/dpaste@2.12",
+        "pkg:pypi/dpaste@3.3",
+        "pkg:pypi/dpaste@3.1",
+        "pkg:pypi/dpaste@3.4",
+        "pkg:pypi/dpaste@3.0"
+    ]
+}

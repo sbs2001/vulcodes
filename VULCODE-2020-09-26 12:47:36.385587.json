@@ -1,0 +1,60 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:47:36.385587",
+    "summary": "In foolscap before 0.7.0 the \"flappserver\" feature was found to have a vulnerability in the service-lookup code which, when combined with an attacker who has the ability to write files to a location where the flappserver process could read them, would allow that attacker to obtain control of the flappserver process.\r\n\r\nUsers who run flappservers should upgrade to 0.7.0, where this was fixed as part of 226.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25828"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/foolscap@0.5.1",
+        "pkg:pypi/foolscap@0.6.0",
+        "pkg:pypi/foolscap@0.4.2",
+        "pkg:pypi/foolscap@0.2.3",
+        "pkg:pypi/foolscap@0.1.7",
+        "pkg:pypi/foolscap@0.2.1",
+        "pkg:pypi/foolscap@0.6.1",
+        "pkg:pypi/foolscap@0.2.2",
+        "pkg:pypi/foolscap@0.5.0",
+        "pkg:pypi/foolscap@0.2.0",
+        "pkg:pypi/foolscap@0.3.0",
+        "pkg:pypi/foolscap@0.1.5",
+        "pkg:pypi/foolscap@0.6.4",
+        "pkg:pypi/foolscap@0.2.5",
+        "pkg:pypi/foolscap@0.2.4",
+        "pkg:pypi/foolscap@0.6.5",
+        "pkg:pypi/foolscap@0.3.1",
+        "pkg:pypi/foolscap@0.4.1",
+        "pkg:pypi/foolscap@0.1.6",
+        "pkg:pypi/foolscap@0.2.8",
+        "pkg:pypi/foolscap@0.2.7",
+        "pkg:pypi/foolscap@0.6.2",
+        "pkg:pypi/foolscap@0.4.0",
+        "pkg:pypi/foolscap@0.3.2",
+        "pkg:pypi/foolscap@0.2.9",
+        "pkg:pypi/foolscap@0.6.3",
+        "pkg:pypi/foolscap@0.2.6"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/foolscap@0.9.1",
+        "pkg:pypi/foolscap@0.10.0",
+        "pkg:pypi/foolscap@0.9.0",
+        "pkg:pypi/foolscap@0.12.1",
+        "pkg:pypi/foolscap@0.12.0",
+        "pkg:pypi/foolscap@20.4.0",
+        "pkg:pypi/foolscap@0.11.0",
+        "pkg:pypi/foolscap@0.7.0",
+        "pkg:pypi/foolscap@0.12.4",
+        "pkg:pypi/foolscap@0.12.6",
+        "pkg:pypi/foolscap@0.12.2",
+        "pkg:pypi/foolscap@0.10.1",
+        "pkg:pypi/foolscap@0.13.0",
+        "pkg:pypi/foolscap@0.12.7",
+        "pkg:pypi/foolscap@0.13.1",
+        "pkg:pypi/foolscap@0.8.0",
+        "pkg:pypi/foolscap@0.12.5",
+        "pkg:pypi/foolscap@0.13.2",
+        "pkg:pypi/foolscap@0.12.3"
+    ]
+}

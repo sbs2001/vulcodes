@@ -1,0 +1,59 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:21.403046",
+    "summary": "python-openflow 2019.1b3 change: Updated dependencies versions in order to fix security bugs.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37224"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/python-openflow@2017.2rc1",
+        "pkg:pypi/python-openflow@1.1.0b1.dev0",
+        "pkg:pypi/python-openflow@2017.1",
+        "pkg:pypi/python-openflow@2018.2b3",
+        "pkg:pypi/python-openflow@2017.1b1",
+        "pkg:pypi/python-openflow@2017.1b1.post1",
+        "pkg:pypi/python-openflow@1.1.0b0.post1",
+        "pkg:pypi/python-openflow@1.1.0b0",
+        "pkg:pypi/python-openflow@2018.1b1",
+        "pkg:pypi/python-openflow@2017.1b1.dev1",
+        "pkg:pypi/python-openflow@1.1.0a2.post2",
+        "pkg:pypi/python-openflow@2018.1b3",
+        "pkg:pypi/python-openflow@2018.1b2",
+        "pkg:pypi/python-openflow@1.1.0a2.post1",
+        "pkg:pypi/python-openflow@2018.1",
+        "pkg:pypi/python-openflow@2019.1b2",
+        "pkg:pypi/python-openflow@2018.2",
+        "pkg:pypi/python-openflow@0.1",
+        "pkg:pypi/python-openflow@2018.1rc1",
+        "pkg:pypi/python-openflow@2018.2rc1",
+        "pkg:pypi/python-openflow@2018.2b2",
+        "pkg:pypi/python-openflow@2017.2",
+        "pkg:pypi/python-openflow@2017.1b3",
+        "pkg:pypi/python-openflow@2017.1b2",
+        "pkg:pypi/python-openflow@1.1.0a2",
+        "pkg:pypi/python-openflow@2019.1b1",
+        "pkg:pypi/python-openflow@2017.2b1",
+        "pkg:pypi/python-openflow@2017.2b2",
+        "pkg:pypi/python-openflow@1.1.0a0",
+        "pkg:pypi/python-openflow@2018.2b1",
+        "pkg:pypi/python-openflow@2017.1rc1"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/python-openflow@2020.1",
+        "pkg:pypi/python-openflow@2019.2rc1",
+        "pkg:pypi/python-openflow@2019.2b1",
+        "pkg:pypi/python-openflow@2020.1b2",
+        "pkg:pypi/python-openflow@2019.2b2",
+        "pkg:pypi/python-openflow@2020.1b3",
+        "pkg:pypi/python-openflow@2020.2b1",
+        "pkg:pypi/python-openflow@2019.2b3",
+        "pkg:pypi/python-openflow@2020.1b1",
+        "pkg:pypi/python-openflow@2019.2",
+        "pkg:pypi/python-openflow@2019.1rc1",
+        "pkg:pypi/python-openflow@2020.1rc1",
+        "pkg:pypi/python-openflow@2019.1",
+        "pkg:pypi/python-openflow@2019.1b3"
+    ]
+}

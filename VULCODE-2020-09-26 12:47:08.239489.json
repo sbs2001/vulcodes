@@ -1,0 +1,54 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:47:08.239489",
+    "summary": "djoser 1.3.2 fixes vulnerability of user endpoints.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-36711"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/djoser@0.5.4",
+        "pkg:pypi/djoser@1.1.0",
+        "pkg:pypi/djoser@0.4.3",
+        "pkg:pypi/djoser@0.2.1",
+        "pkg:pypi/djoser@1.0.1",
+        "pkg:pypi/djoser@1.1.3",
+        "pkg:pypi/djoser@1.1.1",
+        "pkg:pypi/djoser@1.1.5",
+        "pkg:pypi/djoser@0.2.0",
+        "pkg:pypi/djoser@1.2.2",
+        "pkg:pypi/djoser@0.6.0",
+        "pkg:pypi/djoser@0.5.3",
+        "pkg:pypi/djoser@1.1.2",
+        "pkg:pypi/djoser@0.5.1",
+        "pkg:pypi/djoser@0.5.2",
+        "pkg:pypi/djoser@0.0.1",
+        "pkg:pypi/djoser@0.3.1",
+        "pkg:pypi/djoser@0.4.0",
+        "pkg:pypi/djoser@0.3.2",
+        "pkg:pypi/djoser@1.1.4",
+        "pkg:pypi/djoser@0.3.0",
+        "pkg:pypi/djoser@0.0.3",
+        "pkg:pypi/djoser@0.4.2",
+        "pkg:pypi/djoser@0.4.1",
+        "pkg:pypi/djoser@0.1.0",
+        "pkg:pypi/djoser@0.7.0",
+        "pkg:pypi/djoser@0.0.2",
+        "pkg:pypi/djoser@1.0.0",
+        "pkg:pypi/djoser@0.5.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/djoser@1.5.1",
+        "pkg:pypi/djoser@2.0.4",
+        "pkg:pypi/djoser@1.3.3",
+        "pkg:pypi/djoser@2.0.2",
+        "pkg:pypi/djoser@2.0.3",
+        "pkg:pypi/djoser@1.4.1",
+        "pkg:pypi/djoser@2.0.0",
+        "pkg:pypi/djoser@1.6.0",
+        "pkg:pypi/djoser@2.0.1",
+        "pkg:pypi/djoser@1.7.0",
+        "pkg:pypi/djoser@2.0.5"
+    ]
+}

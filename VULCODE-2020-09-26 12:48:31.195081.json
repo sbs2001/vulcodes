@@ -1,0 +1,16 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:31.195081",
+    "summary": "Kako 1.1.0 updates a few dependencies to resolve dependabot complaints around security issues in `pyyaml`, `requests` and to resolve exceptions raised by `cerberus` when an incorrect simulation is provided.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38720"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/kako@1.0.0"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/kako@1.1.0"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:53:51.112559",
+    "summary": "web.py  0.39 fixes a security issue in the form module and the db module.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-35782"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/web.py@0.22",
+        "pkg:pypi/web.py@0.38",
+        "pkg:pypi/web.py@0.30",
+        "pkg:pypi/web.py@0.31",
+        "pkg:pypi/web.py@0.37",
+        "pkg:pypi/web.py@0.32",
+        "pkg:pypi/web.py@0.36",
+        "pkg:pypi/web.py@0.33",
+        "pkg:pypi/web.py@0.2",
+        "pkg:pypi/web.py@0.3",
+        "pkg:pypi/web.py@0.34",
+        "pkg:pypi/web.py@0.23",
+        "pkg:pypi/web.py@0.35"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/web.py@0.51",
+        "pkg:pypi/web.py@0.40.dev1",
+        "pkg:pypi/web.py@0.40.dev0",
+        "pkg:pypi/web.py@0.40",
+        "pkg:pypi/web.py@0.61",
+        "pkg:pypi/web.py@0.39",
+        "pkg:pypi/web.py@0.60"
+    ]
+}

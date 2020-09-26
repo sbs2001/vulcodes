@@ -1,0 +1,29 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:51:45.199505",
+    "summary": "Ramlwrap 2.2.2 updates PyYAML to a more secure version.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-38298"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/ramlwrap@2.2.0",
+        "pkg:pypi/ramlwrap@2.1.1",
+        "pkg:pypi/ramlwrap@1.0.1rc5",
+        "pkg:pypi/ramlwrap@2.0.0",
+        "pkg:pypi/ramlwrap@1.0.1rc2",
+        "pkg:pypi/ramlwrap@1.0.1rc3",
+        "pkg:pypi/ramlwrap@2.1.1.1",
+        "pkg:pypi/ramlwrap@1.1.0",
+        "pkg:pypi/ramlwrap@2.1.0rc1",
+        "pkg:pypi/ramlwrap@1.0.1rc1",
+        "pkg:pypi/ramlwrap@1.0.1rc4"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/ramlwrap@2.3.1",
+        "pkg:pypi/ramlwrap@2.3.2",
+        "pkg:pypi/ramlwrap@2.3.0",
+        "pkg:pypi/ramlwrap@2.3.3"
+    ]
+}

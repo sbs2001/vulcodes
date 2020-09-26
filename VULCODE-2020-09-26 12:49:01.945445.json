@@ -1,0 +1,18 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:49:01.945445",
+    "summary": "In mgp2pdf before 0.10 `%filter`` is enabled by default which is a security risk.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-25889"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/mgp2pdf@0.9"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/mgp2pdf@0.10.1",
+        "pkg:pypi/mgp2pdf@0.10",
+        "pkg:pypi/mgp2pdf@0.10.2"
+    ]
+}

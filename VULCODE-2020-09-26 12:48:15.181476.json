@@ -1,0 +1,17 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:48:15.181476",
+    "summary": "hydroshare before 1.9.5 has multiple - undisclosed - security issues.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-34264"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/hydroshare@1.7.0",
+        "pkg:pypi/hydroshare@1.7.5"
+    ],
+    "resolved_packages": [
+        "pkg:pypi/hydroshare@1.9.6"
+    ]
+}

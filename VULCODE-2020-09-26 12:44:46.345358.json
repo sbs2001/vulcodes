@@ -1,0 +1,17 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:44:46.345358",
+    "summary": "Berglas 0.2.0 no longer trusts the environment variables.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-37340"
+        }
+    ],
+    "vulnerable_packages": [
+        "pkg:pypi/berglas@0.1.0a2",
+        "pkg:pypi/berglas@0.1.0",
+        "pkg:pypi/berglas@0.1.0a3",
+        "pkg:pypi/berglas@0.1.0a1"
+    ],
+    "resolved_packages": []
+}

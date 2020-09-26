@@ -1,0 +1,17 @@
+{
+    "identifier": "VULCODE-2020-09-26 12:52:45.392183",
+    "summary": "superset-tddv before 0.11.0 is vulnerable to a XSS attack on FAB list views.",
+    "references": [
+        {
+            "url": "",
+            "reference_id": "pyup.io-26149"
+        }
+    ],
+    "vulnerable_packages": [],
+    "resolved_packages": [
+        "pkg:pypi/superset-tddv@0.15.1",
+        "pkg:pypi/superset-tddv@0.15.0",
+        "pkg:pypi/superset-tddv@0.14.1",
+        "pkg:pypi/superset-tddv@0.15.2"
+    ]
+}
